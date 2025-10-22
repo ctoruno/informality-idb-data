@@ -1,0 +1,691 @@
+_id,name,country,isoalpha3,frequency,period,date,value
+1,"CPI (index, period average)",Argentina,ARG,Annual,1990,01/01/1990 12:00:00 AM,100.0
+2,"CPI (index, period average)",Argentina,ARG,Annual,1991,01/01/1991 12:00:00 AM,271.6716994434724
+3,"CPI (index, period average)",Argentina,ARG,Annual,1992,01/01/1992 12:00:00 AM,339.3178170631801
+4,"CPI (index, period average)",Argentina,ARG,Annual,1993,01/01/1993 12:00:00 AM,375.3245711305443
+5,"CPI (index, period average)",Argentina,ARG,Annual,1994,01/01/1994 12:00:00 AM,391.0031456029469
+6,"CPI (index, period average)",Argentina,ARG,Annual,1995,01/01/1995 12:00:00 AM,404.2037971158879
+7,"CPI (index, period average)",Argentina,ARG,Annual,1996,01/01/1996 12:00:00 AM,404.8330527690771
+8,"CPI (index, period average)",Argentina,ARG,Annual,1997,01/01/1997 12:00:00 AM,406.9729506525463
+9,"CPI (index, period average)",Argentina,ARG,Annual,1998,01/01/1998 12:00:00 AM,410.7360884918083
+10,"CPI (index, period average)",Argentina,ARG,Annual,1999,01/01/1999 12:00:00 AM,405.9441252138824
+11,"CPI (index, period average)",Argentina,ARG,Annual,2000,01/01/2000 12:00:00 AM,402.1318738812914
+12,"CPI (index, period average)",Argentina,ARG,Annual,2001,01/01/2001 12:00:00 AM,397.847144980526
+13,"CPI (index, period average)",Argentina,ARG,Annual,2002,01/01/2002 12:00:00 AM,500.7644175468816
+14,"CPI (index, period average)",Argentina,ARG,Annual,2003,01/01/2003 12:00:00 AM,568.0828963752072
+15,"CPI (index, period average)",Argentina,ARG,Annual,2004,01/01/2004 12:00:00 AM,593.1693576093019
+16,"CPI (index, period average)",Argentina,ARG,Annual,2005,01/01/2005 12:00:00 AM,650.3651090699273
+17,"CPI (index, period average)",Argentina,ARG,Annual,2006,01/01/2006 12:00:00 AM,722.0465991319696
+18,"CPI (index, period average)",Argentina,ARG,Annual,2007,01/01/2007 12:00:00 AM,847.7960296058551
+19,"CPI (index, period average)",Argentina,ARG,Annual,2008,01/01/2008 12:00:00 AM,1049.983949598831
+20,"CPI (index, period average)",Argentina,ARG,Annual,2009,01/01/2009 12:00:00 AM,1205.888067499637
+21,"CPI (index, period average)",Argentina,ARG,Annual,2010,01/01/2010 12:00:00 AM,1517.621772218975
+22,"CPI (index, period average)",Argentina,ARG,Annual,2011,01/01/2011 12:00:00 AM,1879.599363868642
+23,"CPI (index, period average)",Argentina,ARG,Annual,2012,01/01/2012 12:00:00 AM,2332.819123889602
+24,"CPI (index, period average)",Argentina,ARG,Annual,2013,01/01/2013 12:00:00 AM,2928.797630037513
+25,"CPI (index, period average)",Argentina,ARG,Annual,2014,01/01/2014 12:00:00 AM,4111.599821397084
+26,"CPI (index, period average)",Argentina,ARG,Annual,2015,01/01/2015 12:00:00 AM,5203.563425067754
+27,"CPI (index, period average)",Argentina,ARG,Annual,2016,01/01/2016 12:00:00 AM,7297.884412781017
+28,"CPI (index, period average)",Argentina,ARG,Annual,2017,01/01/2017 12:00:00 AM,9135.906318445574
+29,"CPI (index, period average)",Argentina,ARG,Annual,2018,01/01/2018 12:00:00 AM,12267.44136543844
+30,"CPI (index, period average)",Argentina,ARG,Annual,2019,01/01/2019 12:00:00 AM,18836.44820366723
+31,"CPI (index, period average)",Argentina,ARG,Annual,2020,01/01/2020 12:00:00 AM,26750.59976164655
+32,"CPI (index, period average)",Argentina,ARG,Annual,2021,01/01/2021 12:00:00 AM,39700.39888485943
+33,"CPI (index, period average)",Argentina,ARG,Annual,2022,01/01/2022 12:00:00 AM,68462.91463274261
+34,"CPI (index, period average)",Argentina,ARG,Annual,2023,01/01/2023 12:00:00 AM,159729.1686307813
+35,"CPI (index, period average)",Chile,CHL,Annual,1990,01/01/1990 12:00:00 AM,100.0
+36,"CPI (index, period average)",Chile,CHL,Annual,1991,01/01/1991 12:00:00 AM,121.7844199096036
+37,"CPI (index, period average)",Chile,CHL,Annual,1992,01/01/1992 12:00:00 AM,140.5706449491345
+38,"CPI (index, period average)",Chile,CHL,Annual,1993,01/01/1993 12:00:00 AM,158.4621412479185
+39,"CPI (index, period average)",Chile,CHL,Annual,1994,01/01/1994 12:00:00 AM,176.5951611323342
+40,"CPI (index, period average)",Chile,CHL,Annual,1995,01/01/1995 12:00:00 AM,191.133593607881
+41,"CPI (index, period average)",Chile,CHL,Annual,1996,01/01/1996 12:00:00 AM,205.1993339210501
+42,"CPI (index, period average)",Chile,CHL,Annual,1997,01/01/1997 12:00:00 AM,217.7859871541917
+43,"CPI (index, period average)",Chile,CHL,Annual,1998,01/01/1998 12:00:00 AM,228.9153827854974
+44,"CPI (index, period average)",Chile,CHL,Annual,1999,01/01/1999 12:00:00 AM,236.5540209618963
+45,"CPI (index, period average)",Chile,CHL,Annual,2000,01/01/2000 12:00:00 AM,245.6454388984509
+46,"CPI (index, period average)",Chile,CHL,Annual,2001,01/01/2001 12:00:00 AM,254.4127730433931
+47,"CPI (index, period average)",Chile,CHL,Annual,2002,01/01/2002 12:00:00 AM,260.7461203699816
+48,"CPI (index, period average)",Chile,CHL,Annual,2003,01/01/2003 12:00:00 AM,268.0735485495991
+49,"CPI (index, period average)",Chile,CHL,Annual,2004,01/01/2004 12:00:00 AM,270.9010257056099
+50,"CPI (index, period average)",Chile,CHL,Annual,2005,01/01/2005 12:00:00 AM,279.1704798287225
+51,"CPI (index, period average)",Chile,CHL,Annual,2006,01/01/2006 12:00:00 AM,288.6399955221583
+52,"CPI (index, period average)",Chile,CHL,Annual,2007,01/01/2007 12:00:00 AM,301.3626631963393
+53,"CPI (index, period average)",Chile,CHL,Annual,2008,01/01/2008 12:00:00 AM,327.6302422232484
+54,"CPI (index, period average)",Chile,CHL,Annual,2009,01/01/2009 12:00:00 AM,332.4881407161748
+55,"CPI (index, period average)",Chile,CHL,Annual,2010,01/01/2010 12:00:00 AM,337.555818004987
+56,"CPI (index, period average)",Chile,CHL,Annual,2011,01/01/2011 12:00:00 AM,348.829992577324
+57,"CPI (index, period average)",Chile,CHL,Annual,2012,01/01/2012 12:00:00 AM,359.3095328889025
+58,"CPI (index, period average)",Chile,CHL,Annual,2013,01/01/2013 12:00:00 AM,365.7677422445215
+59,"CPI (index, period average)",Chile,CHL,Annual,2014,01/01/2014 12:00:00 AM,383.0088977203723
+60,"CPI (index, period average)",Chile,CHL,Annual,2015,01/01/2015 12:00:00 AM,399.6721373702168
+61,"CPI (index, period average)",Chile,CHL,Annual,2016,01/01/2016 12:00:00 AM,414.7990841159283
+62,"CPI (index, period average)",Chile,CHL,Annual,2017,01/01/2017 12:00:00 AM,423.8482827581416
+63,"CPI (index, period average)",Chile,CHL,Annual,2018,01/01/2018 12:00:00 AM,434.1737121827852
+64,"CPI (index, period average)",Chile,CHL,Annual,2019,01/01/2019 12:00:00 AM,445.2745120073203
+65,"CPI (index, period average)",Chile,CHL,Annual,2020,01/01/2020 12:00:00 AM,458.8507179532486
+66,"CPI (index, period average)",Chile,CHL,Annual,2021,01/01/2021 12:00:00 AM,479.5978961068701
+67,"CPI (index, period average)",Chile,CHL,Annual,2022,01/01/2022 12:00:00 AM,535.4390127947163
+68,"CPI (index, period average)",Chile,CHL,Annual,2023,01/01/2023 12:00:00 AM,576.0327836064329
+69,"CPI (index, period average)",Mexico,MEX,Annual,1990,01/01/1990 12:00:00 AM,100.0
+70,"CPI (index, period average)",Mexico,MEX,Annual,1991,01/01/1991 12:00:00 AM,122.6623652786405
+71,"CPI (index, period average)",Mexico,MEX,Annual,1992,01/01/1992 12:00:00 AM,141.6847208436856
+72,"CPI (index, period average)",Mexico,MEX,Annual,1993,01/01/1993 12:00:00 AM,155.5010502497555
+73,"CPI (index, period average)",Mexico,MEX,Annual,1994,01/01/1994 12:00:00 AM,166.3329630213944
+74,"CPI (index, period average)",Mexico,MEX,Annual,1995,01/01/1995 12:00:00 AM,224.548274705405
+75,"CPI (index, period average)",Mexico,MEX,Annual,1996,01/01/1996 12:00:00 AM,301.7443434644397
+76,"CPI (index, period average)",Mexico,MEX,Annual,1997,01/01/1997 12:00:00 AM,363.9810080734039
+77,"CPI (index, period average)",Mexico,MEX,Annual,1998,01/01/1998 12:00:00 AM,421.9573311652948
+78,"CPI (index, period average)",Mexico,MEX,Annual,1999,01/01/1999 12:00:00 AM,491.9415673226765
+79,"CPI (index, period average)",Mexico,MEX,Annual,2000,01/01/2000 12:00:00 AM,538.6344959923856
+80,"CPI (index, period average)",Mexico,MEX,Annual,2001,01/01/2001 12:00:00 AM,572.9333223897528
+81,"CPI (index, period average)",Mexico,MEX,Annual,2002,01/01/2002 12:00:00 AM,601.7560654396976
+82,"CPI (index, period average)",Mexico,MEX,Annual,2003,01/01/2003 12:00:00 AM,629.1172995974258
+83,"CPI (index, period average)",Mexico,MEX,Annual,2004,01/01/2004 12:00:00 AM,658.612880026356
+84,"CPI (index, period average)",Mexico,MEX,Annual,2005,01/01/2005 12:00:00 AM,684.8787616941333
+85,"CPI (index, period average)",Mexico,MEX,Annual,2006,01/01/2006 12:00:00 AM,709.7361844908576
+86,"CPI (index, period average)",Mexico,MEX,Annual,2007,01/01/2007 12:00:00 AM,737.8903516930419
+87,"CPI (index, period average)",Mexico,MEX,Annual,2008,01/01/2008 12:00:00 AM,775.7070971253384
+88,"CPI (index, period average)",Mexico,MEX,Annual,2009,01/01/2009 12:00:00 AM,816.7990723160428
+89,"CPI (index, period average)",Mexico,MEX,Annual,2010,01/01/2010 12:00:00 AM,850.7511867287999
+90,"CPI (index, period average)",Mexico,MEX,Annual,2011,01/01/2011 12:00:00 AM,879.7395092543389
+91,"CPI (index, period average)",Mexico,MEX,Annual,2012,01/01/2012 12:00:00 AM,915.9100743561224
+92,"CPI (index, period average)",Mexico,MEX,Annual,2013,01/01/2013 12:00:00 AM,950.7731822182084
+93,"CPI (index, period average)",Mexico,MEX,Annual,2014,01/01/2014 12:00:00 AM,988.981116869976
+94,"CPI (index, period average)",Mexico,MEX,Annual,2015,01/01/2015 12:00:00 AM,1015.887745214566
+95,"CPI (index, period average)",Mexico,MEX,Annual,2016,01/01/2016 12:00:00 AM,1044.553128469827
+96,"CPI (index, period average)",Mexico,MEX,Annual,2017,01/01/2017 12:00:00 AM,1107.659344274463
+97,"CPI (index, period average)",Mexico,MEX,Annual,2018,01/01/2018 12:00:00 AM,1161.927463044569
+98,"CPI (index, period average)",Mexico,MEX,Annual,2019,01/01/2019 12:00:00 AM,1204.174694924575
+99,"CPI (index, period average)",Mexico,MEX,Annual,2020,01/01/2020 12:00:00 AM,1245.078512256069
+100,"CPI (index, period average)",Mexico,MEX,Annual,2021,01/01/2021 12:00:00 AM,1315.913624518625
+101,"CPI (index, period average)",Mexico,MEX,Annual,2022,01/01/2022 12:00:00 AM,1419.821798754634
+102,"CPI (index, period average)",Mexico,MEX,Annual,2023,01/01/2023 12:00:00 AM,1498.308992258157
+103,"CPI (index, period average)",Guatemala,GTM,Annual,1990,01/01/1990 12:00:00 AM,100.0
+104,"CPI (index, period average)",Guatemala,GTM,Annual,1991,01/01/1991 12:00:00 AM,135.0975787768397
+105,"CPI (index, period average)",Guatemala,GTM,Annual,1992,01/01/1992 12:00:00 AM,148.9304524338942
+106,"CPI (index, period average)",Guatemala,GTM,Annual,1993,01/01/1993 12:00:00 AM,168.8383728576519
+107,"CPI (index, period average)",Guatemala,GTM,Annual,1994,01/01/1994 12:00:00 AM,189.9579235133187
+108,"CPI (index, period average)",Guatemala,GTM,Annual,1995,01/01/1995 12:00:00 AM,205.957956481335
+109,"CPI (index, period average)",Guatemala,GTM,Annual,1996,01/01/1996 12:00:00 AM,228.7116955304842
+110,"CPI (index, period average)",Guatemala,GTM,Annual,1997,01/01/1997 12:00:00 AM,249.8378269673053
+111,"CPI (index, period average)",Guatemala,GTM,Annual,1998,01/01/1998 12:00:00 AM,266.3837670083214
+112,"CPI (index, period average)",Guatemala,GTM,Annual,1999,01/01/1999 12:00:00 AM,280.2852601886631
+113,"CPI (index, period average)",Guatemala,GTM,Annual,2000,01/01/2000 12:00:00 AM,297.0089197370505
+114,"CPI (index, period average)",Guatemala,GTM,Annual,2001,01/01/2001 12:00:00 AM,318.6274273230606
+115,"CPI (index, period average)",Guatemala,GTM,Annual,2002,01/01/2002 12:00:00 AM,344.5505857198168
+116,"CPI (index, period average)",Guatemala,GTM,Annual,2003,01/01/2003 12:00:00 AM,363.8508370960962
+117,"CPI (index, period average)",Guatemala,GTM,Annual,2004,01/01/2004 12:00:00 AM,391.4243586482527
+118,"CPI (index, period average)",Guatemala,GTM,Annual,2005,01/01/2005 12:00:00 AM,427.0910777083256
+119,"CPI (index, period average)",Guatemala,GTM,Annual,2006,01/01/2006 12:00:00 AM,455.1167359674947
+120,"CPI (index, period average)",Guatemala,GTM,Annual,2007,01/01/2007 12:00:00 AM,486.1472986294938
+121,"CPI (index, period average)",Guatemala,GTM,Annual,2008,01/01/2008 12:00:00 AM,541.4229699197678
+122,"CPI (index, period average)",Guatemala,GTM,Annual,2009,01/01/2009 12:00:00 AM,551.4684007217294
+123,"CPI (index, period average)",Guatemala,GTM,Annual,2010,01/01/2010 12:00:00 AM,572.7559920278619
+124,"CPI (index, period average)",Guatemala,GTM,Annual,2011,01/01/2011 12:00:00 AM,608.2535304846112
+125,"CPI (index, period average)",Guatemala,GTM,Annual,2012,01/01/2012 12:00:00 AM,631.3717756458482
+126,"CPI (index, period average)",Guatemala,GTM,Annual,2013,01/01/2013 12:00:00 AM,658.7945962263353
+127,"CPI (index, period average)",Guatemala,GTM,Annual,2014,01/01/2014 12:00:00 AM,681.3145783632025
+128,"CPI (index, period average)",Guatemala,GTM,Annual,2015,01/01/2015 12:00:00 AM,697.5892781968865
+129,"CPI (index, period average)",Guatemala,GTM,Annual,2016,01/01/2016 12:00:00 AM,728.6211326317054
+130,"CPI (index, period average)",Guatemala,GTM,Annual,2017,01/01/2017 12:00:00 AM,760.8592409693198
+131,"CPI (index, period average)",Guatemala,GTM,Annual,2018,01/01/2018 12:00:00 AM,789.4056286931367
+132,"CPI (index, period average)",Guatemala,GTM,Annual,2019,01/01/2019 12:00:00 AM,818.6135104926801
+133,"CPI (index, period average)",Guatemala,GTM,Annual,2020,01/01/2020 12:00:00 AM,844.9273557109198
+134,"CPI (index, period average)",Guatemala,GTM,Annual,2021,01/01/2021 12:00:00 AM,880.9301435677424
+135,"CPI (index, period average)",Guatemala,GTM,Annual,2022,01/01/2022 12:00:00 AM,941.5833135994336
+136,"CPI (index, period average)",Guatemala,GTM,Annual,2023,01/01/2023 12:00:00 AM,1000.023396833657
+137,"CPI (index, period average)",Colombia,COL,Annual,1990,01/01/1990 12:00:00 AM,100.0
+138,"CPI (index, period average)",Colombia,COL,Annual,1991,01/01/1991 12:00:00 AM,130.3728070175438
+139,"CPI (index, period average)",Colombia,COL,Annual,1992,01/01/1992 12:00:00 AM,165.5945419103314
+140,"CPI (index, period average)",Colombia,COL,Annual,1993,01/01/1993 12:00:00 AM,202.7534113060429
+141,"CPI (index, period average)",Colombia,COL,Annual,1994,01/01/1994 12:00:00 AM,249.0618908382066
+142,"CPI (index, period average)",Colombia,COL,Annual,1995,01/01/1995 12:00:00 AM,301.0843079922027
+143,"CPI (index, period average)",Colombia,COL,Annual,1996,01/01/1996 12:00:00 AM,363.7305068226121
+144,"CPI (index, period average)",Colombia,COL,Annual,1997,01/01/1997 12:00:00 AM,430.9088693957115
+145,"CPI (index, period average)",Colombia,COL,Annual,1998,01/01/1998 12:00:00 AM,511.3913255360624
+146,"CPI (index, period average)",Colombia,COL,Annual,1999,01/01/1999 12:00:00 AM,567.0077972709552
+147,"CPI (index, period average)",Colombia,COL,Annual,2000,01/01/2000 12:00:00 AM,619.2738791423002
+148,"CPI (index, period average)",Colombia,COL,Annual,2001,01/01/2001 12:00:00 AM,668.6403508771929
+149,"CPI (index, period average)",Colombia,COL,Annual,2002,01/01/2002 12:00:00 AM,711.0867446393762
+150,"CPI (index, period average)",Colombia,COL,Annual,2003,01/01/2003 12:00:00 AM,761.8055555555555
+151,"CPI (index, period average)",Colombia,COL,Annual,2004,01/01/2004 12:00:00 AM,806.7860623781677
+152,"CPI (index, period average)",Colombia,COL,Annual,2005,01/01/2005 12:00:00 AM,847.4902534113062
+153,"CPI (index, period average)",Colombia,COL,Annual,2006,01/01/2006 12:00:00 AM,883.9181286549708
+154,"CPI (index, period average)",Colombia,COL,Annual,2007,01/01/2007 12:00:00 AM,932.9191033138402
+155,"CPI (index, period average)",Colombia,COL,Annual,2008,01/01/2008 12:00:00 AM,998.2090643274856
+156,"CPI (index, period average)",Colombia,COL,Annual,2009,01/01/2009 12:00:00 AM,1040.155945419103
+157,"CPI (index, period average)",Colombia,COL,Annual,2010,01/01/2010 12:00:00 AM,1063.754873294347
+158,"CPI (index, period average)",Colombia,COL,Annual,2011,01/01/2011 12:00:00 AM,1100.09746588694
+159,"CPI (index, period average)",Colombia,COL,Annual,2012,01/01/2012 12:00:00 AM,1134.965886939571
+160,"CPI (index, period average)",Colombia,COL,Annual,2013,01/01/2013 12:00:00 AM,1157.87037037037
+161,"CPI (index, period average)",Colombia,COL,Annual,2014,01/01/2014 12:00:00 AM,1191.45955165692
+162,"CPI (index, period average)",Colombia,COL,Annual,2015,01/01/2015 12:00:00 AM,1250.877192982456
+163,"CPI (index, period average)",Colombia,COL,Annual,2016,01/01/2016 12:00:00 AM,1344.858674463938
+164,"CPI (index, period average)",Colombia,COL,Annual,2017,01/01/2017 12:00:00 AM,1402.899610136452
+165,"CPI (index, period average)",Colombia,COL,Annual,2018,01/01/2018 12:00:00 AM,1448.367446393762
+166,"CPI (index, period average)",Colombia,COL,Annual,2019,01/01/2019 12:00:00 AM,1499.354288499025
+167,"CPI (index, period average)",Colombia,COL,Annual,2020,01/01/2020 12:00:00 AM,1537.219785575049
+168,"CPI (index, period average)",Colombia,COL,Annual,2021,01/01/2021 12:00:00 AM,1590.960038986355
+169,"CPI (index, period average)",Colombia,COL,Annual,2022,01/01/2022 12:00:00 AM,1752.86306042885
+170,"CPI (index, period average)",Colombia,COL,Annual,2023,01/01/2023 12:00:00 AM,1958.58918128655
+171,"CPI (index, period average)",Paraguay,PRY,Annual,1990,01/01/1990 12:00:00 AM,100.0
+172,"CPI (index, period average)",Paraguay,PRY,Annual,1991,01/01/1991 12:00:00 AM,124.2707240293809
+173,"CPI (index, period average)",Paraguay,PRY,Annual,1992,01/01/1992 12:00:00 AM,143.0628424857176
+174,"CPI (index, period average)",Paraguay,PRY,Annual,1993,01/01/1993 12:00:00 AM,169.1815320041973
+175,"CPI (index, period average)",Paraguay,PRY,Annual,1994,01/01/1994 12:00:00 AM,204.0468695348024
+176,"CPI (index, period average)",Paraguay,PRY,Annual,1995,01/01/1995 12:00:00 AM,231.3726916256059
+177,"CPI (index, period average)",Paraguay,PRY,Annual,1996,01/01/1996 12:00:00 AM,254.041556993156
+178,"CPI (index, period average)",Paraguay,PRY,Annual,1997,01/01/1997 12:00:00 AM,271.69767999305
+179,"CPI (index, period average)",Paraguay,PRY,Annual,1998,01/01/1998 12:00:00 AM,303.0889518691914
+180,"CPI (index, period average)",Paraguay,PRY,Annual,1999,01/01/1999 12:00:00 AM,323.5508018617547
+181,"CPI (index, period average)",Paraguay,PRY,Annual,2000,01/01/2000 12:00:00 AM,352.6176639280696
+182,"CPI (index, period average)",Paraguay,PRY,Annual,2001,01/01/2001 12:00:00 AM,378.2448690535807
+183,"CPI (index, period average)",Paraguay,PRY,Annual,2002,01/01/2002 12:00:00 AM,417.9946246903102
+184,"CPI (index, period average)",Paraguay,PRY,Annual,2003,01/01/2003 12:00:00 AM,477.4666453801128
+185,"CPI (index, period average)",Paraguay,PRY,Annual,2004,01/01/2004 12:00:00 AM,498.1515447988716
+186,"CPI (index, period average)",Paraguay,PRY,Annual,2005,01/01/2005 12:00:00 AM,531.9963603631631
+187,"CPI (index, period average)",Paraguay,PRY,Annual,2006,01/01/2006 12:00:00 AM,583.0394606314737
+188,"CPI (index, period average)",Paraguay,PRY,Annual,2007,01/01/2007 12:00:00 AM,630.4433334197531
+189,"CPI (index, period average)",Paraguay,PRY,Annual,2008,01/01/2008 12:00:00 AM,694.4634962618899
+190,"CPI (index, period average)",Paraguay,PRY,Annual,2009,01/01/2009 12:00:00 AM,712.4636201741948
+191,"CPI (index, period average)",Paraguay,PRY,Annual,2010,01/01/2010 12:00:00 AM,745.6014629729946
+192,"CPI (index, period average)",Paraguay,PRY,Annual,2011,01/01/2011 12:00:00 AM,807.1431710279086
+193,"CPI (index, period average)",Paraguay,PRY,Annual,2012,01/01/2012 12:00:00 AM,836.8131000454385
+194,"CPI (index, period average)",Paraguay,PRY,Annual,2013,01/01/2013 12:00:00 AM,859.2719702479473
+195,"CPI (index, period average)",Paraguay,PRY,Annual,2014,01/01/2014 12:00:00 AM,902.4832768875784
+196,"CPI (index, period average)",Paraguay,PRY,Annual,2015,01/01/2015 12:00:00 AM,930.7220033922032
+197,"CPI (index, period average)",Paraguay,PRY,Annual,2016,01/01/2016 12:00:00 AM,968.7589624851778
+198,"CPI (index, period average)",Paraguay,PRY,Annual,2017,01/01/2017 12:00:00 AM,1003.658285299861
+199,"CPI (index, period average)",Paraguay,PRY,Annual,2018,01/01/2018 12:00:00 AM,1043.559826035898
+200,"CPI (index, period average)",Paraguay,PRY,Annual,2019,01/01/2019 12:00:00 AM,1072.331785569081
+201,"CPI (index, period average)",Paraguay,PRY,Annual,2020,01/01/2020 12:00:00 AM,1091.285420632483
+202,"CPI (index, period average)",Paraguay,PRY,Annual,2021,01/01/2021 12:00:00 AM,1143.53598215862
+203,"CPI (index, period average)",Paraguay,PRY,Annual,2022,01/01/2022 12:00:00 AM,1255.208750910559
+204,"CPI (index, period average)",Paraguay,PRY,Annual,2023,01/01/2023 12:00:00 AM,1313.350307118565
+205,"CPI (index, period average)",El Salvador,SLV,Annual,1993,01/01/1993 12:00:00 AM,100.0
+206,"CPI (index, period average)",El Salvador,SLV,Annual,1994,01/01/1994 12:00:00 AM,107.1725415204855
+207,"CPI (index, period average)",El Salvador,SLV,Annual,1995,01/01/1995 12:00:00 AM,117.5951997349916
+208,"CPI (index, period average)",El Salvador,SLV,Annual,1996,01/01/1996 12:00:00 AM,129.106500233388
+209,"CPI (index, period average)",El Salvador,SLV,Annual,1997,01/01/1997 12:00:00 AM,134.8079442277867
+210,"CPI (index, period average)",El Salvador,SLV,Annual,1998,01/01/1998 12:00:00 AM,138.3396323009049
+211,"CPI (index, period average)",El Salvador,SLV,Annual,1999,01/01/1999 12:00:00 AM,139.0518422597985
+212,"CPI (index, period average)",El Salvador,SLV,Annual,2000,01/01/2000 12:00:00 AM,142.2101094665201
+213,"CPI (index, period average)",El Salvador,SLV,Annual,2001,01/01/2001 12:00:00 AM,147.5441555117221
+214,"CPI (index, period average)",El Salvador,SLV,Annual,2002,01/01/2002 12:00:00 AM,150.2966286720973
+215,"CPI (index, period average)",El Salvador,SLV,Annual,2003,01/01/2003 12:00:00 AM,153.4835047355187
+216,"CPI (index, period average)",El Salvador,SLV,Annual,2004,01/01/2004 12:00:00 AM,160.3165042988572
+217,"CPI (index, period average)",El Salvador,SLV,Annual,2005,01/01/2005 12:00:00 AM,167.8368692876395
+218,"CPI (index, period average)",El Salvador,SLV,Annual,2006,01/01/2006 12:00:00 AM,174.6126511375785
+219,"CPI (index, period average)",El Salvador,SLV,Annual,2007,01/01/2007 12:00:00 AM,182.6073208558565
+220,"CPI (index, period average)",El Salvador,SLV,Annual,2008,01/01/2008 12:00:00 AM,195.8599972896873
+221,"CPI (index, period average)",El Salvador,SLV,Annual,2009,01/01/2009 12:00:00 AM,196.9064791531778
+222,"CPI (index, period average)",El Salvador,SLV,Annual,2010,01/01/2010 12:00:00 AM,198.7008471233042
+223,"CPI (index, period average)",El Salvador,SLV,Annual,2011,01/01/2011 12:00:00 AM,208.8920620962763
+224,"CPI (index, period average)",El Salvador,SLV,Annual,2012,01/01/2012 12:00:00 AM,212.505340821827
+225,"CPI (index, period average)",El Salvador,SLV,Annual,2013,01/01/2013 12:00:00 AM,214.1154283046993
+226,"CPI (index, period average)",El Salvador,SLV,Annual,2014,01/01/2014 12:00:00 AM,216.5592233448271
+227,"CPI (index, period average)",El Salvador,SLV,Annual,2015,01/01/2015 12:00:00 AM,214.9753427792751
+228,"CPI (index, period average)",El Salvador,SLV,Annual,2016,01/01/2016 12:00:00 AM,216.2742231189677
+229,"CPI (index, period average)",El Salvador,SLV,Annual,2017,01/01/2017 12:00:00 AM,218.467414512219
+230,"CPI (index, period average)",El Salvador,SLV,Annual,2018,01/01/2018 12:00:00 AM,220.8440543267132
+231,"CPI (index, period average)",El Salvador,SLV,Annual,2019,01/01/2019 12:00:00 AM,221.0078475599657
+232,"CPI (index, period average)",El Salvador,SLV,Annual,2020,01/01/2020 12:00:00 AM,220.1905193260356
+233,"CPI (index, period average)",El Salvador,SLV,Annual,2021,01/01/2021 12:00:00 AM,227.8265598602683
+234,"CPI (index, period average)",El Salvador,SLV,Annual,2022,01/01/2022 12:00:00 AM,244.2206245765136
+235,"CPI (index, period average)",El Salvador,SLV,Annual,2023,01/01/2023 12:00:00 AM,254.103908270971
+236,"CPI (index, period average)",Bahamas,BHS,Annual,1990,01/01/1990 12:00:00 AM,100.0
+237,"CPI (index, period average)",Bahamas,BHS,Annual,1991,01/01/1991 12:00:00 AM,117.4311926605504
+238,"CPI (index, period average)",Bahamas,BHS,Annual,1992,01/01/1992 12:00:00 AM,121.6313073394495
+239,"CPI (index, period average)",Bahamas,BHS,Annual,1993,01/01/1993 12:00:00 AM,128.4977064220183
+240,"CPI (index, period average)",Bahamas,BHS,Annual,1994,01/01/1994 12:00:00 AM,130.9919724770642
+241,"CPI (index, period average)",Bahamas,BHS,Annual,1995,01/01/1995 12:00:00 AM,131.6370412844036
+242,"CPI (index, period average)",Bahamas,BHS,Annual,1996,01/01/1996 12:00:00 AM,132.4684633027522
+243,"CPI (index, period average)",Bahamas,BHS,Annual,1997,01/01/1997 12:00:00 AM,133.4862385321101
+244,"CPI (index, period average)",Bahamas,BHS,Annual,1998,01/01/1998 12:00:00 AM,134.0022935779817
+245,"CPI (index, period average)",Bahamas,BHS,Annual,1999,01/01/1999 12:00:00 AM,135.0917431192661
+246,"CPI (index, period average)",Bahamas,BHS,Annual,2000,01/01/2000 12:00:00 AM,137.7006880733945
+247,"CPI (index, period average)",Bahamas,BHS,Annual,2001,01/01/2001 12:00:00 AM,139.2345183486239
+248,"CPI (index, period average)",Bahamas,BHS,Annual,2002,01/01/2002 12:00:00 AM,141.3990825688074
+249,"CPI (index, period average)",Bahamas,BHS,Annual,2003,01/01/2003 12:00:00 AM,143.2626146788991
+250,"CPI (index, period average)",Bahamas,BHS,Annual,2004,01/01/2004 12:00:00 AM,145.5848623853212
+251,"CPI (index, period average)",Bahamas,BHS,Annual,2005,01/01/2005 12:00:00 AM,149.4982798165138
+252,"CPI (index, period average)",Bahamas,BHS,Annual,2006,01/01/2006 12:00:00 AM,154.1857798165139
+253,"CPI (index, period average)",Bahamas,BHS,Annual,2007,01/01/2007 12:00:00 AM,157.9988532110093
+254,"CPI (index, period average)",Bahamas,BHS,Annual,2008,01/01/2008 12:00:00 AM,166.7431192660552
+255,"CPI (index, period average)",Bahamas,BHS,Annual,2009,01/01/2009 12:00:00 AM,168.9220183486241
+256,"CPI (index, period average)",Bahamas,BHS,Annual,2010,01/01/2010 12:00:00 AM,173.3658256880736
+257,"CPI (index, period average)",Bahamas,BHS,Annual,2011,01/01/2011 12:00:00 AM,179.0137614678901
+258,"CPI (index, period average)",Bahamas,BHS,Annual,2012,01/01/2012 12:00:00 AM,181.6370412844039
+259,"CPI (index, period average)",Bahamas,BHS,Annual,2013,01/01/2013 12:00:00 AM,179.2861238532113
+260,"CPI (index, period average)",Bahamas,BHS,Annual,2014,01/01/2014 12:00:00 AM,179.7592690736373
+261,"CPI (index, period average)",Bahamas,BHS,Annual,2015,01/01/2015 12:00:00 AM,183.135936075703
+262,"CPI (index, period average)",Bahamas,BHS,Annual,2016,01/01/2016 12:00:00 AM,182.5015954426167
+263,"CPI (index, period average)",Bahamas,BHS,Annual,2017,01/01/2017 12:00:00 AM,185.2693552803754
+264,"CPI (index, period average)",Bahamas,BHS,Annual,2018,01/01/2018 12:00:00 AM,189.4703658881736
+265,"CPI (index, period average)",Bahamas,BHS,Annual,2019,01/01/2019 12:00:00 AM,194.1905184763514
+266,"CPI (index, period average)",Bahamas,BHS,Annual,2020,01/01/2020 12:00:00 AM,194.2653227962908
+267,"CPI (index, period average)",Bahamas,BHS,Annual,2021,01/01/2021 12:00:00 AM,199.9115528653187
+268,"CPI (index, period average)",Bahamas,BHS,Annual,2022,01/01/2022 12:00:00 AM,211.1142478194472
+269,"CPI (index, period average)",Barbados,BRB,Annual,1990,01/01/1990 12:00:00 AM,100.0
+270,"CPI (index, period average)",Barbados,BRB,Annual,1991,01/01/1991 12:00:00 AM,106.2575364759182
+271,"CPI (index, period average)",Barbados,BRB,Annual,1992,01/01/1992 12:00:00 AM,112.7327570850169
+272,"CPI (index, period average)",Barbados,BRB,Annual,1993,01/01/1993 12:00:00 AM,113.9879633152351
+273,"CPI (index, period average)",Barbados,BRB,Annual,1994,01/01/1994 12:00:00 AM,114.1224950770819
+274,"CPI (index, period average)",Barbados,BRB,Annual,1995,01/01/1995 12:00:00 AM,115.6820931808589
+275,"CPI (index, period average)",Barbados,BRB,Annual,1996,01/01/1996 12:00:00 AM,118.4424440251809
+276,"CPI (index, period average)",Barbados,BRB,Annual,1997,01/01/1997 12:00:00 AM,127.5749946152091
+277,"CPI (index, period average)",Barbados,BRB,Annual,1998,01/01/1998 12:00:00 AM,125.9562125946406
+278,"CPI (index, period average)",Barbados,BRB,Annual,1999,01/01/1999 12:00:00 AM,127.9212081109376
+279,"CPI (index, period average)",Barbados,BRB,Annual,2000,01/01/2000 12:00:00 AM,131.0371295724944
+280,"CPI (index, period average)",Barbados,BRB,Annual,2001,01/01/2001 12:00:00 AM,134.7072171981329
+281,"CPI (index, period average)",Barbados,BRB,Annual,2002,01/01/2002 12:00:00 AM,134.9347823931631
+282,"CPI (index, period average)",Barbados,BRB,Annual,2003,01/01/2003 12:00:00 AM,137.0625169666956
+283,"CPI (index, period average)",Barbados,BRB,Annual,2004,01/01/2004 12:00:00 AM,139.0195776439554
+284,"CPI (index, period average)",Barbados,BRB,Annual,2005,01/01/2005 12:00:00 AM,147.4508681198247
+285,"CPI (index, period average)",Barbados,BRB,Annual,2006,01/01/2006 12:00:00 AM,158.2260801045052
+286,"CPI (index, period average)",Barbados,BRB,Annual,2007,01/01/2007 12:00:00 AM,164.6092838251025
+287,"CPI (index, period average)",Barbados,BRB,Annual,2008,01/01/2008 12:00:00 AM,177.9559825136243
+288,"CPI (index, period average)",Barbados,BRB,Annual,2009,01/01/2009 12:00:00 AM,184.4415905719853
+289,"CPI (index, period average)",Barbados,BRB,Annual,2010,01/01/2010 12:00:00 AM,195.1826677774111
+290,"CPI (index, period average)",Barbados,BRB,Annual,2011,01/01/2011 12:00:00 AM,213.5926920553552
+291,"CPI (index, period average)",Barbados,BRB,Annual,2012,01/01/2012 12:00:00 AM,223.2755911038907
+292,"CPI (index, period average)",Barbados,BRB,Annual,2013,01/01/2013 12:00:00 AM,227.3034950559254
+293,"CPI (index, period average)",Barbados,BRB,Annual,2014,01/01/2014 12:00:00 AM,231.0665470858994
+294,"CPI (index, period average)",Barbados,BRB,Annual,2015,01/01/2015 12:00:00 AM,228.4981308139432
+295,"CPI (index, period average)",Barbados,BRB,Annual,2016,01/01/2016 12:00:00 AM,231.9529916399375
+296,"CPI (index, period average)",Barbados,BRB,Annual,2017,01/01/2017 12:00:00 AM,242.2152920539925
+297,"CPI (index, period average)",Barbados,BRB,Annual,2018,01/01/2018 12:00:00 AM,249.7385128900914
+298,"CPI (index, period average)",Barbados,BRB,Annual,2019,01/01/2019 12:00:00 AM,253.736366464129
+299,"CPI (index, period average)",Barbados,BRB,Annual,2020,01/01/2020 12:00:00 AM,254.6935049713514
+300,"CPI (index, period average)",Barbados,BRB,Annual,2021,01/01/2021 12:00:00 AM,258.8375991674577
+301,"CPI (index, period average)",Barbados,BRB,Annual,2022,01/01/2022 12:00:00 AM,271.7642280177485
+302,"CPI (index, period average)",Panama,PAN,Annual,1991,01/01/1991 12:00:00 AM,100.0
+303,"CPI (index, period average)",Panama,PAN,Annual,1992,01/01/1992 12:00:00 AM,101.8263631551085
+304,"CPI (index, period average)",Panama,PAN,Annual,1993,01/01/1993 12:00:00 AM,102.2888746482405
+305,"CPI (index, period average)",Panama,PAN,Annual,1994,01/01/1994 12:00:00 AM,103.5844640717729
+306,"CPI (index, period average)",Panama,PAN,Annual,1995,01/01/1995 12:00:00 AM,104.6070045415285
+307,"CPI (index, period average)",Panama,PAN,Annual,1996,01/01/1996 12:00:00 AM,105.9276698893873
+308,"CPI (index, period average)",Panama,PAN,Annual,1997,01/01/1997 12:00:00 AM,107.2831629099217
+309,"CPI (index, period average)",Panama,PAN,Annual,1998,01/01/1998 12:00:00 AM,107.9309576216879
+310,"CPI (index, period average)",Panama,PAN,Annual,1999,01/01/1999 12:00:00 AM,109.2766988938731
+311,"CPI (index, period average)",Panama,PAN,Annual,2000,01/01/2000 12:00:00 AM,110.9163857234404
+312,"CPI (index, period average)",Panama,PAN,Annual,2001,01/01/2001 12:00:00 AM,111.2507313811262
+313,"CPI (index, period average)",Panama,PAN,Annual,2002,01/01/2002 12:00:00 AM,112.3666100136525
+314,"CPI (index, period average)",Panama,PAN,Annual,2003,01/01/2003 12:00:00 AM,112.9447493800674
+315,"CPI (index, period average)",Panama,PAN,Annual,2004,01/01/2004 12:00:00 AM,113.4797024323647
+316,"CPI (index, period average)",Panama,PAN,Annual,2005,01/01/2005 12:00:00 AM,116.7284277395447
+317,"CPI (index, period average)",Panama,PAN,Annual,2006,01/01/2006 12:00:00 AM,119.5954417542002
+318,"CPI (index, period average)",Panama,PAN,Annual,2007,01/01/2007 12:00:00 AM,124.5799782675323
+319,"CPI (index, period average)",Panama,PAN,Annual,2008,01/01/2008 12:00:00 AM,135.4921846702516
+320,"CPI (index, period average)",Panama,PAN,Annual,2009,01/01/2009 12:00:00 AM,138.7562341534089
+321,"CPI (index, period average)",Panama,PAN,Annual,2010,01/01/2010 12:00:00 AM,143.6014599760386
+322,"CPI (index, period average)",Panama,PAN,Annual,2011,01/01/2011 12:00:00 AM,152.0381154049762
+323,"CPI (index, period average)",Panama,PAN,Annual,2012,01/01/2012 12:00:00 AM,160.7004541528517
+324,"CPI (index, period average)",Panama,PAN,Annual,2013,01/01/2013 12:00:00 AM,167.1756150566995
+325,"CPI (index, period average)",Panama,PAN,Annual,2014,01/01/2014 12:00:00 AM,171.5652949207322
+326,"CPI (index, period average)",Panama,PAN,Annual,2015,01/01/2015 12:00:00 AM,171.7979437742053
+327,"CPI (index, period average)",Panama,PAN,Annual,2016,01/01/2016 12:00:00 AM,173.0656710595971
+328,"CPI (index, period average)",Panama,PAN,Annual,2017,01/01/2017 12:00:00 AM,174.5841575882534
+329,"CPI (index, period average)",Panama,PAN,Annual,2018,01/01/2018 12:00:00 AM,175.9145746844613
+330,"CPI (index, period average)",Panama,PAN,Annual,2019,01/01/2019 12:00:00 AM,175.2904627901145
+331,"CPI (index, period average)",Panama,PAN,Annual,2020,01/01/2020 12:00:00 AM,172.5711181076036
+332,"CPI (index, period average)",Panama,PAN,Annual,2021,01/01/2021 12:00:00 AM,175.3865871666992
+333,"CPI (index, period average)",Panama,PAN,Annual,2022,01/01/2022 12:00:00 AM,180.4045582457998
+334,"CPI (index, period average)",Panama,PAN,Annual,2023,01/01/2023 12:00:00 AM,182.9037920370009
+335,"CPI (index, period average)",Costa Rica,CRI,Annual,1990,01/01/1990 12:00:00 AM,100.0
+336,"CPI (index, period average)",Costa Rica,CRI,Annual,1991,01/01/1991 12:00:00 AM,128.7093363852691
+337,"CPI (index, period average)",Costa Rica,CRI,Annual,1992,01/01/1992 12:00:00 AM,156.752833764338
+338,"CPI (index, period average)",Costa Rica,CRI,Annual,1993,01/01/1993 12:00:00 AM,172.085586795474
+339,"CPI (index, period average)",Costa Rica,CRI,Annual,1994,01/01/1994 12:00:00 AM,195.3760624903702
+340,"CPI (index, period average)",Costa Rica,CRI,Annual,1995,01/01/1995 12:00:00 AM,240.6757209790703
+341,"CPI (index, period average)",Costa Rica,CRI,Annual,1996,01/01/1996 12:00:00 AM,282.8233585910332
+342,"CPI (index, period average)",Costa Rica,CRI,Annual,1997,01/01/1997 12:00:00 AM,320.2909537552202
+343,"CPI (index, period average)",Costa Rica,CRI,Annual,1998,01/01/1998 12:00:00 AM,357.6353272901484
+344,"CPI (index, period average)",Costa Rica,CRI,Annual,1999,01/01/1999 12:00:00 AM,393.560916321655
+345,"CPI (index, period average)",Costa Rica,CRI,Annual,2000,01/01/2000 12:00:00 AM,436.7000228341237
+346,"CPI (index, period average)",Costa Rica,CRI,Annual,2001,01/01/2001 12:00:00 AM,485.8548215809074
+347,"CPI (index, period average)",Costa Rica,CRI,Annual,2002,01/01/2002 12:00:00 AM,530.3930081701237
+348,"CPI (index, period average)",Costa Rica,CRI,Annual,2003,01/01/2003 12:00:00 AM,580.5028040485689
+349,"CPI (index, period average)",Costa Rica,CRI,Annual,2004,01/01/2004 12:00:00 AM,651.992486804491
+350,"CPI (index, period average)",Costa Rica,CRI,Annual,2005,01/01/2005 12:00:00 AM,741.9528161627359
+351,"CPI (index, period average)",Costa Rica,CRI,Annual,2006,01/01/2006 12:00:00 AM,827.0604937194147
+352,"CPI (index, period average)",Costa Rica,CRI,Annual,2007,01/01/2007 12:00:00 AM,904.4488208690174
+353,"CPI (index, period average)",Costa Rica,CRI,Annual,2008,01/01/2008 12:00:00 AM,1025.867935305403
+354,"CPI (index, period average)",Costa Rica,CRI,Annual,2009,01/01/2009 12:00:00 AM,1106.324227246981
+355,"CPI (index, period average)",Costa Rica,CRI,Annual,2010,01/01/2010 12:00:00 AM,1168.971528554257
+356,"CPI (index, period average)",Costa Rica,CRI,Annual,2011,01/01/2011 12:00:00 AM,1225.995703643884
+357,"CPI (index, period average)",Costa Rica,CRI,Annual,2012,01/01/2012 12:00:00 AM,1281.111053017249
+358,"CPI (index, period average)",Costa Rica,CRI,Annual,2013,01/01/2013 12:00:00 AM,1348.128391250389
+359,"CPI (index, period average)",Costa Rica,CRI,Annual,2014,01/01/2014 12:00:00 AM,1409.054984330352
+360,"CPI (index, period average)",Costa Rica,CRI,Annual,2015,01/01/2015 12:00:00 AM,1420.353588399642
+361,"CPI (index, period average)",Costa Rica,CRI,Annual,2016,01/01/2016 12:00:00 AM,1420.105423276814
+362,"CPI (index, period average)",Costa Rica,CRI,Annual,2017,01/01/2017 12:00:00 AM,1443.192408096223
+363,"CPI (index, period average)",Costa Rica,CRI,Annual,2018,01/01/2018 12:00:00 AM,1475.248572981209
+364,"CPI (index, period average)",Costa Rica,CRI,Annual,2019,01/01/2019 12:00:00 AM,1506.172684523507
+365,"CPI (index, period average)",Costa Rica,CRI,Annual,2020,01/01/2020 12:00:00 AM,1517.090056343161
+366,"CPI (index, period average)",Costa Rica,CRI,Annual,2021,01/01/2021 12:00:00 AM,1543.283751720934
+367,"CPI (index, period average)",Costa Rica,CRI,Annual,2022,01/01/2022 12:00:00 AM,1670.984731081199
+368,"CPI (index, period average)",Costa Rica,CRI,Annual,2023,01/01/2023 12:00:00 AM,1679.760498714369
+369,"CPI (index, period average)",Brazil,BRA,Annual,1990,01/01/1990 12:00:00 AM,100.0
+370,"CPI (index, period average)",Brazil,BRA,Annual,1991,01/01/1991 12:00:00 AM,532.7724704655958
+371,"CPI (index, period average)",Brazil,BRA,Annual,1992,01/01/1992 12:00:00 AM,5604.532598971165
+372,"CPI (index, period average)",Brazil,BRA,Annual,1993,01/01/1993 12:00:00 AM,113625.2198782458
+373,"CPI (index, period average)",Brazil,BRA,Annual,1994,01/01/1994 12:00:00 AM,2472288.107386166
+374,"CPI (index, period average)",Brazil,BRA,Annual,1995,01/01/1995 12:00:00 AM,4104197.020069174
+375,"CPI (index, period average)",Brazil,BRA,Annual,1996,01/01/1996 12:00:00 AM,4750913.242790234
+376,"CPI (index, period average)",Brazil,BRA,Annual,1997,01/01/1997 12:00:00 AM,5079950.038531044
+377,"CPI (index, period average)",Brazil,BRA,Annual,1998,01/01/1998 12:00:00 AM,5242316.817411456
+378,"CPI (index, period average)",Brazil,BRA,Annual,1999,01/01/1999 12:00:00 AM,5497014.927207165
+379,"CPI (index, period average)",Brazil,BRA,Annual,2000,01/01/2000 12:00:00 AM,5884220.489061621
+380,"CPI (index, period average)",Brazil,BRA,Annual,2001,01/01/2001 12:00:00 AM,6286728.909393044
+381,"CPI (index, period average)",Brazil,BRA,Annual,2002,01/01/2002 12:00:00 AM,6817956.161346115
+382,"CPI (index, period average)",Brazil,BRA,Annual,2003,01/01/2003 12:00:00 AM,7821181.491860745
+383,"CPI (index, period average)",Brazil,BRA,Annual,2004,01/01/2004 12:00:00 AM,8337223.0090983
+384,"CPI (index, period average)",Brazil,BRA,Annual,2005,01/01/2005 12:00:00 AM,8910005.352040546
+385,"CPI (index, period average)",Brazil,BRA,Annual,2006,01/01/2006 12:00:00 AM,9282774.53357046
+386,"CPI (index, period average)",Brazil,BRA,Annual,2007,01/01/2007 12:00:00 AM,9620793.370307272
+387,"CPI (index, period average)",Brazil,BRA,Annual,2008,01/01/2008 12:00:00 AM,10167090.71521199
+388,"CPI (index, period average)",Brazil,BRA,Annual,2009,01/01/2009 12:00:00 AM,10664068.60712774
+389,"CPI (index, period average)",Brazil,BRA,Annual,2010,01/01/2010 12:00:00 AM,11201436.53670597
+390,"CPI (index, period average)",Brazil,BRA,Annual,2011,01/01/2011 12:00:00 AM,11944804.58131428
+391,"CPI (index, period average)",Brazil,BRA,Annual,2012,01/01/2012 12:00:00 AM,12590257.95921815
+392,"CPI (index, period average)",Brazil,BRA,Annual,2013,01/01/2013 12:00:00 AM,13371385.15010703
+393,"CPI (index, period average)",Brazil,BRA,Annual,2014,01/01/2014 12:00:00 AM,14217684.88706483
+394,"CPI (index, period average)",Brazil,BRA,Annual,2015,01/01/2015 12:00:00 AM,15501563.18205274
+395,"CPI (index, period average)",Brazil,BRA,Annual,2016,01/01/2016 12:00:00 AM,16856330.17169949
+396,"CPI (index, period average)",Brazil,BRA,Annual,2017,01/01/2017 12:00:00 AM,17437251.06618169
+397,"CPI (index, period average)",Brazil,BRA,Annual,2018,01/01/2018 12:00:00 AM,18076269.90645876
+398,"CPI (index, period average)",Brazil,BRA,Annual,2019,01/01/2019 12:00:00 AM,18751064.34112904
+399,"CPI (index, period average)",Brazil,BRA,Annual,2020,01/01/2020 12:00:00 AM,19353271.8219201
+400,"CPI (index, period average)",Brazil,BRA,Annual,2021,01/01/2021 12:00:00 AM,20959897.94357472
+401,"CPI (index, period average)",Brazil,BRA,Annual,2022,01/01/2022 12:00:00 AM,22904963.13644083
+402,"CPI (index, period average)",Brazil,BRA,Annual,2023,01/01/2023 12:00:00 AM,23957109.46820862
+403,"CPI (index, period average)",Uruguay,URY,Annual,1990,01/01/1990 12:00:00 AM,100.0
+404,"CPI (index, period average)",Uruguay,URY,Annual,1991,01/01/1991 12:00:00 AM,201.9722207004006
+405,"CPI (index, period average)",Uruguay,URY,Annual,1992,01/01/1992 12:00:00 AM,340.2339886130279
+406,"CPI (index, period average)",Uruguay,URY,Annual,1993,01/01/1993 12:00:00 AM,524.2940877929904
+407,"CPI (index, period average)",Uruguay,URY,Annual,1994,01/01/1994 12:00:00 AM,758.8749931518028
+408,"CPI (index, period average)",Uruguay,URY,Annual,1995,01/01/1995 12:00:00 AM,1079.467267421664
+409,"CPI (index, period average)",Uruguay,URY,Annual,1996,01/01/1996 12:00:00 AM,1385.434139604496
+410,"CPI (index, period average)",Uruguay,URY,Annual,1997,01/01/1997 12:00:00 AM,1659.999129463143
+411,"CPI (index, period average)",Uruguay,URY,Annual,1998,01/01/1998 12:00:00 AM,1839.461330320327
+412,"CPI (index, period average)",Uruguay,URY,Annual,1999,01/01/1999 12:00:00 AM,1943.550708606333
+413,"CPI (index, period average)",Uruguay,URY,Annual,2000,01/01/2000 12:00:00 AM,2036.138057851164
+414,"CPI (index, period average)",Uruguay,URY,Annual,2001,01/01/2001 12:00:00 AM,2125.019788040005
+415,"CPI (index, period average)",Uruguay,URY,Annual,2002,01/01/2002 12:00:00 AM,2421.827920814967
+416,"CPI (index, period average)",Uruguay,URY,Annual,2003,01/01/2003 12:00:00 AM,2891.139925630077
+417,"CPI (index, period average)",Uruguay,URY,Annual,2004,01/01/2004 12:00:00 AM,3155.899102196779
+418,"CPI (index, period average)",Uruguay,URY,Annual,2005,01/01/2005 12:00:00 AM,3304.203555168778
+419,"CPI (index, period average)",Uruguay,URY,Annual,2006,01/01/2006 12:00:00 AM,3515.636349979919
+420,"CPI (index, period average)",Uruguay,URY,Annual,2007,01/01/2007 12:00:00 AM,3800.902608347513
+421,"CPI (index, period average)",Uruguay,URY,Annual,2008,01/01/2008 12:00:00 AM,4100.223257096747
+422,"CPI (index, period average)",Uruguay,URY,Annual,2009,01/01/2009 12:00:00 AM,4389.777275320418
+423,"CPI (index, period average)",Uruguay,URY,Annual,2010,01/01/2010 12:00:00 AM,4683.875923194226
+424,"CPI (index, period average)",Uruguay,URY,Annual,2011,01/01/2011 12:00:00 AM,5062.978311146732
+425,"CPI (index, period average)",Uruguay,URY,Annual,2012,01/01/2012 12:00:00 AM,5472.966437578604
+426,"CPI (index, period average)",Uruguay,URY,Annual,2013,01/01/2013 12:00:00 AM,5942.2807002978
+427,"CPI (index, period average)",Uruguay,URY,Annual,2014,01/01/2014 12:00:00 AM,6469.797954060202
+428,"CPI (index, period average)",Uruguay,URY,Annual,2015,01/01/2015 12:00:00 AM,7030.488104854123
+429,"CPI (index, period average)",Uruguay,URY,Annual,2016,01/01/2016 12:00:00 AM,7708.185922686671
+430,"CPI (index, period average)",Uruguay,URY,Annual,2017,01/01/2017 12:00:00 AM,8187.488155612456
+431,"CPI (index, period average)",Uruguay,URY,Annual,2018,01/01/2018 12:00:00 AM,8810.272193473844
+432,"CPI (index, period average)",Uruguay,URY,Annual,2019,01/01/2019 12:00:00 AM,9504.696852977662
+433,"CPI (index, period average)",Uruguay,URY,Annual,2020,01/01/2020 12:00:00 AM,10432.01370131461
+434,"CPI (index, period average)",Uruguay,URY,Annual,2021,01/01/2021 12:00:00 AM,11240.27715377545
+435,"CPI (index, period average)",Uruguay,URY,Annual,2022,01/01/2022 12:00:00 AM,12263.63467988468
+436,"CPI (index, period average)",Peru,PER,Annual,1991,01/01/1991 12:00:00 AM,100.0
+437,"CPI (index, period average)",Peru,PER,Annual,1992,01/01/1992 12:00:00 AM,173.5286246905682
+438,"CPI (index, period average)",Peru,PER,Annual,1993,01/01/1993 12:00:00 AM,257.8284984312215
+439,"CPI (index, period average)",Peru,PER,Annual,1994,01/01/1994 12:00:00 AM,319.0228800662239
+440,"CPI (index, period average)",Peru,PER,Annual,1995,01/01/1995 12:00:00 AM,354.5317340117392
+441,"CPI (index, period average)",Peru,PER,Annual,1996,01/01/1996 12:00:00 AM,395.476786515537
+442,"CPI (index, period average)",Peru,PER,Annual,1997,01/01/1997 12:00:00 AM,429.276978920856
+443,"CPI (index, period average)",Peru,PER,Annual,1998,01/01/1998 12:00:00 AM,460.420850227986
+444,"CPI (index, period average)",Peru,PER,Annual,1999,01/01/1999 12:00:00 AM,476.3943293232077
+445,"CPI (index, period average)",Peru,PER,Annual,2000,01/01/2000 12:00:00 AM,494.2998106276215
+446,"CPI (index, period average)",Peru,PER,Annual,2001,01/01/2001 12:00:00 AM,504.0641642045327
+447,"CPI (index, period average)",Peru,PER,Annual,2002,01/01/2002 12:00:00 AM,505.0314604105111
+448,"CPI (index, period average)",Peru,PER,Annual,2003,01/01/2003 12:00:00 AM,516.4513579207496
+449,"CPI (index, period average)",Peru,PER,Annual,2004,01/01/2004 12:00:00 AM,535.361460693732
+450,"CPI (index, period average)",Peru,PER,Annual,2005,01/01/2005 12:00:00 AM,544.0219953137736
+451,"CPI (index, period average)",Peru,PER,Annual,2006,01/01/2006 12:00:00 AM,554.9099510721117
+452,"CPI (index, period average)",Peru,PER,Annual,2007,01/01/2007 12:00:00 AM,564.7800376073777
+453,"CPI (index, period average)",Peru,PER,Annual,2008,01/01/2008 12:00:00 AM,597.4688331495988
+454,"CPI (index, period average)",Peru,PER,Annual,2009,01/01/2009 12:00:00 AM,615.0066030375025
+455,"CPI (index, period average)",Peru,PER,Annual,2010,01/01/2010 12:00:00 AM,624.4132969681489
+456,"CPI (index, period average)",Peru,PER,Annual,2011,01/01/2011 12:00:00 AM,645.45393632842
+457,"CPI (index, period average)",Peru,PER,Annual,2012,01/01/2012 12:00:00 AM,669.0479492958826
+458,"CPI (index, period average)",Peru,PER,Annual,2013,01/01/2013 12:00:00 AM,687.81867004511
+459,"CPI (index, period average)",Peru,PER,Annual,2014,01/01/2014 12:00:00 AM,710.1466586342324
+460,"CPI (index, period average)",Peru,PER,Annual,2015,01/01/2015 12:00:00 AM,735.3415880869691
+461,"CPI (index, period average)",Peru,PER,Annual,2016,01/01/2016 12:00:00 AM,761.7630282617121
+462,"CPI (index, period average)",Peru,PER,Annual,2017,01/01/2017 12:00:00 AM,783.1215824672222
+463,"CPI (index, period average)",Peru,PER,Annual,2018,01/01/2018 12:00:00 AM,793.4330269459181
+464,"CPI (index, period average)",Peru,PER,Annual,2019,01/01/2019 12:00:00 AM,810.3795330835469
+465,"CPI (index, period average)",Peru,PER,Annual,2020,01/01/2020 12:00:00 AM,825.1876197868913
+466,"CPI (index, period average)",Peru,PER,Annual,2021,01/01/2021 12:00:00 AM,858.0219556141634
+467,"CPI (index, period average)",Peru,PER,Annual,2022,01/01/2022 12:00:00 AM,925.6103700966636
+468,"CPI (index, period average)",Peru,PER,Annual,2023,01/01/2023 12:00:00 AM,983.5937566989684
+469,"CPI (index, period average)",Ecuador,ECU,Annual,1990,01/01/1990 12:00:00 AM,100.0
+470,"CPI (index, period average)",Ecuador,ECU,Annual,1991,01/01/1991 12:00:00 AM,148.7180806752192
+471,"CPI (index, period average)",Ecuador,ECU,Annual,1992,01/01/1992 12:00:00 AM,229.9297847224881
+472,"CPI (index, period average)",Ecuador,ECU,Annual,1993,01/01/1993 12:00:00 AM,333.2948430529332
+473,"CPI (index, period average)",Ecuador,ECU,Annual,1994,01/01/1994 12:00:00 AM,424.3206036647828
+474,"CPI (index, period average)",Ecuador,ECU,Annual,1995,01/01/1995 12:00:00 AM,521.6348612580223
+475,"CPI (index, period average)",Ecuador,ECU,Annual,1996,01/01/1996 12:00:00 AM,648.9735426655981
+476,"CPI (index, period average)",Ecuador,ECU,Annual,1997,01/01/1997 12:00:00 AM,847.9330450341166
+477,"CPI (index, period average)",Ecuador,ECU,Annual,1998,01/01/1998 12:00:00 AM,1154.023588557563
+478,"CPI (index, period average)",Ecuador,ECU,Annual,1999,01/01/1999 12:00:00 AM,1756.908651537419
+479,"CPI (index, period average)",Ecuador,ECU,Annual,2000,01/01/2000 12:00:00 AM,3445.234189894782
+480,"CPI (index, period average)",Ecuador,ECU,Annual,2001,01/01/2001 12:00:00 AM,4743.286305840146
+481,"CPI (index, period average)",Ecuador,ECU,Annual,2002,01/01/2002 12:00:00 AM,5335.41910063968
+482,"CPI (index, period average)",Ecuador,ECU,Annual,2003,01/01/2003 12:00:00 AM,5758.483948719328
+483,"CPI (index, period average)",Ecuador,ECU,Annual,2004,01/01/2004 12:00:00 AM,5916.452522497407
+484,"CPI (index, period average)",Ecuador,ECU,Annual,2005,01/01/2005 12:00:00 AM,6044.737602458981
+485,"CPI (index, period average)",Ecuador,ECU,Annual,2006,01/01/2006 12:00:00 AM,6244.138291187225
+486,"CPI (index, period average)",Ecuador,ECU,Annual,2007,01/01/2007 12:00:00 AM,6386.266416614705
+487,"CPI (index, period average)",Ecuador,ECU,Annual,2008,01/01/2008 12:00:00 AM,6922.718922586331
+488,"CPI (index, period average)",Ecuador,ECU,Annual,2009,01/01/2009 12:00:00 AM,7279.929023922949
+489,"CPI (index, period average)",Ecuador,ECU,Annual,2010,01/01/2010 12:00:00 AM,7538.685171930737
+490,"CPI (index, period average)",Ecuador,ECU,Annual,2011,01/01/2011 12:00:00 AM,7876.006101929443
+491,"CPI (index, period average)",Ecuador,ECU,Annual,2012,01/01/2012 12:00:00 AM,8277.818022955957
+492,"CPI (index, period average)",Ecuador,ECU,Annual,2013,01/01/2013 12:00:00 AM,8503.121668777492
+493,"CPI (index, period average)",Ecuador,ECU,Annual,2014,01/01/2014 12:00:00 AM,8808.317426466945
+494,"CPI (index, period average)",Ecuador,ECU,Annual,2015,01/01/2015 12:00:00 AM,9157.71221781525
+495,"CPI (index, period average)",Ecuador,ECU,Annual,2016,01/01/2016 12:00:00 AM,9315.98171929015
+496,"CPI (index, period average)",Ecuador,ECU,Annual,2017,01/01/2017 12:00:00 AM,9354.840361319122
+497,"CPI (index, period average)",Ecuador,ECU,Annual,2018,01/01/2018 12:00:00 AM,9333.896080115295
+498,"CPI (index, period average)",Ecuador,ECU,Annual,2019,01/01/2019 12:00:00 AM,9358.725411869009
+499,"CPI (index, period average)",Ecuador,ECU,Annual,2020,01/01/2020 12:00:00 AM,9327.011275152472
+500,"CPI (index, period average)",Ecuador,ECU,Annual,2021,01/01/2021 12:00:00 AM,9339.43964695799
+501,"CPI (index, period average)",Ecuador,ECU,Annual,2022,01/01/2022 12:00:00 AM,9663.160476217528
+502,"CPI (index, period average)",Ecuador,ECU,Annual,2023,01/01/2023 12:00:00 AM,9800.49137982837
+503,"CPI (index, period average)",Bolivia,BOL,Annual,1990,01/01/1990 12:00:00 AM,100.0
+504,"CPI (index, period average)",Bolivia,BOL,Annual,1991,01/01/1991 12:00:00 AM,121.4438005083376
+505,"CPI (index, period average)",Bolivia,BOL,Annual,1992,01/01/1992 12:00:00 AM,136.0938439030421
+506,"CPI (index, period average)",Bolivia,BOL,Annual,1993,01/01/1993 12:00:00 AM,147.6963349096276
+507,"CPI (index, period average)",Bolivia,BOL,Annual,1994,01/01/1994 12:00:00 AM,159.3281267021336
+508,"CPI (index, period average)",Bolivia,BOL,Annual,1995,01/01/1995 12:00:00 AM,175.5636058649069
+509,"CPI (index, period average)",Bolivia,BOL,Annual,1996,01/01/1996 12:00:00 AM,197.3865247406591
+510,"CPI (index, period average)",Bolivia,BOL,Annual,1997,01/01/1997 12:00:00 AM,206.6819577200953
+511,"CPI (index, period average)",Bolivia,BOL,Annual,1998,01/01/1998 12:00:00 AM,222.5420877392719
+512,"CPI (index, period average)",Bolivia,BOL,Annual,1999,01/01/1999 12:00:00 AM,227.3501273274846
+513,"CPI (index, period average)",Bolivia,BOL,Annual,2000,01/01/2000 12:00:00 AM,237.811816708768
+514,"CPI (index, period average)",Bolivia,BOL,Annual,2001,01/01/2001 12:00:00 AM,241.607121375735
+515,"CPI (index, period average)",Bolivia,BOL,Annual,2002,01/01/2002 12:00:00 AM,243.8365465376191
+516,"CPI (index, period average)",Bolivia,BOL,Annual,2003,01/01/2003 12:00:00 AM,251.9766956599589
+517,"CPI (index, period average)",Bolivia,BOL,Annual,2004,01/01/2004 12:00:00 AM,263.1563623545909
+518,"CPI (index, period average)",Bolivia,BOL,Annual,2005,01/01/2005 12:00:00 AM,277.3613597598138
+519,"CPI (index, period average)",Bolivia,BOL,Annual,2006,01/01/2006 12:00:00 AM,289.2334111363944
+520,"CPI (index, period average)",Bolivia,BOL,Annual,2007,01/01/2007 12:00:00 AM,314.4090512335046
+521,"CPI (index, period average)",Bolivia,BOL,Annual,2008,01/01/2008 12:00:00 AM,358.4545400894652
+522,"CPI (index, period average)",Bolivia,BOL,Annual,2009,01/01/2009 12:00:00 AM,370.4463797137794
+523,"CPI (index, period average)",Bolivia,BOL,Annual,2010,01/01/2010 12:00:00 AM,379.7138797483773
+524,"CPI (index, period average)",Bolivia,BOL,Annual,2011,01/01/2011 12:00:00 AM,417.2432563572036
+525,"CPI (index, period average)",Bolivia,BOL,Annual,2012,01/01/2012 12:00:00 AM,436.0915537431138
+526,"CPI (index, period average)",Bolivia,BOL,Annual,2013,01/01/2013 12:00:00 AM,461.1088352680346
+527,"CPI (index, period average)",Bolivia,BOL,Annual,2014,01/01/2014 12:00:00 AM,487.6899222563173
+528,"CPI (index, period average)",Bolivia,BOL,Annual,2015,01/01/2015 12:00:00 AM,507.4954050776769
+529,"CPI (index, period average)",Bolivia,BOL,Annual,2016,01/01/2016 12:00:00 AM,525.8896247140968
+530,"CPI (index, period average)",Bolivia,BOL,Annual,2017,01/01/2017 12:00:00 AM,540.7325824051065
+531,"CPI (index, period average)",Bolivia,BOL,Annual,2018,01/01/2018 12:00:00 AM,553.0160402132823
+532,"CPI (index, period average)",Bolivia,BOL,Annual,2019,01/01/2019 12:00:00 AM,563.1875535518317
+533,"CPI (index, period average)",Bolivia,BOL,Annual,2020,01/01/2020 12:00:00 AM,568.4921816886134
+534,"CPI (index, period average)",Bolivia,BOL,Annual,2021,01/01/2021 12:00:00 AM,572.67806619609
+535,"CPI (index, period average)",Bolivia,BOL,Annual,2022,01/01/2022 12:00:00 AM,582.680269404505
+536,"CPI (index, period average)",Bolivia,BOL,Annual,2023,01/01/2023 12:00:00 AM,597.6949007803834
+537,"CPI (index, period average)",Dominican Republic,DOM,Annual,1990,01/01/1990 12:00:00 AM,100.0
+538,"CPI (index, period average)",Dominican Republic,DOM,Annual,1991,01/01/1991 12:00:00 AM,147.0790570320615
+539,"CPI (index, period average)",Dominican Republic,DOM,Annual,1992,01/01/1992 12:00:00 AM,153.3431928836523
+540,"CPI (index, period average)",Dominican Republic,DOM,Annual,1993,01/01/1993 12:00:00 AM,161.3942300473777
+541,"CPI (index, period average)",Dominican Republic,DOM,Annual,1994,01/01/1994 12:00:00 AM,174.726632933992
+542,"CPI (index, period average)",Dominican Republic,DOM,Annual,1995,01/01/1995 12:00:00 AM,196.6302927972505
+543,"CPI (index, period average)",Dominican Republic,DOM,Annual,1996,01/01/1996 12:00:00 AM,207.2469401042555
+544,"CPI (index, period average)",Dominican Republic,DOM,Annual,1997,01/01/1997 12:00:00 AM,224.4416637206312
+545,"CPI (index, period average)",Dominican Republic,DOM,Annual,1998,01/01/1998 12:00:00 AM,235.2874534378527
+546,"CPI (index, period average)",Dominican Republic,DOM,Annual,1999,01/01/1999 12:00:00 AM,250.5125002729917
+547,"CPI (index, period average)",Dominican Republic,DOM,Annual,2000,01/01/2000 12:00:00 AM,269.862425643885
+548,"CPI (index, period average)",Dominican Republic,DOM,Annual,2001,01/01/2001 12:00:00 AM,293.8344897375594
+549,"CPI (index, period average)",Dominican Republic,DOM,Annual,2002,01/01/2002 12:00:00 AM,309.1825455589026
+550,"CPI (index, period average)",Dominican Republic,DOM,Annual,2003,01/01/2003 12:00:00 AM,394.0522661553076
+551,"CPI (index, period average)",Dominican Republic,DOM,Annual,2004,01/01/2004 12:00:00 AM,596.834950513429
+552,"CPI (index, period average)",Dominican Republic,DOM,Annual,2005,01/01/2005 12:00:00 AM,621.8435441557251
+553,"CPI (index, period average)",Dominican Republic,DOM,Annual,2006,01/01/2006 12:00:00 AM,668.9345446430152
+554,"CPI (index, period average)",Dominican Republic,DOM,Annual,2007,01/01/2007 12:00:00 AM,710.030983585691
+555,"CPI (index, period average)",Dominican Republic,DOM,Annual,2008,01/01/2008 12:00:00 AM,785.6110914481249
+556,"CPI (index, period average)",Dominican Republic,DOM,Annual,2009,01/01/2009 12:00:00 AM,796.9407921604969
+557,"CPI (index, period average)",Dominican Republic,DOM,Annual,2010,01/01/2010 12:00:00 AM,847.3866039900468
+558,"CPI (index, period average)",Dominican Republic,DOM,Annual,2011,01/01/2011 12:00:00 AM,919.0701118667818
+559,"CPI (index, period average)",Dominican Republic,DOM,Annual,2012,01/01/2012 12:00:00 AM,953.02561170038
+560,"CPI (index, period average)",Dominican Republic,DOM,Annual,2013,01/01/2013 12:00:00 AM,999.0658117084652
+561,"CPI (index, period average)",Dominican Republic,DOM,Annual,2014,01/01/2014 12:00:00 AM,1029.024221356077
+562,"CPI (index, period average)",Dominican Republic,DOM,Annual,2015,01/01/2015 12:00:00 AM,1037.634543935186
+563,"CPI (index, period average)",Dominican Republic,DOM,Annual,2016,01/01/2016 12:00:00 AM,1054.383688699432
+564,"CPI (index, period average)",Dominican Republic,DOM,Annual,2017,01/01/2017 12:00:00 AM,1088.962802207947
+565,"CPI (index, period average)",Dominican Republic,DOM,Annual,2018,01/01/2018 12:00:00 AM,1127.778165409974
+566,"CPI (index, period average)",Dominican Republic,DOM,Annual,2019,01/01/2019 12:00:00 AM,1148.197759394968
+567,"CPI (index, period average)",Dominican Republic,DOM,Annual,2020,01/01/2020 12:00:00 AM,1191.611481742329
+568,"CPI (index, period average)",Dominican Republic,DOM,Annual,2021,01/01/2021 12:00:00 AM,1289.835071883608
+569,"CPI (index, period average)",Dominican Republic,DOM,Annual,2022,01/01/2022 12:00:00 AM,1403.484700355448
+570,"CPI (index, period average)",Dominican Republic,DOM,Annual,2023,01/01/2023 12:00:00 AM,1470.650536765415
+571,"CPI (index, period average)",Honduras,HND,Annual,1999,01/01/1999 12:00:00 AM,100.0
+572,"CPI (index, period average)",Honduras,HND,Annual,2000,01/01/2000 12:00:00 AM,111.0480349344978
+573,"CPI (index, period average)",Honduras,HND,Annual,2001,01/01/2001 12:00:00 AM,121.7816593886463
+574,"CPI (index, period average)",Honduras,HND,Annual,2002,01/01/2002 12:00:00 AM,131.1615720524017
+575,"CPI (index, period average)",Honduras,HND,Annual,2003,01/01/2003 12:00:00 AM,141.2227074235808
+576,"CPI (index, period average)",Honduras,HND,Annual,2004,01/01/2004 12:00:00 AM,152.6812227074236
+577,"CPI (index, period average)",Honduras,HND,Annual,2005,01/01/2005 12:00:00 AM,166.1310043668122
+578,"CPI (index, period average)",Honduras,HND,Annual,2006,01/01/2006 12:00:00 AM,175.3973799126638
+579,"CPI (index, period average)",Honduras,HND,Annual,2007,01/01/2007 12:00:00 AM,187.5633187772926
+580,"CPI (index, period average)",Honduras,HND,Annual,2008,01/01/2008 12:00:00 AM,208.9519650655022
+581,"CPI (index, period average)",Honduras,HND,Annual,2009,01/01/2009 12:00:00 AM,220.4366812227074
+582,"CPI (index, period average)",Honduras,HND,Annual,2010,01/01/2010 12:00:00 AM,230.7947598253275
+583,"CPI (index, period average)",Honduras,HND,Annual,2011,01/01/2011 12:00:00 AM,246.4017467248908
+584,"CPI (index, period average)",Honduras,HND,Annual,2012,01/01/2012 12:00:00 AM,259.2052401746725
+585,"CPI (index, period average)",Honduras,HND,Annual,2013,01/01/2013 12:00:00 AM,272.5851528384279
+586,"CPI (index, period average)",Honduras,HND,Annual,2014,01/01/2014 12:00:00 AM,289.292576419214
+587,"CPI (index, period average)",Honduras,HND,Annual,2015,01/01/2015 12:00:00 AM,298.4279475982532
+588,"CPI (index, period average)",Honduras,HND,Annual,2016,01/01/2016 12:00:00 AM,306.5589519650655
+589,"CPI (index, period average)",Honduras,HND,Annual,2017,01/01/2017 12:00:00 AM,318.6200873362445
+590,"CPI (index, period average)",Honduras,HND,Annual,2018,01/01/2018 12:00:00 AM,332.471615720524
+591,"CPI (index, period average)",Honduras,HND,Annual,2019,01/01/2019 12:00:00 AM,346.9868995633187
+592,"CPI (index, period average)",Honduras,HND,Annual,2020,01/01/2020 12:00:00 AM,359.0218340611353
+593,"CPI (index, period average)",Honduras,HND,Annual,2021,01/01/2021 12:00:00 AM,375.1091703056769
+594,"CPI (index, period average)",Honduras,HND,Annual,2022,01/01/2022 12:00:00 AM,409.2052401746724
+595,"CPI (index, period average)",Belize,BLZ,Annual,1991,01/01/1991 12:00:00 AM,100.0
+596,"CPI (index, period average)",Belize,BLZ,Annual,1992,01/01/1992 12:00:00 AM,102.3967007349107
+597,"CPI (index, period average)",Belize,BLZ,Annual,1993,01/01/1993 12:00:00 AM,103.9045914196914
+598,"CPI (index, period average)",Belize,BLZ,Annual,1994,01/01/1994 12:00:00 AM,106.5742568144052
+599,"CPI (index, period average)",Belize,BLZ,Annual,1995,01/01/1995 12:00:00 AM,109.653843427524
+600,"CPI (index, period average)",Belize,BLZ,Annual,1996,01/01/1996 12:00:00 AM,116.6993231231423
+601,"CPI (index, period average)",Belize,BLZ,Annual,1997,01/01/1997 12:00:00 AM,117.8963239961654
+602,"CPI (index, period average)",Belize,BLZ,Annual,1998,01/01/1998 12:00:00 AM,116.897153382346
+603,"CPI (index, period average)",Belize,BLZ,Annual,1999,01/01/1999 12:00:00 AM,115.4858701387695
+604,"CPI (index, period average)",Belize,BLZ,Annual,2000,01/01/2000 12:00:00 AM,116.1947181912722
+605,"CPI (index, period average)",Belize,BLZ,Annual,2001,01/01/2001 12:00:00 AM,117.5298391480207
+606,"CPI (index, period average)",Belize,BLZ,Annual,2002,01/01/2002 12:00:00 AM,120.1099276324049
+607,"CPI (index, period average)",Belize,BLZ,Annual,2003,01/01/2003 12:00:00 AM,123.2584835689401
+608,"CPI (index, period average)",Belize,BLZ,Annual,2004,01/01/2004 12:00:00 AM,127.0393631914535
+609,"CPI (index, period average)",Belize,BLZ,Annual,2005,01/01/2005 12:00:00 AM,131.6781011949558
+610,"CPI (index, period average)",Belize,BLZ,Annual,2006,01/01/2006 12:00:00 AM,137.2616037474929
+611,"CPI (index, period average)",Belize,BLZ,Annual,2007,01/01/2007 12:00:00 AM,140.4434413014232
+612,"CPI (index, period average)",Belize,BLZ,Annual,2008,01/01/2008 12:00:00 AM,149.4240002529804
+613,"CPI (index, period average)",Belize,BLZ,Annual,2009,01/01/2009 12:00:00 AM,147.773895405405
+614,"CPI (index, period average)",Belize,BLZ,Annual,2010,01/01/2010 12:00:00 AM,149.1304263337568
+615,"CPI (index, period average)",Belize,BLZ,Annual,2011,01/01/2011 12:00:00 AM,151.5996280176332
+616,"CPI (index, period average)",Belize,BLZ,Annual,2012,01/01/2012 12:00:00 AM,153.4902533690931
+617,"CPI (index, period average)",Belize,BLZ,Annual,2013,01/01/2013 12:00:00 AM,154.2726665112486
+618,"CPI (index, period average)",Belize,BLZ,Annual,2014,01/01/2014 12:00:00 AM,156.1260977787546
+619,"CPI (index, period average)",Belize,BLZ,Annual,2015,01/01/2015 12:00:00 AM,154.7809402857494
+620,"CPI (index, period average)",Belize,BLZ,Annual,2016,01/01/2016 12:00:00 AM,155.8043109492966
+621,"CPI (index, period average)",Belize,BLZ,Annual,2017,01/01/2017 12:00:00 AM,157.595932587319
+622,"CPI (index, period average)",Belize,BLZ,Annual,2018,01/01/2018 12:00:00 AM,158.0209149477529
+623,"CPI (index, period average)",Belize,BLZ,Annual,2019,01/01/2019 12:00:00 AM,158.3142221771449
+624,"CPI (index, period average)",Belize,BLZ,Annual,2020,01/01/2020 12:00:00 AM,158.508071202072
+625,"CPI (index, period average)",Belize,BLZ,Annual,2021,01/01/2021 12:00:00 AM,163.6419014461942
+626,"CPI (index, period average)",Belize,BLZ,Annual,2022,01/01/2022 12:00:00 AM,173.9094459828665
+627,"CPI (index, period average)",Nicaragua,NIC,Annual,1992,01/01/1992 12:00:00 AM,100.0
+628,"CPI (index, period average)",Nicaragua,NIC,Annual,1993,01/01/1993 12:00:00 AM,120.6531014112241
+629,"CPI (index, period average)",Nicaragua,NIC,Annual,1994,01/01/1994 12:00:00 AM,130.0459468329504
+630,"CPI (index, period average)",Nicaragua,NIC,Annual,1995,01/01/1995 12:00:00 AM,144.5782737118477
+631,"CPI (index, period average)",Nicaragua,NIC,Annual,1996,01/01/1996 12:00:00 AM,161.3882507384313
+632,"CPI (index, period average)",Nicaragua,NIC,Annual,1997,01/01/1997 12:00:00 AM,176.2618969478176
+633,"CPI (index, period average)",Nicaragua,NIC,Annual,1998,01/01/1998 12:00:00 AM,199.2582868395144
+634,"CPI (index, period average)",Nicaragua,NIC,Annual,1999,01/01/1999 12:00:00 AM,221.5950114867084
+635,"CPI (index, period average)",Nicaragua,NIC,Annual,2000,01/01/2000 12:00:00 AM,247.174269773548
+636,"CPI (index, period average)",Nicaragua,NIC,Annual,2001,01/01/2001 12:00:00 AM,265.3429602888089
+637,"CPI (index, period average)",Nicaragua,NIC,Annual,2002,01/01/2002 12:00:00 AM,275.2970134558583
+638,"CPI (index, period average)",Nicaragua,NIC,Annual,2003,01/01/2003 12:00:00 AM,289.8916967509027
+639,"CPI (index, period average)",Nicaragua,NIC,Annual,2004,01/01/2004 12:00:00 AM,314.4437151296359
+640,"CPI (index, period average)",Nicaragua,NIC,Annual,2005,01/01/2005 12:00:00 AM,344.6242205447983
+641,"CPI (index, period average)",Nicaragua,NIC,Annual,2006,01/01/2006 12:00:00 AM,376.1240564489663
+642,"CPI (index, period average)",Nicaragua,NIC,Annual,2007,01/01/2007 12:00:00 AM,417.9849031834593
+643,"CPI (index, period average)",Nicaragua,NIC,Annual,2008,01/01/2008 12:00:00 AM,500.856580242862
+644,"CPI (index, period average)",Nicaragua,NIC,Annual,2009,01/01/2009 12:00:00 AM,519.3206432556615
+645,"CPI (index, period average)",Nicaragua,NIC,Annual,2010,01/01/2010 12:00:00 AM,547.6501476862489
+646,"CPI (index, period average)",Nicaragua,NIC,Annual,2011,01/01/2011 12:00:00 AM,591.9221481390362
+647,"CPI (index, period average)",Nicaragua,NIC,Annual,2012,01/01/2012 12:00:00 AM,634.5061718951033
+648,"CPI (index, period average)",Nicaragua,NIC,Annual,2013,01/01/2013 12:00:00 AM,679.7799450489754
+649,"CPI (index, period average)",Nicaragua,NIC,Annual,2014,01/01/2014 12:00:00 AM,720.8107457961014
+650,"CPI (index, period average)",Nicaragua,NIC,Annual,2015,01/01/2015 12:00:00 AM,749.6228561178596
+651,"CPI (index, period average)",Nicaragua,NIC,Annual,2016,01/01/2016 12:00:00 AM,776.0363198975773
+652,"CPI (index, period average)",Nicaragua,NIC,Annual,2017,01/01/2017 12:00:00 AM,805.9189306415432
+653,"CPI (index, period average)",Nicaragua,NIC,Annual,2018,01/01/2018 12:00:00 AM,845.7896522895245
+654,"CPI (index, period average)",Nicaragua,NIC,Annual,2019,01/01/2019 12:00:00 AM,891.2617560122065
+655,"CPI (index, period average)",Nicaragua,NIC,Annual,2020,01/01/2020 12:00:00 AM,924.0763509190206
+656,"CPI (index, period average)",Nicaragua,NIC,Annual,2021,01/01/2021 12:00:00 AM,969.6186588864634
+657,"CPI (index, period average)",Nicaragua,NIC,Annual,2022,01/01/2022 12:00:00 AM,1071.112759425531
+658,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,1991,01/01/1991 12:00:00 AM,100.0
+659,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,1992,01/01/1992 12:00:00 AM,106.4857243567148
+660,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,1993,01/01/1993 12:00:00 AM,117.9767359887205
+661,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,1994,01/01/1994 12:00:00 AM,128.3750440606274
+662,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,1995,01/01/1995 12:00:00 AM,135.1427564328516
+663,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,1996,01/01/1996 12:00:00 AM,139.5840676771237
+664,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,1997,01/01/1997 12:00:00 AM,144.6951004582305
+665,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,1998,01/01/1998 12:00:00 AM,152.8022559041241
+666,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,1999,01/01/1999 12:00:00 AM,158.0190341910469
+667,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2000,01/01/2000 12:00:00 AM,163.5882974973563
+668,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2001,01/01/2001 12:00:00 AM,172.75290800141
+669,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2002,01/01/2002 12:00:00 AM,179.9083538949595
+670,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2003,01/01/2003 12:00:00 AM,186.7113147691223
+671,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2004,01/01/2004 12:00:00 AM,193.7257666549172
+672,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2005,01/01/2005 12:00:00 AM,207.0497003877335
+673,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2006,01/01/2006 12:00:00 AM,224.2509693338033
+674,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2007,01/01/2007 12:00:00 AM,241.9104688050758
+675,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2008,01/01/2008 12:00:00 AM,271.0257314064152
+676,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2009,01/01/2009 12:00:00 AM,290.024673951357
+677,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2010,01/01/2010 12:00:00 AM,320.5851251321819
+678,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2011,01/01/2011 12:00:00 AM,336.905181529785
+679,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2012,01/01/2012 12:00:00 AM,368.1706027493832
+680,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2013,01/01/2013 12:00:00 AM,387.275290800141
+681,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2014,01/01/2014 12:00:00 AM,409.3408530137469
+682,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2015,01/01/2015 12:00:00 AM,428.4102925625662
+683,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2016,01/01/2016 12:00:00 AM,441.5579837856891
+684,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2017,01/01/2017 12:00:00 AM,449.8766302432147
+685,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2018,01/01/2018 12:00:00 AM,454.4589354952415
+686,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2019,01/01/2019 12:00:00 AM,459.0059922453296
+687,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2020,01/01/2020 12:00:00 AM,461.7553753965457
+688,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2021,01/01/2021 12:00:00 AM,471.2724709199859
+689,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2022,01/01/2022 12:00:00 AM,498.731053930208
+690,"CPI (index, period average)",Trinidad and Tobago,TTO,Annual,2023,01/01/2023 12:00:00 AM,521.8188227000353

@@ -1,0 +1,403 @@
+_id,name,country,isoalpha3,frequency,period,date,value
+1,"Total Credit (real index, period average)",Argentina,ARG,Annual,1990,01/01/1990 12:00:00 AM,100.0
+2,"Total Credit (real index, period average)",Argentina,ARG,Annual,1991,01/01/1991 12:00:00 AM,89.91479298359977
+3,"Total Credit (real index, period average)",Argentina,ARG,Annual,1992,01/01/1992 12:00:00 AM,92.86882712059835
+4,"Total Credit (real index, period average)",Argentina,ARG,Annual,1993,01/01/1993 12:00:00 AM,104.4029768106914
+5,"Total Credit (real index, period average)",Argentina,ARG,Annual,1994,01/01/1994 12:00:00 AM,117.420714078772
+6,"Total Credit (real index, period average)",Argentina,ARG,Annual,1995,01/01/1995 12:00:00 AM,113.849773991874
+7,"Total Credit (real index, period average)",Argentina,ARG,Annual,1996,01/01/1996 12:00:00 AM,123.045300963368
+8,"Total Credit (real index, period average)",Argentina,ARG,Annual,1997,01/01/1997 12:00:00 AM,136.4920884528169
+9,"Total Credit (real index, period average)",Argentina,ARG,Annual,1998,01/01/1998 12:00:00 AM,151.4929218474459
+10,"Total Credit (real index, period average)",Argentina,ARG,Annual,1999,01/01/1999 12:00:00 AM,160.407029297877
+11,"Total Credit (real index, period average)",Argentina,ARG,Annual,2000,01/01/2000 12:00:00 AM,161.9875895482701
+12,"Total Credit (real index, period average)",Argentina,ARG,Annual,2001,01/01/2001 12:00:00 AM,167.485770798215
+13,"Total Credit (real index, period average)",Argentina,ARG,Annual,2002,01/01/2002 12:00:00 AM,240.9502721986263
+14,"Total Credit (real index, period average)",Argentina,ARG,Annual,2003,01/01/2003 12:00:00 AM,213.0228369554995
+15,"Total Credit (real index, period average)",Argentina,ARG,Annual,2004,01/01/2004 12:00:00 AM,212.6183283543795
+16,"Total Credit (real index, period average)",Argentina,ARG,Annual,2005,01/01/2005 12:00:00 AM,185.9034760767707
+17,"Total Credit (real index, period average)",Argentina,ARG,Annual,2006,01/01/2006 12:00:00 AM,168.7658065065206
+18,"Total Credit (real index, period average)",Argentina,ARG,Annual,2007,01/01/2007 12:00:00 AM,157.1256977661066
+19,"Total Credit (real index, period average)",Argentina,ARG,Annual,2008,01/01/2008 12:00:00 AM,149.9204502615021
+20,"Total Credit (real index, period average)",Argentina,ARG,Annual,2009,01/01/2009 12:00:00 AM,151.09744639078
+21,"Total Credit (real index, period average)",Argentina,ARG,Annual,2010,01/01/2010 12:00:00 AM,161.0034971557197
+22,"Total Credit (real index, period average)",Argentina,ARG,Annual,2011,01/01/2011 12:00:00 AM,182.6091776785675
+23,"Total Credit (real index, period average)",Argentina,ARG,Annual,2012,01/01/2012 12:00:00 AM,195.4625930892724
+24,"Total Credit (real index, period average)",Argentina,ARG,Annual,2013,01/01/2013 12:00:00 AM,215.6502082145148
+25,"Total Credit (real index, period average)",Argentina,ARG,Annual,2014,01/01/2014 12:00:00 AM,209.8579164380844
+26,"Total Credit (real index, period average)",Argentina,ARG,Annual,2015,01/01/2015 12:00:00 AM,225.6232623703523
+27,"Total Credit (real index, period average)",Argentina,ARG,Annual,2016,01/01/2016 12:00:00 AM,226.1261534351717
+28,"Total Credit (real index, period average)",Argentina,ARG,Annual,2017,01/01/2017 12:00:00 AM,238.8557557576691
+29,"Total Credit (real index, period average)",Argentina,ARG,Annual,2019,01/01/2019 12:00:00 AM,193.7445770199504
+30,"Total Credit (real index, period average)",Argentina,ARG,Annual,2020,01/01/2020 12:00:00 AM,241.033287819054
+31,"Total Credit (real index, period average)",Argentina,ARG,Annual,2021,01/01/2021 12:00:00 AM,229.8183912487902
+32,"Total Credit (real index, period average)",Argentina,ARG,Annual,2022,01/01/2022 12:00:00 AM,224.6198888984369
+33,"Total Credit (real index, period average)",Chile,CHL,Annual,1990,01/01/1990 12:00:00 AM,100.0
+34,"Total Credit (real index, period average)",Chile,CHL,Annual,1991,01/01/1991 12:00:00 AM,96.54270754298476
+35,"Total Credit (real index, period average)",Chile,CHL,Annual,1992,01/01/1992 12:00:00 AM,109.4545123517085
+36,"Total Credit (real index, period average)",Chile,CHL,Annual,1993,01/01/1993 12:00:00 AM,130.6328388473459
+37,"Total Credit (real index, period average)",Chile,CHL,Annual,1994,01/01/1994 12:00:00 AM,143.0389479608338
+38,"Total Credit (real index, period average)",Chile,CHL,Annual,1995,01/01/1995 12:00:00 AM,158.2172667863813
+39,"Total Credit (real index, period average)",Chile,CHL,Annual,1996,01/01/1996 12:00:00 AM,183.1068372050032
+40,"Total Credit (real index, period average)",Chile,CHL,Annual,1997,01/01/1997 12:00:00 AM,204.2362029957624
+41,"Total Credit (real index, period average)",Chile,CHL,Annual,1998,01/01/1998 12:00:00 AM,228.2780455354906
+42,"Total Credit (real index, period average)",Chile,CHL,Annual,1999,01/01/1999 12:00:00 AM,231.2501373662092
+43,"Total Credit (real index, period average)",Chile,CHL,Annual,2000,01/01/2000 12:00:00 AM,236.4293856126507
+44,"Total Credit (real index, period average)",Chile,CHL,Annual,2001,01/01/2001 12:00:00 AM,251.5959167312485
+45,"Total Credit (real index, period average)",Chile,CHL,Annual,2002,01/01/2002 12:00:00 AM,257.9979292761001
+46,"Total Credit (real index, period average)",Chile,CHL,Annual,2003,01/01/2003 12:00:00 AM,262.2093721098066
+47,"Total Credit (real index, period average)",Chile,CHL,Annual,2004,01/01/2004 12:00:00 AM,278.1804806638357
+48,"Total Credit (real index, period average)",Chile,CHL,Annual,2005,01/01/2005 12:00:00 AM,310.8286541494619
+49,"Total Credit (real index, period average)",Chile,CHL,Annual,2006,01/01/2006 12:00:00 AM,353.9598079704182
+50,"Total Credit (real index, period average)",Chile,CHL,Annual,2007,01/01/2007 12:00:00 AM,401.2259432901077
+51,"Total Credit (real index, period average)",Chile,CHL,Annual,2008,01/01/2008 12:00:00 AM,447.275028314079
+52,"Total Credit (real index, period average)",Chile,CHL,Annual,2009,01/01/2009 12:00:00 AM,461.4311032791582
+53,"Total Credit (real index, period average)",Chile,CHL,Annual,2010,01/01/2010 12:00:00 AM,480.4118484872246
+54,"Total Credit (real index, period average)",Chile,CHL,Annual,2011,01/01/2011 12:00:00 AM,528.0637527253597
+55,"Total Credit (real index, period average)",Chile,CHL,Annual,2012,01/01/2012 12:00:00 AM,584.1603089160868
+56,"Total Credit (real index, period average)",Chile,CHL,Annual,2013,01/01/2013 12:00:00 AM,635.6238949155139
+57,"Total Credit (real index, period average)",Chile,CHL,Annual,2014,01/01/2014 12:00:00 AM,666.4759853473522
+58,"Total Credit (real index, period average)",Chile,CHL,Annual,2015,01/01/2015 12:00:00 AM,704.8042269618473
+59,"Total Credit (real index, period average)",Chile,CHL,Annual,2016,01/01/2016 12:00:00 AM,739.6288774586833
+60,"Total Credit (real index, period average)",Chile,CHL,Annual,2017,01/01/2017 12:00:00 AM,761.1261204439081
+61,"Total Credit (real index, period average)",Chile,CHL,Annual,2018,01/01/2018 12:00:00 AM,798.8130526284054
+62,"Total Credit (real index, period average)",Chile,CHL,Annual,2019,01/01/2019 12:00:00 AM,854.1635808559287
+63,"Total Credit (real index, period average)",Chile,CHL,Annual,2020,01/01/2020 12:00:00 AM,909.3446946856784
+64,"Total Credit (real index, period average)",Chile,CHL,Annual,2021,01/01/2021 12:00:00 AM,900.632724091704
+65,"Total Credit (real index, period average)",Chile,CHL,Annual,2022,01/01/2022 12:00:00 AM,905.5585221028156
+66,"Total Credit (real index, period average)",Chile,CHL,Annual,2023,01/01/2023 12:00:00 AM,889.2772220366218
+67,"Total Credit (real index, period average)",Mexico,MEX,Annual,1995,01/01/1995 12:00:00 AM,100.0
+68,"Total Credit (real index, period average)",Mexico,MEX,Annual,1996,01/01/1996 12:00:00 AM,87.68172230128427
+69,"Total Credit (real index, period average)",Mexico,MEX,Annual,1997,01/01/1997 12:00:00 AM,76.59272087527351
+70,"Total Credit (real index, period average)",Mexico,MEX,Annual,1998,01/01/1998 12:00:00 AM,70.23964091179474
+71,"Total Credit (real index, period average)",Mexico,MEX,Annual,1999,01/01/1999 12:00:00 AM,61.46911794234127
+72,"Total Credit (real index, period average)",Mexico,MEX,Annual,2000,01/01/2000 12:00:00 AM,57.59075568472745
+73,"Total Credit (real index, period average)",Mexico,MEX,Annual,2001,01/01/2001 12:00:00 AM,52.19492201737971
+74,"Total Credit (real index, period average)",Mexico,MEX,Annual,2002,01/01/2002 12:00:00 AM,49.30763364069953
+75,"Total Credit (real index, period average)",Mexico,MEX,Annual,2003,01/01/2003 12:00:00 AM,51.51846268330454
+76,"Total Credit (real index, period average)",Mexico,MEX,Annual,2004,01/01/2004 12:00:00 AM,49.63770165564257
+77,"Total Credit (real index, period average)",Mexico,MEX,Annual,2005,01/01/2005 12:00:00 AM,50.0178265957542
+78,"Total Credit (real index, period average)",Mexico,MEX,Annual,2006,01/01/2006 12:00:00 AM,52.88471118778051
+79,"Total Credit (real index, period average)",Mexico,MEX,Annual,2007,01/01/2007 12:00:00 AM,56.48008172725608
+80,"Total Credit (real index, period average)",Mexico,MEX,Annual,2008,01/01/2008 12:00:00 AM,61.49937552150941
+81,"Total Credit (real index, period average)",Mexico,MEX,Annual,2009,01/01/2009 12:00:00 AM,62.1423841422308
+82,"Total Credit (real index, period average)",Mexico,MEX,Annual,2010,01/01/2010 12:00:00 AM,63.87530492172023
+83,"Total Credit (real index, period average)",Mexico,MEX,Annual,2011,01/01/2011 12:00:00 AM,68.45467997770444
+84,"Total Credit (real index, period average)",Mexico,MEX,Annual,2012,01/01/2012 12:00:00 AM,74.964360881584
+85,"Total Credit (real index, period average)",Mexico,MEX,Annual,2013,01/01/2013 12:00:00 AM,80.27543904578773
+86,"Total Credit (real index, period average)",Mexico,MEX,Annual,2014,01/01/2014 12:00:00 AM,84.69642639795092
+87,"Total Credit (real index, period average)",Mexico,MEX,Annual,2015,01/01/2015 12:00:00 AM,93.6444896126876
+88,"Total Credit (real index, period average)",Mexico,MEX,Annual,2016,01/01/2016 12:00:00 AM,104.2480164122531
+89,"Total Credit (real index, period average)",Mexico,MEX,Annual,2017,01/01/2017 12:00:00 AM,108.9979301703639
+90,"Total Credit (real index, period average)",Mexico,MEX,Annual,2018,01/01/2018 12:00:00 AM,114.7907876516261
+91,"Total Credit (real index, period average)",Mexico,MEX,Annual,2019,01/01/2019 12:00:00 AM,118.67876909613
+92,"Total Credit (real index, period average)",Mexico,MEX,Annual,2020,01/01/2020 12:00:00 AM,119.9215433026115
+93,"Total Credit (real index, period average)",Mexico,MEX,Annual,2021,01/01/2021 12:00:00 AM,110.1861234609042
+94,"Total Credit (real index, period average)",Mexico,MEX,Annual,2022,01/01/2022 12:00:00 AM,110.4865566810493
+95,"Total Credit (real index, period average)",Mexico,MEX,Annual,2023,01/01/2023 12:00:00 AM,115.4592162510192
+96,"Total Credit (real index, period average)",Guatemala,GTM,Annual,1995,01/01/1995 12:00:00 AM,100.0
+97,"Total Credit (real index, period average)",Guatemala,GTM,Annual,1996,01/01/1996 12:00:00 AM,107.7435047416825
+98,"Total Credit (real index, period average)",Guatemala,GTM,Annual,1997,01/01/1997 12:00:00 AM,119.7804431378327
+99,"Total Credit (real index, period average)",Guatemala,GTM,Annual,1998,01/01/1998 12:00:00 AM,141.9441513510045
+100,"Total Credit (real index, period average)",Guatemala,GTM,Annual,1999,01/01/1999 12:00:00 AM,152.0471340608291
+101,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2000,01/01/2000 12:00:00 AM,155.7071205895527
+102,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2001,01/01/2001 12:00:00 AM,165.2001976616262
+103,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2002,01/01/2002 12:00:00 AM,164.3336628535091
+104,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2003,01/01/2003 12:00:00 AM,166.7031475733585
+105,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2004,01/01/2004 12:00:00 AM,168.7539869758554
+106,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2005,01/01/2005 12:00:00 AM,189.7554563442608
+107,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2006,01/01/2006 12:00:00 AM,224.4452021366994
+108,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2007,01/01/2007 12:00:00 AM,262.0639392751963
+109,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2008,01/01/2008 12:00:00 AM,272.239121567058
+110,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2009,01/01/2009 12:00:00 AM,279.5880060338301
+111,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2010,01/01/2010 12:00:00 AM,285.3939311335886
+112,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2011,01/01/2011 12:00:00 AM,309.5538032463887
+113,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2012,01/01/2012 12:00:00 AM,342.8139371272086
+114,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2013,01/01/2013 12:00:00 AM,374.2157235379533
+115,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2014,01/01/2014 12:00:00 AM,400.7660662870076
+116,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2015,01/01/2015 12:00:00 AM,441.3073791369084
+117,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2016,01/01/2016 12:00:00 AM,445.744410045009
+118,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2017,01/01/2017 12:00:00 AM,451.1609699792219
+119,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2018,01/01/2018 12:00:00 AM,469.0493815478196
+120,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2019,01/01/2019 12:00:00 AM,495.7389629108182
+121,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2020,01/01/2020 12:00:00 AM,524.0836315493847
+122,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2021,01/01/2021 12:00:00 AM,554.9044651370788
+123,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2022,01/01/2022 12:00:00 AM,600.4007062854919
+124,"Total Credit (real index, period average)",Guatemala,GTM,Annual,2023,01/01/2023 12:00:00 AM,632.3450471990132
+125,"Total Credit (real index, period average)",Colombia,COL,Annual,2003,01/01/2003 12:00:00 AM,100.0
+126,"Total Credit (real index, period average)",Colombia,COL,Annual,2004,01/01/2004 12:00:00 AM,106.2536379141919
+127,"Total Credit (real index, period average)",Colombia,COL,Annual,2005,01/01/2005 12:00:00 AM,116.0518855739906
+128,"Total Credit (real index, period average)",Colombia,COL,Annual,2006,01/01/2006 12:00:00 AM,138.4653077790034
+129,"Total Credit (real index, period average)",Colombia,COL,Annual,2007,01/01/2007 12:00:00 AM,171.0290258060088
+130,"Total Credit (real index, period average)",Colombia,COL,Annual,2008,01/01/2008 12:00:00 AM,193.4043923337808
+131,"Total Credit (real index, period average)",Colombia,COL,Annual,2009,01/01/2009 12:00:00 AM,203.40607557557
+132,"Total Credit (real index, period average)",Colombia,COL,Annual,2010,01/01/2010 12:00:00 AM,215.4065359987675
+133,"Total Credit (real index, period average)",Colombia,COL,Annual,2011,01/01/2011 12:00:00 AM,254.1714547315987
+134,"Total Credit (real index, period average)",Colombia,COL,Annual,2012,01/01/2012 12:00:00 AM,288.8621448469772
+135,"Total Credit (real index, period average)",Colombia,COL,Annual,2013,01/01/2013 12:00:00 AM,324.2704458034613
+136,"Total Credit (real index, period average)",Colombia,COL,Annual,2014,01/01/2014 12:00:00 AM,358.3259751644943
+137,"Total Credit (real index, period average)",Colombia,COL,Annual,2015,01/01/2015 12:00:00 AM,390.8948065303525
+138,"Total Credit (real index, period average)",Colombia,COL,Annual,2016,01/01/2016 12:00:00 AM,403.7659812105489
+139,"Total Credit (real index, period average)",Colombia,COL,Annual,2017,01/01/2017 12:00:00 AM,411.9229021947709
+140,"Total Credit (real index, period average)",Colombia,COL,Annual,2018,01/01/2018 12:00:00 AM,421.0305857089855
+141,"Total Credit (real index, period average)",Colombia,COL,Annual,2019,01/01/2019 12:00:00 AM,436.4011188867182
+142,"Total Credit (real index, period average)",Colombia,COL,Annual,2020,01/01/2020 12:00:00 AM,458.1467293758241
+143,"Total Credit (real index, period average)",Colombia,COL,Annual,2021,01/01/2021 12:00:00 AM,461.6044885232735
+144,"Total Credit (real index, period average)",Colombia,COL,Annual,2022,01/01/2022 12:00:00 AM,483.0976628102368
+145,"Total Credit (real index, period average)",Colombia,COL,Annual,2023,01/01/2023 12:00:00 AM,469.4324774733234
+146,"Total Credit (real index, period average)",Paraguay,PRY,Annual,1996,01/01/1996 12:00:00 AM,100.0
+147,"Total Credit (real index, period average)",Paraguay,PRY,Annual,1997,01/01/1997 12:00:00 AM,113.8787605128467
+148,"Total Credit (real index, period average)",Paraguay,PRY,Annual,1998,01/01/1998 12:00:00 AM,118.2549485022903
+149,"Total Credit (real index, period average)",Paraguay,PRY,Annual,1999,01/01/1999 12:00:00 AM,109.2631094625109
+150,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2000,01/01/2000 12:00:00 AM,105.4292243122489
+151,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2001,01/01/2001 12:00:00 AM,108.133581979566
+152,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2002,01/01/2002 12:00:00 AM,105.0554673343357
+153,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2003,01/01/2003 12:00:00 AM,80.88021945738838
+154,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2004,01/01/2004 12:00:00 AM,74.10459187412033
+155,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2005,01/01/2005 12:00:00 AM,75.57055391397742
+156,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2006,01/01/2006 12:00:00 AM,77.66977999748785
+157,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2007,01/01/2007 12:00:00 AM,90.5271191707234
+158,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2008,01/01/2008 12:00:00 AM,118.7544374545462
+159,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2009,01/01/2009 12:00:00 AM,148.9756663694561
+160,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2010,01/01/2010 12:00:00 AM,193.1572515750773
+161,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2011,01/01/2011 12:00:00 AM,218.3558925996977
+162,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2012,01/01/2012 12:00:00 AM,251.1429630621641
+163,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2013,01/01/2013 12:00:00 AM,285.1580284370916
+164,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2014,01/01/2014 12:00:00 AM,336.4806701721497
+165,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2015,01/01/2015 12:00:00 AM,406.9969598581523
+166,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2016,01/01/2016 12:00:00 AM,415.9429659469477
+167,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2017,01/01/2017 12:00:00 AM,409.9918409902353
+168,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2018,01/01/2018 12:00:00 AM,440.2586274844735
+169,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2019,01/01/2019 12:00:00 AM,485.8189043852629
+170,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2020,01/01/2020 12:00:00 AM,515.4511667466566
+171,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2021,01/01/2021 12:00:00 AM,547.8464505822193
+172,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2022,01/01/2022 12:00:00 AM,563.181096363374
+173,"Total Credit (real index, period average)",Paraguay,PRY,Annual,2023,01/01/2023 12:00:00 AM,587.9457621662781
+174,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2002,01/01/2002 12:00:00 AM,100.0
+175,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2003,01/01/2003 12:00:00 AM,99.21897361235212
+176,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2004,01/01/2004 12:00:00 AM,103.5795606741374
+177,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2005,01/01/2005 12:00:00 AM,108.9185699001276
+178,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2006,01/01/2006 12:00:00 AM,120.2253242575906
+179,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2007,01/01/2007 12:00:00 AM,131.1753722176714
+180,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2008,01/01/2008 12:00:00 AM,133.6019297246193
+181,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2009,01/01/2009 12:00:00 AM,138.8788248299767
+182,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2010,01/01/2010 12:00:00 AM,139.8782604876394
+183,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2011,01/01/2011 12:00:00 AM,136.4820172407259
+184,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2012,01/01/2012 12:00:00 AM,140.6775560265167
+185,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2013,01/01/2013 12:00:00 AM,144.4068278932296
+186,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2014,01/01/2014 12:00:00 AM,143.9726451688832
+187,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2015,01/01/2015 12:00:00 AM,142.3513564187741
+188,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2016,01/01/2016 12:00:00 AM,143.7858360929025
+189,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2017,01/01/2017 12:00:00 AM,144.3095453681987
+190,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2018,01/01/2018 12:00:00 AM,136.1133263428054
+191,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2019,01/01/2019 12:00:00 AM,133.4653060764298
+192,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2020,01/01/2020 12:00:00 AM,134.5327436282082
+193,"Total Credit (real index, period average)",Bahamas,BHS,Annual,2021,01/01/2021 12:00:00 AM,128.571786516099
+194,"Total Credit (real index, period average)",Panama,PAN,Annual,1990,01/01/1990 12:00:00 AM,100.0
+195,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,1990,01/01/1990 12:00:00 AM,100.0
+196,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,1991,01/01/1991 12:00:00 AM,89.69820519474409
+197,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,1992,01/01/1992 12:00:00 AM,82.39873023942124
+198,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,1993,01/01/1993 12:00:00 AM,97.56650194423068
+199,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,1994,01/01/1994 12:00:00 AM,109.3608434104207
+200,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,1995,01/01/1995 12:00:00 AM,102.0011166849623
+201,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,1996,01/01/1996 12:00:00 AM,96.14880289490308
+202,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,1997,01/01/1997 12:00:00 AM,137.0938724394522
+203,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,1998,01/01/1998 12:00:00 AM,159.3710185872057
+204,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,1999,01/01/1999 12:00:00 AM,177.7865393531046
+205,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2000,01/01/2000 12:00:00 AM,178.2634168078274
+206,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2001,01/01/2001 12:00:00 AM,160.5894411657296
+207,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2002,01/01/2002 12:00:00 AM,182.366459580745
+208,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2003,01/01/2003 12:00:00 AM,207.8369369249295
+209,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2004,01/01/2004 12:00:00 AM,233.0662858799323
+210,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2005,01/01/2005 12:00:00 AM,249.688985082798
+211,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2006,01/01/2006 12:00:00 AM,266.9034563708291
+212,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2007,01/01/2007 12:00:00 AM,299.5298702254896
+213,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2008,01/01/2008 12:00:00 AM,342.8059417945947
+214,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2009,01/01/2009 12:00:00 AM,376.8920547530968
+215,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2010,01/01/2010 12:00:00 AM,366.8804705363199
+216,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2011,01/01/2011 12:00:00 AM,395.9268709232036
+217,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2012,01/01/2012 12:00:00 AM,424.2859067034485
+218,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2013,01/01/2013 12:00:00 AM,434.7663714181169
+219,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2014,01/01/2014 12:00:00 AM,502.2046889459248
+220,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2015,01/01/2015 12:00:00 AM,559.8089041502602
+221,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2016,01/01/2016 12:00:00 AM,647.144039047217
+222,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2017,01/01/2017 12:00:00 AM,709.4193101960523
+223,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2018,01/01/2018 12:00:00 AM,722.1305691925625
+224,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2019,01/01/2019 12:00:00 AM,703.6593165857846
+225,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2020,01/01/2020 12:00:00 AM,729.0782266312463
+226,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2021,01/01/2021 12:00:00 AM,770.6775761883051
+227,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2022,01/01/2022 12:00:00 AM,749.4890937094133
+228,"Total Credit (real index, period average)",Costa Rica,CRI,Annual,2023,01/01/2023 12:00:00 AM,718.8992011921054
+229,"Total Credit (real index, period average)",Brazil,BRA,Annual,1995,01/01/1995 12:00:00 AM,100.0
+230,"Total Credit (real index, period average)",Brazil,BRA,Annual,1996,01/01/1996 12:00:00 AM,96.54862447577185
+231,"Total Credit (real index, period average)",Brazil,BRA,Annual,1997,01/01/1997 12:00:00 AM,99.37806258096332
+232,"Total Credit (real index, period average)",Brazil,BRA,Annual,1998,01/01/1998 12:00:00 AM,95.15348220326858
+233,"Total Credit (real index, period average)",Brazil,BRA,Annual,1999,01/01/1999 12:00:00 AM,96.45822874728614
+234,"Total Credit (real index, period average)",Brazil,BRA,Annual,2000,01/01/2000 12:00:00 AM,96.35842651157157
+235,"Total Credit (real index, period average)",Brazil,BRA,Annual,2001,01/01/2001 12:00:00 AM,99.79467757467188
+236,"Total Credit (real index, period average)",Brazil,BRA,Annual,2002,01/01/2002 12:00:00 AM,98.1169597166013
+237,"Total Credit (real index, period average)",Brazil,BRA,Annual,2003,01/01/2003 12:00:00 AM,93.65707914325029
+238,"Total Credit (real index, period average)",Brazil,BRA,Annual,2004,01/01/2004 12:00:00 AM,101.5750003502015
+239,"Total Credit (real index, period average)",Brazil,BRA,Annual,2005,01/01/2005 12:00:00 AM,114.4316498500231
+240,"Total Credit (real index, period average)",Brazil,BRA,Annual,2006,01/01/2006 12:00:00 AM,132.9929321289171
+241,"Total Credit (real index, period average)",Brazil,BRA,Annual,2007,01/01/2007 12:00:00 AM,159.5939619537064
+242,"Total Credit (real index, period average)",Brazil,BRA,Annual,2008,01/01/2008 12:00:00 AM,199.400162383146
+243,"Total Credit (real index, period average)",Brazil,BRA,Annual,2009,01/01/2009 12:00:00 AM,228.006719010286
+244,"Total Credit (real index, period average)",Brazil,BRA,Annual,2010,01/01/2010 12:00:00 AM,257.9150185829808
+245,"Total Credit (real index, period average)",Brazil,BRA,Annual,2011,01/01/2011 12:00:00 AM,289.2450977116113
+246,"Total Credit (real index, period average)",Brazil,BRA,Annual,2012,01/01/2012 12:00:00 AM,321.9825706011617
+247,"Total Credit (real index, period average)",Brazil,BRA,Annual,2013,01/01/2013 12:00:00 AM,374.7920668928799
+248,"Total Credit (real index, period average)",Brazil,BRA,Annual,2014,01/01/2014 12:00:00 AM,397.9626770162126
+249,"Total Credit (real index, period average)",Brazil,BRA,Annual,2015,01/01/2015 12:00:00 AM,403.8956123742697
+250,"Total Credit (real index, period average)",Brazil,BRA,Annual,2016,01/01/2016 12:00:00 AM,376.4794047547566
+251,"Total Credit (real index, period average)",Brazil,BRA,Annual,2017,01/01/2017 12:00:00 AM,355.4298217296764
+252,"Total Credit (real index, period average)",Brazil,BRA,Annual,2018,01/01/2018 12:00:00 AM,350.1331063958495
+253,"Total Credit (real index, period average)",Brazil,BRA,Annual,2019,01/01/2019 12:00:00 AM,354.7827983453946
+254,"Total Credit (real index, period average)",Brazil,BRA,Annual,2020,01/01/2020 12:00:00 AM,381.4534110236323
+255,"Total Credit (real index, period average)",Brazil,BRA,Annual,2021,01/01/2021 12:00:00 AM,404.7446921699906
+256,"Total Credit (real index, period average)",Brazil,BRA,Annual,2022,01/01/2022 12:00:00 AM,428.7371974244155
+257,"Total Credit (real index, period average)",Brazil,BRA,Annual,2023,01/01/2023 12:00:00 AM,453.3331553631958
+258,"Total Credit (real index, period average)",Uruguay,URY,Annual,1999,01/01/1999 12:00:00 AM,100.0
+259,"Total Credit (real index, period average)",Uruguay,URY,Annual,2000,01/01/2000 12:00:00 AM,105.2698995119917
+260,"Total Credit (real index, period average)",Uruguay,URY,Annual,2001,01/01/2001 12:00:00 AM,104.9468365284753
+261,"Total Credit (real index, period average)",Uruguay,URY,Annual,2002,01/01/2002 12:00:00 AM,116.5895286611542
+262,"Total Credit (real index, period average)",Uruguay,URY,Annual,2003,01/01/2003 12:00:00 AM,88.7577410298262
+263,"Total Credit (real index, period average)",Uruguay,URY,Annual,2004,01/01/2004 12:00:00 AM,61.75013531059605
+264,"Total Credit (real index, period average)",Uruguay,URY,Annual,2005,01/01/2005 12:00:00 AM,47.79977181187697
+265,"Total Credit (real index, period average)",Uruguay,URY,Annual,2006,01/01/2006 12:00:00 AM,46.21448486465806
+266,"Total Credit (real index, period average)",Uruguay,URY,Annual,2007,01/01/2007 12:00:00 AM,48.70797670864681
+267,"Total Credit (real index, period average)",Uruguay,URY,Annual,2008,01/01/2008 12:00:00 AM,59.0086902346607
+268,"Total Credit (real index, period average)",Uruguay,URY,Annual,2009,01/01/2009 12:00:00 AM,61.94738373941216
+269,"Total Credit (real index, period average)",Uruguay,URY,Annual,2010,01/01/2010 12:00:00 AM,59.3975877528108
+270,"Total Credit (real index, period average)",Uruguay,URY,Annual,2011,01/01/2011 12:00:00 AM,63.16228480700696
+271,"Total Credit (real index, period average)",Uruguay,URY,Annual,2012,01/01/2012 12:00:00 AM,71.23835184053964
+272,"Total Credit (real index, period average)",Uruguay,URY,Annual,2013,01/01/2013 12:00:00 AM,76.9563344143905
+273,"Total Credit (real index, period average)",Uruguay,URY,Annual,2014,01/01/2014 12:00:00 AM,86.29636854371283
+274,"Total Credit (real index, period average)",Uruguay,URY,Annual,2015,01/01/2015 12:00:00 AM,95.4838899138905
+275,"Total Credit (real index, period average)",Uruguay,URY,Annual,2016,01/01/2016 12:00:00 AM,96.05563594338804
+276,"Total Credit (real index, period average)",Uruguay,URY,Annual,2017,01/01/2017 12:00:00 AM,88.51777607735377
+277,"Total Credit (real index, period average)",Uruguay,URY,Annual,2018,01/01/2018 12:00:00 AM,88.53228282798806
+278,"Total Credit (real index, period average)",Uruguay,URY,Annual,2019,01/01/2019 12:00:00 AM,91.75051257117086
+279,"Total Credit (real index, period average)",Uruguay,URY,Annual,2020,01/01/2020 12:00:00 AM,95.04041285685342
+280,"Total Credit (real index, period average)",Uruguay,URY,Annual,2021,01/01/2021 12:00:00 AM,96.02846531627276
+281,"Total Credit (real index, period average)",Uruguay,URY,Annual,2022,01/01/2022 12:00:00 AM,97.59996702492784
+282,"Total Credit (real index, period average)",Peru,PER,Annual,1992,01/01/1992 12:00:00 AM,100.0
+283,"Total Credit (real index, period average)",Peru,PER,Annual,1993,01/01/1993 12:00:00 AM,129.890139254608
+284,"Total Credit (real index, period average)",Peru,PER,Annual,1994,01/01/1994 12:00:00 AM,169.5778180205145
+285,"Total Credit (real index, period average)",Peru,PER,Annual,1995,01/01/1995 12:00:00 AM,228.7857442998337
+286,"Total Credit (real index, period average)",Peru,PER,Annual,1996,01/01/1996 12:00:00 AM,295.508883059753
+287,"Total Credit (real index, period average)",Peru,PER,Annual,1997,01/01/1997 12:00:00 AM,371.1800844713323
+288,"Total Credit (real index, period average)",Peru,PER,Annual,1998,01/01/1998 12:00:00 AM,441.5439875800226
+289,"Total Credit (real index, period average)",Peru,PER,Annual,1999,01/01/1999 12:00:00 AM,479.6185206195376
+290,"Total Credit (real index, period average)",Peru,PER,Annual,2000,01/01/2000 12:00:00 AM,458.5853678271992
+291,"Total Credit (real index, period average)",Peru,PER,Annual,2001,01/01/2001 12:00:00 AM,417.5713450579744
+292,"Total Credit (real index, period average)",Peru,PER,Annual,2002,01/01/2002 12:00:00 AM,418.3563201718562
+293,"Total Credit (real index, period average)",Peru,PER,Annual,2003,01/01/2003 12:00:00 AM,395.431985809413
+294,"Total Credit (real index, period average)",Peru,PER,Annual,2004,01/01/2004 12:00:00 AM,376.6175678831518
+295,"Total Credit (real index, period average)",Peru,PER,Annual,2005,01/01/2005 12:00:00 AM,393.3977202525442
+296,"Total Credit (real index, period average)",Peru,PER,Annual,2006,01/01/2006 12:00:00 AM,430.8063184367534
+297,"Total Credit (real index, period average)",Peru,PER,Annual,2007,01/01/2007 12:00:00 AM,507.5923393607258
+298,"Total Credit (real index, period average)",Peru,PER,Annual,2008,01/01/2008 12:00:00 AM,624.5116545078271
+299,"Total Credit (real index, period average)",Peru,PER,Annual,2009,01/01/2009 12:00:00 AM,726.0077468634703
+300,"Total Credit (real index, period average)",Peru,PER,Annual,2010,01/01/2010 12:00:00 AM,771.3664477966241
+301,"Total Credit (real index, period average)",Peru,PER,Annual,2011,01/01/2011 12:00:00 AM,888.3773157064354
+302,"Total Credit (real index, period average)",Peru,PER,Annual,2012,01/01/2012 12:00:00 AM,976.1278981771716
+303,"Total Credit (real index, period average)",Peru,PER,Annual,2013,01/01/2013 12:00:00 AM,1101.730494666467
+304,"Total Credit (real index, period average)",Peru,PER,Annual,2014,01/01/2014 12:00:00 AM,1257.968586137824
+305,"Total Credit (real index, period average)",Peru,PER,Annual,2015,01/01/2015 12:00:00 AM,1411.765501178561
+306,"Total Credit (real index, period average)",Peru,PER,Annual,2016,01/01/2016 12:00:00 AM,1489.141474088237
+307,"Total Credit (real index, period average)",Peru,PER,Annual,2017,01/01/2017 12:00:00 AM,1491.104584616131
+308,"Total Credit (real index, period average)",Peru,PER,Annual,2018,01/01/2018 12:00:00 AM,1611.037852985116
+309,"Total Credit (real index, period average)",Peru,PER,Annual,2019,01/01/2019 12:00:00 AM,1699.100399285047
+310,"Total Credit (real index, period average)",Peru,PER,Annual,2020,01/01/2020 12:00:00 AM,1926.04030859684
+311,"Total Credit (real index, period average)",Peru,PER,Annual,2021,01/01/2021 12:00:00 AM,1993.771432352484
+312,"Total Credit (real index, period average)",Peru,PER,Annual,2022,01/01/2022 12:00:00 AM,1953.000960043125
+313,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2004,01/01/2004 12:00:00 AM,100.0
+314,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2005,01/01/2005 12:00:00 AM,116.3760770485608
+315,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2006,01/01/2006 12:00:00 AM,130.4339970911491
+316,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2007,01/01/2007 12:00:00 AM,148.2243377204082
+317,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2008,01/01/2008 12:00:00 AM,160.5150884169154
+318,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2009,01/01/2009 12:00:00 AM,154.1973519619555
+319,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2010,01/01/2010 12:00:00 AM,163.413165753815
+320,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2011,01/01/2011 12:00:00 AM,195.032318789074
+321,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2012,01/01/2012 12:00:00 AM,222.137681591877
+322,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2013,01/01/2013 12:00:00 AM,239.8578362765271
+323,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2014,01/01/2014 12:00:00 AM,253.2793854251588
+324,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2015,01/01/2015 12:00:00 AM,263.5149029343472
+325,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2016,01/01/2016 12:00:00 AM,271.0069113788958
+326,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2017,01/01/2017 12:00:00 AM,310.1177120907607
+327,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2018,01/01/2018 12:00:00 AM,346.2920780260981
+328,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2019,01/01/2019 12:00:00 AM,386.1201251400206
+329,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2020,01/01/2020 12:00:00 AM,413.6391868664973
+330,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2021,01/01/2021 12:00:00 AM,457.6700699812161
+331,"Total Credit (real index, period average)",Ecuador,ECU,Annual,2022,01/01/2022 12:00:00 AM,513.0702599580471
+332,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,1996,01/01/1996 12:00:00 AM,100.0
+333,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,1997,01/01/1997 12:00:00 AM,112.607070206547
+334,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,1998,01/01/1998 12:00:00 AM,180.4187242423461
+335,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,1999,01/01/1999 12:00:00 AM,217.9194069514195
+336,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2000,01/01/2000 12:00:00 AM,254.5975919239207
+337,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2001,01/01/2001 12:00:00 AM,295.2803069499303
+338,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2002,01/01/2002 12:00:00 AM,337.0867788672542
+339,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2003,01/01/2003 12:00:00 AM,343.4381944709376
+340,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2004,01/01/2004 12:00:00 AM,241.8366905647781
+341,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2005,01/01/2005 12:00:00 AM,224.255260723076
+342,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2006,01/01/2006 12:00:00 AM,237.9253220760586
+343,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2007,01/01/2007 12:00:00 AM,265.4554577359137
+344,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2008,01/01/2008 12:00:00 AM,296.0242545551562
+345,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2009,01/01/2009 12:00:00 AM,322.1779532823613
+346,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2010,01/01/2010 12:00:00 AM,355.2217569087499
+347,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2011,01/01/2011 12:00:00 AM,361.5361976350881
+348,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2012,01/01/2012 12:00:00 AM,381.917715452491
+349,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2013,01/01/2013 12:00:00 AM,426.8746983905849
+350,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2014,01/01/2014 12:00:00 AM,472.9549894312899
+351,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2015,01/01/2015 12:00:00 AM,527.0312660105129
+352,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2016,01/01/2016 12:00:00 AM,582.5258516180089
+353,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2017,01/01/2017 12:00:00 AM,614.4824515064606
+354,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2018,01/01/2018 12:00:00 AM,661.796621809092
+355,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2019,01/01/2019 12:00:00 AM,717.2072435662698
+356,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2020,01/01/2020 12:00:00 AM,750.5852185530579
+357,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2021,01/01/2021 12:00:00 AM,734.7426517474529
+358,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2022,01/01/2022 12:00:00 AM,782.7714661687754
+359,"Total Credit (real index, period average)",Dominican Republic,DOM,Annual,2023,01/01/2023 12:00:00 AM,873.4949724088797
+360,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2007,01/01/2007 12:00:00 AM,100.0
+361,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2008,01/01/2008 12:00:00 AM,95.71621630567653
+362,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2009,01/01/2009 12:00:00 AM,88.9451834703945
+363,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2010,01/01/2010 12:00:00 AM,85.50532902487338
+364,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2011,01/01/2011 12:00:00 AM,89.10153157797178
+365,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2012,01/01/2012 12:00:00 AM,102.4612776804814
+366,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2013,01/01/2013 12:00:00 AM,116.1030889490479
+367,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2014,01/01/2014 12:00:00 AM,130.0087721450921
+368,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2015,01/01/2015 12:00:00 AM,150.2636674697833
+369,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2016,01/01/2016 12:00:00 AM,174.7852814224298
+370,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2017,01/01/2017 12:00:00 AM,198.5462957369247
+371,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2019,01/01/2019 12:00:00 AM,158.5128630678877
+372,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2020,01/01/2020 12:00:00 AM,141.9771802077649
+373,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2021,01/01/2021 12:00:00 AM,139.5214603658191
+374,"Total Credit (real index, period average)",Nicaragua,NIC,Annual,2022,01/01/2022 12:00:00 AM,139.9021053288285
+375,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,1995,01/01/1995 12:00:00 AM,100.0
+376,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,1996,01/01/1996 12:00:00 AM,99.82231201137706
+377,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,1997,01/01/1997 12:00:00 AM,109.1068858628318
+378,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,1998,01/01/1998 12:00:00 AM,126.0268920826311
+379,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,1999,01/01/1999 12:00:00 AM,133.8323206281966
+380,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2000,01/01/2000 12:00:00 AM,141.2115082224586
+381,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2001,01/01/2001 12:00:00 AM,149.2251140138995
+382,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2002,01/01/2002 12:00:00 AM,157.5427149195337
+383,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2003,01/01/2003 12:00:00 AM,145.4087884541384
+384,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2004,01/01/2004 12:00:00 AM,167.2905767361597
+385,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2005,01/01/2005 12:00:00 AM,196.4286693521482
+386,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2006,01/01/2006 12:00:00 AM,219.4595089985212
+387,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2007,01/01/2007 12:00:00 AM,247.2903296922494
+388,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2008,01/01/2008 12:00:00 AM,264.2351666115414
+389,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2009,01/01/2009 12:00:00 AM,260.9598561981791
+390,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2010,01/01/2010 12:00:00 AM,240.3940244952294
+391,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2011,01/01/2011 12:00:00 AM,237.0133433390776
+392,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2012,01/01/2012 12:00:00 AM,222.9859716424241
+393,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2013,01/01/2013 12:00:00 AM,223.2533175075603
+394,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2014,01/01/2014 12:00:00 AM,224.9887857552228
+395,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2015,01/01/2015 12:00:00 AM,235.875925145238
+396,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2016,01/01/2016 12:00:00 AM,241.8322646019703
+397,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2017,01/01/2017 12:00:00 AM,242.4096022142952
+398,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2018,01/01/2018 12:00:00 AM,249.2588490716469
+399,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2019,01/01/2019 12:00:00 AM,256.9441113969767
+400,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2020,01/01/2020 12:00:00 AM,263.1698961459861
+401,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2021,01/01/2021 12:00:00 AM,258.0464663617841
+402,"Total Credit (real index, period average)",Trinidad and Tobago,TTO,Annual,2022,01/01/2022 12:00:00 AM,252.6725763199403

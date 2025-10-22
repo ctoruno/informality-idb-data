@@ -1,0 +1,374 @@
+_id,name,country,isoalpha3,frequency,period,date,value
+1,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2006,01/01/2006 12:00:00 AM,-1.332425493343821
+2,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2007,01/01/2007 12:00:00 AM,-1.728119820902339
+3,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2008,01/01/2008 12:00:00 AM,-2.305195206660664
+4,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2009,01/01/2009 12:00:00 AM,-0.992746537421497
+5,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2010,01/01/2010 12:00:00 AM,-2.447392507748073
+6,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2011,01/01/2011 12:00:00 AM,-1.778588979010517
+7,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2012,01/01/2012 12:00:00 AM,-2.47523688175616
+8,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2013,01/01/2013 12:00:00 AM,-1.478939066650213
+9,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2014,01/01/2014 12:00:00 AM,-0.565308251391653
+10,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2015,01/01/2015 12:00:00 AM,-1.72584076345032
+11,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2016,01/01/2016 12:00:00 AM,-0.267657267855615
+12,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2017,01/01/2017 12:00:00 AM,-1.628822402139635
+13,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2018,01/01/2018 12:00:00 AM,-1.986453267040236
+14,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2019,01/01/2019 12:00:00 AM,-1.170543670026548
+15,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2020,01/01/2020 12:00:00 AM,-0.975526542078614
+16,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2021,01/01/2021 12:00:00 AM,-1.109235779419125
+17,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2022,01/01/2022 12:00:00 AM,-2.159891700766648
+18,"Foreign Direct Investment, Net (% of GDP)",Argentina,ARG,Annual,2023,01/01/2023 12:00:00 AM,-3.427251166557119
+19,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2003,01/01/2003 12:00:00 AM,2.177568170217593
+20,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2004,01/01/2004 12:00:00 AM,3.047040260575352
+21,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2005,01/01/2005 12:00:00 AM,3.264472429128512
+22,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2006,01/01/2006 12:00:00 AM,1.773910214763785
+23,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2007,01/01/2007 12:00:00 AM,3.584140957741792
+24,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2008,01/01/2008 12:00:00 AM,5.760778148870208
+25,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2009,01/01/2009 12:00:00 AM,4.043217484241405
+26,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2010,01/01/2010 12:00:00 AM,2.89674575201454
+27,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2011,01/01/2011 12:00:00 AM,3.772296022961072
+28,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2012,01/01/2012 12:00:00 AM,4.44180882971466
+29,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2013,01/01/2013 12:00:00 AM,4.255498110708936
+30,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2014,01/01/2014 12:00:00 AM,5.955041877040371
+31,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2015,01/01/2015 12:00:00 AM,0.790053210022086
+32,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2016,01/01/2016 12:00:00 AM,1.39869099699383
+33,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2017,01/01/2017 12:00:00 AM,0.97808106126091
+34,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2018,01/01/2018 12:00:00 AM,2.063780938492534
+35,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2019,01/01/2019 12:00:00 AM,1.163145741595962
+36,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2020,01/01/2020 12:00:00 AM,1.987715995554628
+37,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2021,01/01/2021 12:00:00 AM,0.191381048190726
+38,"Foreign Direct Investment, Net (% of GDP)",Chile,CHL,Annual,2022,01/01/2022 12:00:00 AM,1.664347406727991
+39,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2002,01/01/2002 12:00:00 AM,-2.861425196015938
+40,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2003,01/01/2003 12:00:00 AM,-2.220168750197026
+41,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2004,01/01/2004 12:00:00 AM,-2.511859305488163
+42,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2005,01/01/2005 12:00:00 AM,-2.10630159004802
+43,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2006,01/01/2006 12:00:00 AM,-1.514413027298811
+44,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2007,01/01/2007 12:00:00 AM,-2.058102478952279
+45,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2008,01/01/2008 12:00:00 AM,-2.502265654055205
+46,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2009,01/01/2009 12:00:00 AM,-0.846804420206795
+47,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2010,01/01/2010 12:00:00 AM,-1.142532898009579
+48,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2011,01/01/2011 12:00:00 AM,-1.002588975106133
+49,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2012,01/01/2012 12:00:00 AM,0.043280567584017
+50,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2013,01/01/2013 12:00:00 AM,-2.478145881674253
+51,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2014,01/01/2014 12:00:00 AM,-1.674162458688571
+52,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2015,01/01/2015 12:00:00 AM,-2.082887557926274
+53,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2016,01/01/2016 12:00:00 AM,-2.789868188232895
+54,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2017,01/01/2017 12:00:00 AM,-2.525315778755415
+55,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2018,01/01/2018 12:00:00 AM,-2.03867478339459
+56,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2019,01/01/2019 12:00:00 AM,-1.828204580763802
+57,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2020,01/01/2020 12:00:00 AM,-2.363439608197187
+58,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2021,01/01/2021 12:00:00 AM,-2.585850556324578
+59,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2022,01/01/2022 12:00:00 AM,-1.488408138249535
+60,"Foreign Direct Investment, Net (% of GDP)",Mexico,MEX,Annual,2023,01/01/2023 12:00:00 AM,-1.656258825624295
+61,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2008,01/01/2008 12:00:00 AM,1.792785135512848
+62,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2009,01/01/2009 12:00:00 AM,1.295556445550463
+63,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2010,01/01/2010 12:00:00 AM,1.467088876557252
+64,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2011,01/01/2011 12:00:00 AM,2.406127956113545
+65,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2012,01/01/2012 12:00:00 AM,2.460916628938418
+66,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2013,01/01/2013 12:00:00 AM,2.737928217481783
+67,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2014,01/01/2014 12:00:00 AM,2.402441194048737
+68,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2015,01/01/2015 12:00:00 AM,1.688707612327796
+69,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2016,01/01/2016 12:00:00 AM,1.464051464184109
+70,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2017,01/01/2017 12:00:00 AM,1.306421519743192
+71,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2018,01/01/2018 12:00:00 AM,1.066195949843472
+72,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2019,01/01/2019 12:00:00 AM,1.034166891661532
+73,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2020,01/01/2020 12:00:00 AM,1.013264900659334
+74,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2021,01/01/2021 12:00:00 AM,3.477399084905688
+75,"Foreign Direct Investment, Net (% of GDP)",Guatemala,GTM,Annual,2022,01/01/2022 12:00:00 AM,0.692443099470842
+76,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2000,01/01/2000 12:00:00 AM,-2.1146176281976
+77,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2001,01/01/2001 12:00:00 AM,-2.572345017425606
+78,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2002,01/01/2002 12:00:00 AM,-1.304466342524076
+79,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2003,01/01/2003 12:00:00 AM,-0.827082747480127
+80,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2004,01/01/2004 12:00:00 AM,-2.495637285511956
+81,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2005,01/01/2005 12:00:00 AM,-3.735780227002337
+82,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2006,01/01/2006 12:00:00 AM,-3.387973810045389
+83,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2007,01/01/2007 12:00:00 AM,-3.686762206997499
+84,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2008,01/01/2008 12:00:00 AM,-3.087907139632444
+85,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2009,01/01/2009 12:00:00 AM,-1.949438334303002
+86,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2010,01/01/2010 12:00:00 AM,-0.330539824343501
+87,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2011,01/01/2011 12:00:00 AM,-1.858925469362419
+88,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2012,01/01/2012 12:00:00 AM,-4.218197141659505
+89,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2013,01/01/2013 12:00:00 AM,-2.239974156959619
+90,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2014,01/01/2014 12:00:00 AM,-3.221042675756971
+91,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2015,01/01/2015 12:00:00 AM,-2.524747600542348
+92,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2016,01/01/2016 12:00:00 AM,-3.304906817817729
+93,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2017,01/01/2017 12:00:00 AM,-3.209833591771364
+94,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2018,01/01/2018 12:00:00 AM,-1.84674628698106
+95,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2019,01/01/2019 12:00:00 AM,-3.353066536240132
+96,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2020,01/01/2020 12:00:00 AM,-2.118249762463906
+97,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2021,01/01/2021 12:00:00 AM,-2.004117811616623
+98,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2022,01/01/2022 12:00:00 AM,-3.901723539204755
+99,"Foreign Direct Investment, Net (% of GDP)",Colombia,COL,Annual,2023,01/01/2023 12:00:00 AM,-0.980140344282289
+100,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2008,01/01/2008 12:00:00 AM,1.282249091537795
+101,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2009,01/01/2009 12:00:00 AM,0.500803610237078
+102,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2010,01/01/2010 12:00:00 AM,2.092932257094636
+103,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2011,01/01/2011 12:00:00 AM,1.830605445711978
+104,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2012,01/01/2012 12:00:00 AM,2.607699817138618
+105,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2013,01/01/2013 12:00:00 AM,0.516306340910362
+106,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2014,01/01/2014 12:00:00 AM,1.126071587885377
+107,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2015,01/01/2015 12:00:00 AM,1.056561505928977
+108,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2016,01/01/2016 12:00:00 AM,1.286315636835528
+109,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2017,01/01/2017 12:00:00 AM,0.398358424606844
+110,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2018,01/01/2018 12:00:00 AM,0.569742047196356
+111,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2019,01/01/2019 12:00:00 AM,1.408360774504872
+112,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2020,01/01/2020 12:00:00 AM,0.447683823106552
+113,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2021,01/01/2021 12:00:00 AM,0.222258990824196
+114,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2022,01/01/2022 12:00:00 AM,1.727718385938594
+115,"Foreign Direct Investment, Net (% of GDP)",Paraguay,PRY,Annual,2023,01/01/2023 12:00:00 AM,0.760556112623481
+116,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,1999,01/01/1999 12:00:00 AM,-1.435636055087732
+117,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2000,01/01/2000 12:00:00 AM,-1.513798005525478
+118,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2001,01/01/2001 12:00:00 AM,-2.349678082687796
+119,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2002,01/01/2002 12:00:00 AM,-3.914186295430213
+120,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2003,01/01/2003 12:00:00 AM,-0.925709741769891
+121,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2004,01/01/2004 12:00:00 AM,-2.666849126032326
+122,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2005,01/01/2005 12:00:00 AM,-2.709484283575997
+123,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2006,01/01/2006 12:00:00 AM,-1.671450035875269
+124,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2007,01/01/2007 12:00:00 AM,-8.55473422781313
+125,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2008,01/01/2008 12:00:00 AM,-4.579004251988116
+126,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2009,01/01/2009 12:00:00 AM,-2.078047361549675
+127,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2010,01/01/2010 12:00:00 AM,1.222713779346967
+128,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2011,01/01/2011 12:00:00 AM,-1.076865346539209
+129,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2012,01/01/2012 12:00:00 AM,-2.179075941648355
+130,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2013,01/01/2013 12:00:00 AM,-0.814455488144567
+131,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2014,01/01/2014 12:00:00 AM,-1.356349641289849
+132,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2015,01/01/2015 12:00:00 AM,-1.691040765630759
+133,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2016,01/01/2016 12:00:00 AM,-1.437918574245832
+134,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2017,01/01/2017 12:00:00 AM,-3.558340051592189
+135,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2018,01/01/2018 12:00:00 AM,-3.174556708235903
+136,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2019,01/01/2019 12:00:00 AM,-2.365090723078587
+137,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2020,01/01/2020 12:00:00 AM,-1.090110674967254
+138,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2021,01/01/2021 12:00:00 AM,-1.046577571135281
+139,"Foreign Direct Investment, Net (% of GDP)",El Salvador,SLV,Annual,2022,01/01/2022 12:00:00 AM,0.310614305307906
+140,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,1999,01/01/1999 12:00:00 AM,1.940420880021864
+141,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2000,01/01/2000 12:00:00 AM,3.100352875626819
+142,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2001,01/01/2001 12:00:00 AM,1.215465627930463
+143,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2002,01/01/2002 12:00:00 AM,1.592127190019367
+144,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2003,01/01/2003 12:00:00 AM,1.634705358451427
+145,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2004,01/01/2004 12:00:00 AM,3.021434960741224
+146,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2005,01/01/2005 12:00:00 AM,3.656900022366361
+147,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2006,01/01/2006 12:00:00 AM,6.941862638065172
+148,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2007,01/01/2007 12:00:00 AM,6.528351996082235
+149,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2008,01/01/2008 12:00:00 AM,6.645449363480904
+150,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2009,01/01/2009 12:00:00 AM,6.54878781807253
+151,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2010,01/01/2010 12:00:00 AM,8.62338794350126
+152,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2011,01/01/2011 12:00:00 AM,6.619399428026693
+153,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2012,01/01/2012 12:00:00 AM,3.359917914276385
+154,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2013,01/01/2013 12:00:00 AM,3.59723738191125
+155,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2014,01/01/2014 12:00:00 AM,2.293448203480785
+156,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2015,01/01/2015 12:00:00 AM,3.288842437118772
+157,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2016,01/01/2016 12:00:00 AM,4.973278415086633
+158,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2017,01/01/2017 12:00:00 AM,3.685477618639573
+159,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2018,01/01/2018 12:00:00 AM,5.098194175524559
+160,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2019,01/01/2019 12:00:00 AM,3.692529175728244
+161,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2020,01/01/2020 12:00:00 AM,4.455333893752691
+162,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2021,01/01/2021 12:00:00 AM,2.272806134841598
+163,"Foreign Direct Investment, Net (% of GDP)",Bahamas,BHS,Annual,2022,01/01/2022 12:00:00 AM,4.11633352458635
+164,"Foreign Direct Investment, Net (% of GDP)",Barbados,BRB,Annual,2006,01/01/2006 12:00:00 AM,7.061603209166679
+165,"Foreign Direct Investment, Net (% of GDP)",Barbados,BRB,Annual,2007,01/01/2007 12:00:00 AM,8.433158221116816
+166,"Foreign Direct Investment, Net (% of GDP)",Barbados,BRB,Annual,2008,01/01/2008 12:00:00 AM,11.3200070558487
+167,"Foreign Direct Investment, Net (% of GDP)",Barbados,BRB,Annual,2009,01/01/2009 12:00:00 AM,5.109794265479792
+168,"Foreign Direct Investment, Net (% of GDP)",Barbados,BRB,Annual,2010,01/01/2010 12:00:00 AM,2.233654331130066
+169,"Foreign Direct Investment, Net (% of GDP)",Barbados,BRB,Annual,2011,01/01/2011 12:00:00 AM,-2.161736230027491
+170,"Foreign Direct Investment, Net (% of GDP)",Barbados,BRB,Annual,2012,01/01/2012 12:00:00 AM,10.57990172205741
+171,"Foreign Direct Investment, Net (% of GDP)",Barbados,BRB,Annual,2013,01/01/2013 12:00:00 AM,1.660280926335762
+172,"Foreign Direct Investment, Net (% of GDP)",Barbados,BRB,Annual,2014,01/01/2014 12:00:00 AM,17.44588916757473
+173,"Foreign Direct Investment, Net (% of GDP)",Barbados,BRB,Annual,2015,01/01/2015 12:00:00 AM,7.738253859403215
+174,"Foreign Direct Investment, Net (% of GDP)",Barbados,BRB,Annual,2016,01/01/2016 12:00:00 AM,9.559845280468256
+175,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,1990,01/01/1990 12:00:00 AM,2.066953239773451
+176,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,1991,01/01/1991 12:00:00 AM,1.505197210042987
+177,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,1992,01/01/1992 12:00:00 AM,1.763419869004681
+178,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,1993,01/01/1993 12:00:00 AM,1.895281200251832
+179,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,1994,01/01/1994 12:00:00 AM,4.207600691961066
+180,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,1995,01/01/1995 12:00:00 AM,2.286072926402467
+181,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,1996,01/01/1996 12:00:00 AM,4.131448347479027
+182,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,1997,01/01/1997 12:00:00 AM,11.94322621144753
+183,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,1998,01/01/1998 12:00:00 AM,10.20063710487424
+184,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,1999,01/01/1999 12:00:00 AM,6.113538171995424
+185,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2000,01/01/2000 12:00:00 AM,4.976628557206568
+186,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2001,01/01/2001 12:00:00 AM,3.666882296682159
+187,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2002,01/01/2002 12:00:00 AM,0.744719060932432
+188,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2003,01/01/2003 12:00:00 AM,5.859044876868169
+189,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2004,01/01/2004 12:00:00 AM,6.662037409554557
+190,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2005,01/01/2005 12:00:00 AM,5.499927467232859
+191,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2006,01/01/2006 12:00:00 AM,13.78070573567785
+192,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2007,01/01/2007 12:00:00 AM,8.9152963730296
+193,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2008,01/01/2008 12:00:00 AM,8.533588637379845
+194,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2009,01/01/2009 12:00:00 AM,4.64401279878569
+195,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2010,01/01/2010 12:00:00 AM,8.174172475005255
+196,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2011,01/01/2011 12:00:00 AM,8.582657070696762
+197,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2012,01/01/2012 12:00:00 AM,8.619645485203131
+198,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2013,01/01/2013 12:00:00 AM,7.097150679199708
+199,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2014,01/01/2014 12:00:00 AM,8.272193465163472
+200,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2015,01/01/2015 12:00:00 AM,7.343268063947679
+201,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2016,01/01/2016 12:00:00 AM,7.869765704372004
+202,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2017,01/01/2017 12:00:00 AM,6.936191277501015
+203,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2018,01/01/2018 12:00:00 AM,7.907202798065251
+204,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2019,01/01/2019 12:00:00 AM,5.502773654603359
+205,"Foreign Direct Investment, Net (% of GDP)",Panama,PAN,Annual,2020,01/01/2020 12:00:00 AM,1.162160953366411
+206,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,1999,01/01/1999 12:00:00 AM,3.957339369578821
+207,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2000,01/01/2000 12:00:00 AM,4.102404832353251
+208,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2001,01/01/2001 12:00:00 AM,3.46337440534848
+209,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2002,01/01/2002 12:00:00 AM,3.56276872876351
+210,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2003,01/01/2003 12:00:00 AM,3.600860609706218
+211,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2004,01/01/2004 12:00:00 AM,4.712651604126272
+212,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2005,01/01/2005 12:00:00 AM,6.879110478447434
+213,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2006,01/01/2006 12:00:00 AM,6.964408784142775
+214,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2007,01/01/2007 12:00:00 AM,6.739438078546124
+215,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2008,01/01/2008 12:00:00 AM,7.270713366891952
+216,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2009,01/01/2009 12:00:00 AM,4.359365295590204
+217,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2010,01/01/2010 12:00:00 AM,4.220043206432831
+218,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2011,01/01/2011 12:00:00 AM,5.444514822037593
+219,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2012,01/01/2012 12:00:00 AM,3.816809170093942
+220,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2013,01/01/2013 12:00:00 AM,4.713379169898627
+221,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2014,01/01/2014 12:00:00 AM,5.417020171226533
+222,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2015,01/01/2015 12:00:00 AM,4.502520336938116
+223,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2016,01/01/2016 12:00:00 AM,3.61451614576261
+224,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2017,01/01/2017 12:00:00 AM,4.382463197834744
+225,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2018,01/01/2018 12:00:00 AM,3.899045784589235
+226,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2019,01/01/2019 12:00:00 AM,4.183856482526826
+227,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2020,01/01/2020 12:00:00 AM,2.635226451583433
+228,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2021,01/01/2021 12:00:00 AM,4.843203716800893
+229,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2022,01/01/2022 12:00:00 AM,4.419330331787099
+230,"Foreign Direct Investment, Net (% of GDP)",Costa Rica,CRI,Annual,2023,01/01/2023 12:00:00 AM,4.431919373469575
+231,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,1996,01/01/1996 12:00:00 AM,-1.326836543482423
+232,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,1997,01/01/1997 12:00:00 AM,-2.027981408600806
+233,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,1998,01/01/1998 12:00:00 AM,-3.018320097450893
+234,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,1999,01/01/1999 12:00:00 AM,-4.574560478150907
+235,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2000,01/01/2000 12:00:00 AM,-4.664533118504291
+236,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2001,01/01/2001 12:00:00 AM,-4.418656815296049
+237,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2002,01/01/2002 12:00:00 AM,-2.840492547125582
+238,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2003,01/01/2003 12:00:00 AM,-1.761942741964119
+239,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2004,01/01/2004 12:00:00 AM,-1.242199702890223
+240,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2005,01/01/2005 12:00:00 AM,-1.394349381126616
+241,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2006,01/01/2006 12:00:00 AM,0.843692253833862
+242,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2007,01/01/2007 12:00:00 AM,-1.951563242353159
+243,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2008,01/01/2008 12:00:00 AM,-1.449809874157088
+244,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2009,01/01/2009 12:00:00 AM,-2.150978755224088
+245,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2010,01/01/2010 12:00:00 AM,-2.516753473116672
+246,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2011,01/01/2011 12:00:00 AM,-3.295673808486858
+247,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2012,01/01/2012 12:00:00 AM,-3.680141671132103
+248,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2013,01/01/2013 12:00:00 AM,-2.428406349647264
+249,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2014,01/01/2014 12:00:00 AM,-2.739673201183674
+250,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2015,01/01/2015 12:00:00 AM,-3.479983506140784
+251,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2016,01/01/2016 12:00:00 AM,-3.279220469517701
+252,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2017,01/01/2017 12:00:00 AM,-2.312101191993779
+253,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2018,01/01/2018 12:00:00 AM,-4.000316281753893
+254,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2019,01/01/2019 12:00:00 AM,-2.474047132605986
+255,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2020,01/01/2020 12:00:00 AM,-2.875167576603159
+256,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2021,01/01/2021 12:00:00 AM,-1.811923778747606
+257,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2022,01/01/2022 12:00:00 AM,-2.102765229044399
+258,"Foreign Direct Investment, Net (% of GDP)",Brazil,BRA,Annual,2023,01/01/2023 12:00:00 AM,-1.54698353333127
+259,"Foreign Direct Investment, Net (% of GDP)",Uruguay,URY,Annual,2012,01/01/2012 12:00:00 AM,-3.944442165244127
+260,"Foreign Direct Investment, Net (% of GDP)",Uruguay,URY,Annual,2013,01/01/2013 12:00:00 AM,-4.797138467213367
+261,"Foreign Direct Investment, Net (% of GDP)",Uruguay,URY,Annual,2014,01/01/2014 12:00:00 AM,-3.554094423001584
+262,"Foreign Direct Investment, Net (% of GDP)",Uruguay,URY,Annual,2015,01/01/2015 12:00:00 AM,-1.319421142150181
+263,"Foreign Direct Investment, Net (% of GDP)",Uruguay,URY,Annual,2016,01/01/2016 12:00:00 AM,3.171710240195785
+264,"Foreign Direct Investment, Net (% of GDP)",Uruguay,URY,Annual,2017,01/01/2017 12:00:00 AM,3.126750130944858
+265,"Foreign Direct Investment, Net (% of GDP)",Uruguay,URY,Annual,2018,01/01/2018 12:00:00 AM,1.119803784365036
+266,"Foreign Direct Investment, Net (% of GDP)",Uruguay,URY,Annual,2019,01/01/2019 12:00:00 AM,-2.243100008162626
+267,"Foreign Direct Investment, Net (% of GDP)",Uruguay,URY,Annual,2020,01/01/2020 12:00:00 AM,-1.893711168321775
+268,"Foreign Direct Investment, Net (% of GDP)",Uruguay,URY,Annual,2021,01/01/2021 12:00:00 AM,-2.481355261728228
+269,"Foreign Direct Investment, Net (% of GDP)",Uruguay,URY,Annual,2022,01/01/2022 12:00:00 AM,-4.197273359234306
+270,"Foreign Direct Investment, Net (% of GDP)",Uruguay,URY,Annual,2023,01/01/2023 12:00:00 AM,-5.45603156018849
+271,"Foreign Direct Investment, Net (% of GDP)",Peru,PER,Annual,2012,01/01/2012 12:00:00 AM,7.046507056270325
+272,"Foreign Direct Investment, Net (% of GDP)",Peru,PER,Annual,2013,01/01/2013 12:00:00 AM,4.884672595413467
+273,"Foreign Direct Investment, Net (% of GDP)",Peru,PER,Annual,2014,01/01/2014 12:00:00 AM,2.241686699579367
+274,"Foreign Direct Investment, Net (% of GDP)",Peru,PER,Annual,2015,01/01/2015 12:00:00 AM,4.292135261454639
+275,"Foreign Direct Investment, Net (% of GDP)",Peru,PER,Annual,2016,01/01/2016 12:00:00 AM,3.303188364918233
+276,"Foreign Direct Investment, Net (% of GDP)",Peru,PER,Annual,2017,01/01/2017 12:00:00 AM,3.019067289752797
+277,"Foreign Direct Investment, Net (% of GDP)",Peru,PER,Annual,2018,01/01/2018 12:00:00 AM,2.983159131841424
+278,"Foreign Direct Investment, Net (% of GDP)",Peru,PER,Annual,2019,01/01/2019 12:00:00 AM,2.659892680050075
+279,"Foreign Direct Investment, Net (% of GDP)",Peru,PER,Annual,2020,01/01/2020 12:00:00 AM,-0.394949504856377
+280,"Foreign Direct Investment, Net (% of GDP)",Peru,PER,Annual,2021,01/01/2021 12:00:00 AM,2.611417922386768
+281,"Foreign Direct Investment, Net (% of GDP)",Peru,PER,Annual,2022,01/01/2022 12:00:00 AM,4.778196806768296
+282,"Foreign Direct Investment, Net (% of GDP)",Peru,PER,Annual,2023,01/01/2023 12:00:00 AM,1.338250333859571
+283,"Foreign Direct Investment, Net (% of GDP)",Ecuador,ECU,Annual,2016,01/01/2016 12:00:00 AM,0.0
+284,"Foreign Direct Investment, Net (% of GDP)",Ecuador,ECU,Annual,2017,01/01/2017 12:00:00 AM,0.0
+285,"Foreign Direct Investment, Net (% of GDP)",Ecuador,ECU,Annual,2018,01/01/2018 12:00:00 AM,0.0
+286,"Foreign Direct Investment, Net (% of GDP)",Ecuador,ECU,Annual,2019,01/01/2019 12:00:00 AM,0.0
+287,"Foreign Direct Investment, Net (% of GDP)",Ecuador,ECU,Annual,2020,01/01/2020 12:00:00 AM,0.0
+288,"Foreign Direct Investment, Net (% of GDP)",Ecuador,ECU,Annual,2021,01/01/2021 12:00:00 AM,0.0
+289,"Foreign Direct Investment, Net (% of GDP)",Ecuador,ECU,Annual,2022,01/01/2022 12:00:00 AM,0.0
+290,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,1998,01/01/1998 12:00:00 AM,12.04584259656938
+291,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,1999,01/01/1999 12:00:00 AM,12.16967481739771
+292,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2001,01/01/2001 12:00:00 AM,8.637701929802631
+293,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2002,01/01/2002 12:00:00 AM,8.526990922835319
+294,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2003,01/01/2003 12:00:00 AM,2.4101751990088
+295,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2004,01/01/2004 12:00:00 AM,0.941964225802984
+296,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2005,01/01/2005 12:00:00 AM,-3.045411894965288
+297,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2006,01/01/2006 12:00:00 AM,2.484152200870046
+298,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2007,01/01/2007 12:00:00 AM,2.75921556666257
+299,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2008,01/01/2008 12:00:00 AM,3.044144774741298
+300,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2009,01/01/2009 12:00:00 AM,2.454737616511334
+301,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2010,01/01/2010 12:00:00 AM,3.419265628420017
+302,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2011,01/01/2011 12:00:00 AM,3.584427266236585
+303,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2012,01/01/2012 12:00:00 AM,3.913550146003349
+304,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2013,01/01/2013 12:00:00 AM,5.70662212000731
+305,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2015,01/01/2015 12:00:00 AM,1.525578813737209
+306,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2016,01/01/2016 12:00:00 AM,-0.726256071911576
+307,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2017,01/01/2017 12:00:00 AM,-1.687027278224603
+308,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2018,01/01/2018 12:00:00 AM,-0.960180365674291
+309,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2019,01/01/2019 12:00:00 AM,0.647876425398258
+310,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2020,01/01/2020 12:00:00 AM,2.780133113336195
+311,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2021,01/01/2021 12:00:00 AM,-1.218248117288692
+312,"Foreign Direct Investment, Net (% of GDP)",Bolivia,BOL,Annual,2022,01/01/2022 12:00:00 AM,-0.745212899141668
+313,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2010,01/01/2010 12:00:00 AM,-3.75305108718217
+314,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2011,01/01/2011 12:00:00 AM,-3.919416227958754
+315,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2012,01/01/2012 12:00:00 AM,-5.172952589935466
+316,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2013,01/01/2013 12:00:00 AM,-3.171692588495168
+317,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2014,01/01/2014 12:00:00 AM,-3.283347985262348
+318,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2015,01/01/2015 12:00:00 AM,-3.09442184397359
+319,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2016,01/01/2016 12:00:00 AM,-3.176024753588162
+320,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2017,01/01/2017 12:00:00 AM,-4.458821916465003
+321,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2018,01/01/2018 12:00:00 AM,-2.960818791226989
+322,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2019,01/01/2019 12:00:00 AM,-3.393176205415493
+323,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2020,01/01/2020 12:00:00 AM,-3.243167371895421
+324,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2021,01/01/2021 12:00:00 AM,-3.384362198370923
+325,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2022,01/01/2022 12:00:00 AM,-3.59945961533651
+326,"Foreign Direct Investment, Net (% of GDP)",Dominican Republic,DOM,Annual,2023,01/01/2023 12:00:00 AM,-3.604888234914668
+327,"Foreign Direct Investment, Net (% of GDP)",Honduras,HND,Annual,2013,01/01/2013 12:00:00 AM,0.421760657136291
+328,"Foreign Direct Investment, Net (% of GDP)",Honduras,HND,Annual,2014,01/01/2014 12:00:00 AM,1.985744043967017
+329,"Foreign Direct Investment, Net (% of GDP)",Honduras,HND,Annual,2015,01/01/2015 12:00:00 AM,1.752329857291201
+330,"Foreign Direct Investment, Net (% of GDP)",Honduras,HND,Annual,2016,01/01/2016 12:00:00 AM,1.144824582510494
+331,"Foreign Direct Investment, Net (% of GDP)",Honduras,HND,Annual,2017,01/01/2017 12:00:00 AM,-0.408582757126027
+332,"Foreign Direct Investment, Net (% of GDP)",Honduras,HND,Annual,2018,01/01/2018 12:00:00 AM,2.027996259183282
+333,"Foreign Direct Investment, Net (% of GDP)",Honduras,HND,Annual,2019,01/01/2019 12:00:00 AM,1.683151681770833
+334,"Foreign Direct Investment, Net (% of GDP)",Honduras,HND,Annual,2020,01/01/2020 12:00:00 AM,-0.445458299791034
+335,"Foreign Direct Investment, Net (% of GDP)",Honduras,HND,Annual,2021,01/01/2021 12:00:00 AM,1.016737509354451
+336,"Foreign Direct Investment, Net (% of GDP)",Honduras,HND,Annual,2022,01/01/2022 12:00:00 AM,0.067507111457729
+337,"Foreign Direct Investment, Net (% of GDP)",Belize,BLZ,Annual,2011,01/01/2011 12:00:00 AM,-5.390343828610451
+338,"Foreign Direct Investment, Net (% of GDP)",Belize,BLZ,Annual,2012,01/01/2012 12:00:00 AM,-10.05514025666364
+339,"Foreign Direct Investment, Net (% of GDP)",Belize,BLZ,Annual,2013,01/01/2013 12:00:00 AM,-4.773405695629393
+340,"Foreign Direct Investment, Net (% of GDP)",Belize,BLZ,Annual,2014,01/01/2014 12:00:00 AM,-7.013654675584642
+341,"Foreign Direct Investment, Net (% of GDP)",Belize,BLZ,Annual,2015,01/01/2015 12:00:00 AM,-3.075877775990406
+342,"Foreign Direct Investment, Net (% of GDP)",Belize,BLZ,Annual,2016,01/01/2016 12:00:00 AM,-1.967891837504201
+343,"Foreign Direct Investment, Net (% of GDP)",Belize,BLZ,Annual,2017,01/01/2017 12:00:00 AM,-1.099478306366783
+344,"Foreign Direct Investment, Net (% of GDP)",Belize,BLZ,Annual,2018,01/01/2018 12:00:00 AM,-5.080305859968221
+345,"Foreign Direct Investment, Net (% of GDP)",Belize,BLZ,Annual,2019,01/01/2019 12:00:00 AM,-3.858059755887937
+346,"Foreign Direct Investment, Net (% of GDP)",Belize,BLZ,Annual,2020,01/01/2020 12:00:00 AM,-3.768201756151059
+347,"Foreign Direct Investment, Net (% of GDP)",Belize,BLZ,Annual,2021,01/01/2021 12:00:00 AM,-5.206600737926941
+348,"Foreign Direct Investment, Net (% of GDP)",Belize,BLZ,Annual,2022,01/01/2022 12:00:00 AM,-4.754217068110126
+349,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2006,01/01/2006 12:00:00 AM,3.937553359012562
+350,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2007,01/01/2007 12:00:00 AM,4.94547499139318
+351,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2008,01/01/2008 12:00:00 AM,7.174297727245466
+352,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2009,01/01/2009 12:00:00 AM,5.590162493571391
+353,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2010,01/01/2010 12:00:00 AM,5.431619631813049
+354,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2011,01/01/2011 12:00:00 AM,9.519092018571046
+355,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2012,01/01/2012 12:00:00 AM,6.776495658784003
+356,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2013,01/01/2013 12:00:00 AM,7.4351726433739
+357,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2014,01/01/2014 12:00:00 AM,8.288705938223382
+358,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2015,01/01/2015 12:00:00 AM,7.241801895917639
+359,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2016,01/01/2016 12:00:00 AM,6.966853992276803
+360,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2017,01/01/2017 12:00:00 AM,7.056504662950752
+361,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2018,01/01/2018 12:00:00 AM,5.865546021011438
+362,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2019,01/01/2019 12:00:00 AM,3.501961461672007
+363,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2020,01/01/2020 12:00:00 AM,5.582974340597087
+364,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2021,01/01/2021 12:00:00 AM,8.533687578809678
+365,"Foreign Direct Investment, Net (% of GDP)",Nicaragua,NIC,Annual,2022,01/01/2022 12:00:00 AM,8.180563540562211
+366,"Foreign Direct Investment, Net (% of GDP)",Trinidad and Tobago,TTO,Annual,2015,01/01/2015 12:00:00 AM,0.178410113362447
+367,"Foreign Direct Investment, Net (% of GDP)",Trinidad and Tobago,TTO,Annual,2016,01/01/2016 12:00:00 AM,0.007555643061281
+368,"Foreign Direct Investment, Net (% of GDP)",Trinidad and Tobago,TTO,Annual,2017,01/01/2017 12:00:00 AM,-1.901290707277858
+369,"Foreign Direct Investment, Net (% of GDP)",Trinidad and Tobago,TTO,Annual,2018,01/01/2018 12:00:00 AM,-3.108015222954629
+370,"Foreign Direct Investment, Net (% of GDP)",Trinidad and Tobago,TTO,Annual,2019,01/01/2019 12:00:00 AM,0.2936184012386
+371,"Foreign Direct Investment, Net (% of GDP)",Trinidad and Tobago,TTO,Annual,2020,01/01/2020 12:00:00 AM,4.603564782975216
+372,"Foreign Direct Investment, Net (% of GDP)",Trinidad and Tobago,TTO,Annual,2021,01/01/2021 12:00:00 AM,-6.947774800263421
+373,"Foreign Direct Investment, Net (% of GDP)",Trinidad and Tobago,TTO,Annual,2022,01/01/2022 12:00:00 AM,-6.940168468713559

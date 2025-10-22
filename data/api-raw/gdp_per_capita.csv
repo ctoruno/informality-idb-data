@@ -1,0 +1,582 @@
+_id,name,country,isoalpha3,frequency,period,date,value
+1,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,1993,01/01/1993 12:00:00 AM,7535.541554789233
+2,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,1994,01/01/1994 12:00:00 AM,8093.228662041112
+3,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,1995,01/01/1995 12:00:00 AM,8001.790979809282
+4,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,1996,01/01/1996 12:00:00 AM,8333.892346308428
+5,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,1997,01/01/1997 12:00:00 AM,8861.236559767358
+6,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,1998,01/01/1998 12:00:00 AM,8941.331755615676
+7,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,1999,01/01/1999 12:00:00 AM,8382.838615801007
+8,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2000,01/01/2000 12:00:00 AM,8308.273816048139
+9,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2001,01/01/2001 12:00:00 AM,7769.082252201162
+10,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2002,01/01/2002 12:00:00 AM,2759.55523613778
+11,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2003,01/01/2003 12:00:00 AM,3603.665707059207
+12,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2004,01/01/2004 12:00:00 AM,4259.521692362814
+13,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2005,01/01/2005 12:00:00 AM,5086.56991705758
+14,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2006,01/01/2006 12:00:00 AM,5890.930161132525
+15,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2007,01/01/2007 12:00:00 AM,7210.672594311309
+16,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2008,01/01/2008 12:00:00 AM,8977.506850805856
+17,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2009,01/01/2009 12:00:00 AM,8184.389889403995
+18,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2010,01/01/2010 12:00:00 AM,10386.0968201506
+19,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2011,01/01/2011 12:00:00 AM,12743.26714593381
+20,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2012,01/01/2012 12:00:00 AM,13813.28307550861
+21,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2013,01/01/2013 12:00:00 AM,14310.03369795977
+22,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2014,01/01/2014 12:00:00 AM,13037.35042315038
+23,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2015,01/01/2015 12:00:00 AM,14621.06510680605
+24,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2016,01/01/2016 12:00:00 AM,12630.48078150374
+25,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2017,01/01/2017 12:00:00 AM,14442.5168185907
+26,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2018,01/01/2018 12:00:00 AM,11303.55499248379
+27,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2019,01/01/2019 12:00:00 AM,9745.61621814712
+28,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2020,01/01/2020 12:00:00 AM,8374.217109227022
+29,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2021,01/01/2021 12:00:00 AM,10560.49002403359
+30,"GDP (US$ per capita, current prices)",Argentina,ARG,Annual,2022,01/01/2022 12:00:00 AM,13350.28917609166
+31,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,1996,01/01/1996 12:00:00 AM,5376.172361651799
+32,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,1997,01/01/1997 12:00:00 AM,5789.092427418796
+33,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,1998,01/01/1998 12:00:00 AM,5467.481248285065
+34,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,1999,01/01/1999 12:00:00 AM,4981.178104763249
+35,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2000,01/01/2000 12:00:00 AM,5096.98271012284
+36,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2001,01/01/2001 12:00:00 AM,4606.783551385395
+37,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2002,01/01/2002 12:00:00 AM,4479.178450336211
+38,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2003,01/01/2003 12:00:00 AM,4824.18963363205
+39,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2004,01/01/2004 12:00:00 AM,6185.539049205625
+40,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2005,01/01/2005 12:00:00 AM,7561.947635232151
+41,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2006,01/01/2006 12:00:00 AM,9418.116577388662
+42,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2007,01/01/2007 12:00:00 AM,10461.35977369803
+43,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2008,01/01/2008 12:00:00 AM,10783.16106618198
+44,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2009,01/01/2009 12:00:00 AM,10205.50783366953
+45,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2010,01/01/2010 12:00:00 AM,12767.79738357058
+46,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2011,01/01/2011 12:00:00 AM,14628.65690959584
+47,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2012,01/01/2012 12:00:00 AM,15405.91978497142
+48,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2013,01/01/2013 12:00:00 AM,15832.04047543685
+49,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2014,01/01/2014 12:00:00 AM,14665.68994062733
+50,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2015,01/01/2015 12:00:00 AM,13570.99206934457
+51,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2016,01/01/2016 12:00:00 AM,13786.00956361287
+52,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2017,01/01/2017 12:00:00 AM,15045.12093048557
+53,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2018,01/01/2018 12:00:00 AM,15797.09819177217
+54,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2019,01/01/2019 12:00:00 AM,14603.28912043895
+55,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2020,01/01/2020 12:00:00 AM,13163.5385114627
+56,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2021,01/01/2021 12:00:00 AM,16190.31235472418
+57,"GDP (US$ per capita, current prices)",Chile,CHL,Annual,2022,01/01/2022 12:00:00 AM,15413.41504744724
+58,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,1993,01/01/1993 12:00:00 AM,6119.279408339315
+59,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,1994,01/01/1994 12:00:00 AM,6268.718941961224
+60,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,1995,01/01/1995 12:00:00 AM,4225.674724911489
+61,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,1996,01/01/1996 12:00:00 AM,4718.578017806334
+62,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,1997,01/01/1997 12:00:00 AM,5617.431425662687
+63,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,1998,01/01/1998 12:00:00 AM,5882.668475036425
+64,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,1999,01/01/1999 12:00:00 AM,6552.56831984879
+65,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2000,01/01/2000 12:00:00 AM,7581.838692195466
+66,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2001,01/01/2001 12:00:00 AM,8009.058608252939
+67,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2002,01/01/2002 12:00:00 AM,8032.991842765366
+68,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2003,01/01/2003 12:00:00 AM,7473.933991308961
+69,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2004,01/01/2004 12:00:00 AM,7883.523423883071
+70,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2005,01/01/2005 12:00:00 AM,8702.114747075968
+71,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2006,01/01/2006 12:00:00 AM,9545.287017669058
+72,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2007,01/01/2007 12:00:00 AM,10178.44254758499
+73,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2008,01/01/2008 12:00:00 AM,10589.95219028568
+74,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2009,01/01/2009 12:00:00 AM,8495.653079704585
+75,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2010,01/01/2010 12:00:00 AM,9823.16381476
+76,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2011,01/01/2011 12:00:00 AM,10766.60994023107
+77,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2012,01/01/2012 12:00:00 AM,10842.73281668418
+78,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2013,01/01/2013 12:00:00 AM,11317.49135618734
+79,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2014,01/01/2014 12:00:00 AM,11490.02169031402
+80,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2015,01/01/2015 12:00:00 AM,10098.17339304363
+81,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2016,01/01/2016 12:00:00 AM,9152.737059995028
+82,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2017,01/01/2017 12:00:00 AM,9693.330261651085
+83,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2018,01/01/2018 12:00:00 AM,10130.32087319037
+84,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2019,01/01/2019 12:00:00 AM,10434.5674375932
+85,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2020,01/01/2020 12:00:00 AM,8895.61507777347
+86,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2021,01/01/2021 12:00:00 AM,10363.1925518956
+87,"GDP (US$ per capita, current prices)",Mexico,MEX,Annual,2022,01/01/2022 12:00:00 AM,11476.67880558153
+88,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,1990,01/01/1990 12:00:00 AM,845.9657795739236
+89,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,1991,01/01/1991 12:00:00 AM,1004.580828568438
+90,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,1992,01/01/1992 12:00:00 AM,1087.24605048288
+91,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,1993,01/01/1993 12:00:00 AM,1159.986846960158
+92,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,1994,01/01/1994 12:00:00 AM,1288.004382654821
+93,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,1995,01/01/1995 12:00:00 AM,1422.385495429972
+94,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,1996,01/01/1996 12:00:00 AM,1485.849945281531
+95,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,1997,01/01/1997 12:00:00 AM,1647.638513883994
+96,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,1998,01/01/1998 12:00:00 AM,1753.983175918329
+97,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,1999,01/01/1999 12:00:00 AM,1617.740450899863
+98,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2000,01/01/2000 12:00:00 AM,1662.672946093526
+99,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2001,01/01/2001 12:00:00 AM,1659.3683464531
+100,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2002,01/01/2002 12:00:00 AM,1801.956951540267
+101,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2003,01/01/2003 12:00:00 AM,1856.180010345043
+102,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2004,01/01/2004 12:00:00 AM,1967.449187888003
+103,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2005,01/01/2005 12:00:00 AM,2174.047749869564
+104,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2006,01/01/2006 12:00:00 AM,2366.645821069828
+105,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2007,01/01/2007 12:00:00 AM,2596.273304715376
+106,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2008,01/01/2008 12:00:00 AM,2925.403293465457
+107,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2009,01/01/2009 12:00:00 AM,2708.767141838657
+108,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2010,01/01/2010 12:00:00 AM,2906.17537601921
+109,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2011,01/01/2011 12:00:00 AM,3261.455851148128
+110,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2012,01/01/2012 12:00:00 AM,3370.896261781599
+111,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2013,01/01/2013 12:00:00 AM,3517.557521132424
+112,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2014,01/01/2014 12:00:00 AM,3773.857069742739
+113,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2015,01/01/2015 12:00:00 AM,3986.835776883484
+114,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2016,01/01/2016 12:00:00 AM,4164.510408913237
+115,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2017,01/01/2017 12:00:00 AM,4444.112067773157
+116,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2018,01/01/2018 12:00:00 AM,4476.056903545867
+117,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2019,01/01/2019 12:00:00 AM,4637.304661195484
+118,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2020,01/01/2020 12:00:00 AM,4599.457865538295
+119,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2021,01/01/2021 12:00:00 AM,5018.014254596682
+120,"GDP (US$ per capita, current prices)",Guatemala,GTM,Annual,2022,01/01/2022 12:00:00 AM,5459.234304058605
+121,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2000,01/01/2000 12:00:00 AM,2545.810062345703
+122,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2001,01/01/2001 12:00:00 AM,2464.776579112056
+123,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2002,01/01/2002 12:00:00 AM,2419.650332708888
+124,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2003,01/01/2003 12:00:00 AM,2305.212010806425
+125,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2004,01/01/2004 12:00:00 AM,2812.406908207763
+126,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2005,01/01/2005 12:00:00 AM,3448.91243175587
+127,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2006,01/01/2006 12:00:00 AM,3783.545806397641
+128,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2007,01/01/2007 12:00:00 AM,4764.447597659206
+129,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2008,01/01/2008 12:00:00 AM,5527.836739859642
+130,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2009,01/01/2009 12:00:00 AM,5243.931657493672
+131,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2010,01/01/2010 12:00:00 AM,6395.047019882164
+132,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2011,01/01/2011 12:00:00 AM,7393.480701488802
+133,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2012,01/01/2012 12:00:00 AM,8101.823292119923
+134,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2013,01/01/2013 12:00:00 AM,8263.196193234144
+135,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2014,01/01/2014 12:00:00 AM,8160.708193591749
+136,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2015,01/01/2015 12:00:00 AM,6222.645367509654
+137,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2016,01/01/2016 12:00:00 AM,5934.32323105552
+138,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2017,01/01/2017 12:00:00 AM,6450.556455368142
+139,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2018,01/01/2018 12:00:00 AM,6782.677323072458
+140,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2019,01/01/2019 12:00:00 AM,6438.998888840188
+141,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2020,01/01/2020 12:00:00 AM,5306.795862685357
+142,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2021,01/01/2021 12:00:00 AM,6179.965582979103
+143,"GDP (US$ per capita, current prices)",Colombia,COL,Annual,2022,01/01/2022 12:00:00 AM,6653.732573475243
+144,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,1994,01/01/1994 12:00:00 AM,1748.993437388508
+145,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,1995,01/01/1995 12:00:00 AM,1968.414322718462
+146,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,1996,01/01/1996 12:00:00 AM,2075.401163504022
+147,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,1997,01/01/1997 12:00:00 AM,2060.492859562072
+148,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,1998,01/01/1998 12:00:00 AM,1875.725413051067
+149,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,1999,01/01/1999 12:00:00 AM,1749.204984183495
+150,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2000,01/01/2000 12:00:00 AM,1726.068265506995
+151,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2001,01/01/2001 12:00:00 AM,1613.305401083777
+152,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2002,01/01/2002 12:00:00 AM,1347.758554448699
+153,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2003,01/01/2003 12:00:00 AM,1434.272251439303
+154,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2004,01/01/2004 12:00:00 AM,1778.669673646772
+155,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2005,01/01/2005 12:00:00 AM,1964.819441072702
+156,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2006,01/01/2006 12:00:00 AM,2432.959222462128
+157,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2007,01/01/2007 12:00:00 AM,3202.511592956943
+158,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2008,01/01/2008 12:00:00 AM,4376.560382745399
+159,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2009,01/01/2009 12:00:00 AM,3928.022451301552
+160,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2010,01/01/2010 12:00:00 AM,4727.555166406377
+161,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2011,01/01/2011 12:00:00 AM,5781.905833038715
+162,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2012,01/01/2012 12:00:00 AM,5625.653465634001
+163,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2013,01/01/2013 12:00:00 AM,6436.289807350036
+164,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2014,01/01/2014 12:00:00 AM,6629.347779697204
+165,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2015,01/01/2015 12:00:00 AM,5861.389724161827
+166,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2016,01/01/2016 12:00:00 AM,5759.018333157939
+167,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2017,01/01/2017 12:00:00 AM,6136.0583543037
+168,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2018,01/01/2018 12:00:00 AM,6242.961478511424
+169,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2019,01/01/2019 12:00:00 AM,5807.838833531133
+170,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2020,01/01/2020 12:00:00 AM,5353.348044641109
+171,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2021,01/01/2021 12:00:00 AM,5959.441763278855
+172,"GDP (US$ per capita, current prices)",Paraguay,PRY,Annual,2022,01/01/2022 12:00:00 AM,6187.066049339505
+173,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,1990,01/01/1990 12:00:00 AM,897.5929820911005
+174,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,1991,01/01/1991 12:00:00 AM,961.7789833064088
+175,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,1992,01/01/1992 12:00:00 AM,1047.043162174188
+176,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,1993,01/01/1993 12:00:00 AM,1186.340716488223
+177,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,1994,01/01/1994 12:00:00 AM,1348.907915132706
+178,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,1995,01/01/1995 12:00:00 AM,1552.130209815038
+179,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,1996,01/01/1996 12:00:00 AM,1653.630542382451
+180,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,1997,01/01/1997 12:00:00 AM,1749.501831183874
+181,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,1998,01/01/1998 12:00:00 AM,1858.37139603905
+182,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,1999,01/01/1999 12:00:00 AM,1904.874894593597
+183,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2000,01/01/2000 12:00:00 AM,1977.840609169829
+184,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2001,01/01/2001 12:00:00 AM,2051.158774215613
+185,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2002,01/01/2002 12:00:00 AM,2106.739463861617
+186,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2003,01/01/2003 12:00:00 AM,2197.481995852778
+187,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2004,01/01/2004 12:00:00 AM,2273.955505639376
+188,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2005,01/01/2005 12:00:00 AM,2434.323531170289
+189,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2006,01/01/2006 12:00:00 AM,2651.429230503066
+190,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2007,01/01/2007 12:00:00 AM,2814.589888935233
+191,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2008,01/01/2008 12:00:00 AM,2964.170492274434
+192,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2009,01/01/2009 12:00:00 AM,2889.685887219373
+193,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2010,01/01/2010 12:00:00 AM,3017.309030339053
+194,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2011,01/01/2011 12:00:00 AM,3304.975812846882
+195,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2012,01/01/2012 12:00:00 AM,3471.052891691982
+196,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2013,01/01/2013 12:00:00 AM,3555.160482937745
+197,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2014,01/01/2014 12:00:00 AM,3638.517658191624
+198,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2015,01/01/2015 12:00:00 AM,3761.512075140915
+199,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2016,01/01/2016 12:00:00 AM,3870.31138259118
+200,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2017,01/01/2017 12:00:00 AM,3986.04901435439
+201,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2018,01/01/2018 12:00:00 AM,4145.863944316609
+202,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2019,01/01/2019 12:00:00 AM,4280.288404047184
+203,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2020,01/01/2020 12:00:00 AM,3961.72663347599
+204,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2021,01/01/2021 12:00:00 AM,4664.31280642403
+205,"GDP (US$ per capita, current prices)",El Salvador,SLV,Annual,2022,01/01/2022 12:00:00 AM,5127.320090044934
+206,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,1997,01/01/1997 12:00:00 AM,20415.83513610234
+207,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,1998,01/01/1998 12:00:00 AM,21665.32444720639
+208,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,1999,01/01/1999 12:00:00 AM,23991.79447469651
+209,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2000,01/01/2000 12:00:00 AM,24849.69878220631
+210,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2001,01/01/2001 12:00:00 AM,25234.05313901209
+211,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2002,01/01/2002 12:00:00 AM,26590.25993856325
+212,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2003,01/01/2003 12:00:00 AM,26204.91004165559
+213,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2004,01/01/2004 12:00:00 AM,26393.44310076977
+214,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2005,01/01/2005 12:00:00 AM,28280.87083529804
+215,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2006,01/01/2006 12:00:00 AM,28829.9911530522
+216,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2007,01/01/2007 12:00:00 AM,29687.75337885066
+217,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2008,01/01/2008 12:00:00 AM,29013.63028707672
+218,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2009,01/01/2009 12:00:00 AM,27120.79922403324
+219,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2010,01/01/2010 12:00:00 AM,27046.76482564993
+220,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2011,01/01/2011 12:00:00 AM,26644.79428495833
+221,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2012,01/01/2012 12:00:00 AM,28059.65539534263
+222,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2013,01/01/2013 12:00:00 AM,27557.62997536627
+223,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2014,01/01/2014 12:00:00 AM,28158.38368056001
+224,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2015,01/01/2015 12:00:00 AM,29724.69868626447
+225,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2016,01/01/2016 12:00:00 AM,29675.5358910641
+226,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2017,01/01/2017 12:00:00 AM,30708.98701819458
+227,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2018,01/01/2018 12:00:00 AM,31483.73002642409
+228,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2019,01/01/2019 12:00:00 AM,32279.25854700326
+229,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2020,01/01/2020 12:00:00 AM,23998.26801912068
+230,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2021,01/01/2021 12:00:00 AM,28260.43255063667
+231,"GDP (US$ per capita, current prices)",Bahamas,BHS,Annual,2022,01/01/2022 12:00:00 AM,31458.300811739
+232,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2006,01/01/2006 12:00:00 AM,15595.63649810484
+233,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2007,01/01/2007 12:00:00 AM,17219.02123458245
+234,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2008,01/01/2008 12:00:00 AM,17551.85504428999
+235,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2009,01/01/2009 12:00:00 AM,16309.88600794036
+236,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2010,01/01/2010 12:00:00 AM,16494.2430408684
+237,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2011,01/01/2011 12:00:00 AM,16902.49232265886
+238,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2012,01/01/2012 12:00:00 AM,16704.92438368266
+239,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2013,01/01/2013 12:00:00 AM,16923.59091976234
+240,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2014,01/01/2014 12:00:00 AM,16964.75226402107
+241,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2015,01/01/2015 12:00:00 AM,17023.69436463214
+242,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2016,01/01/2016 12:00:00 AM,17381.36508654257
+243,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2017,01/01/2017 12:00:00 AM,17881.56325330334
+244,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2018,01/01/2018 12:00:00 AM,18271.25225250994
+245,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2019,01/01/2019 12:00:00 AM,19063.10229138411
+246,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2020,01/01/2020 12:00:00 AM,16882.50152301625
+247,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2021,01/01/2021 12:00:00 AM,17507.4679943101
+248,"GDP (US$ per capita, current prices)",Barbados,BRB,Annual,2022,01/01/2022 12:00:00 AM,20238.78424201537
+249,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,1990,01/01/1990 12:00:00 AM,2675.766619188617
+250,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,1991,01/01/1991 12:00:00 AM,2880.987611360816
+251,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,1992,01/01/1992 12:00:00 AM,3207.940260465737
+252,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,1993,01/01/1993 12:00:00 AM,3431.847987026619
+253,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,1994,01/01/1994 12:00:00 AM,3585.447163507557
+254,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,1995,01/01/1995 12:00:00 AM,3591.487040934723
+255,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,1996,01/01/1996 12:00:00 AM,3628.584222178423
+256,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,1997,01/01/1997 12:00:00 AM,3846.888544477156
+257,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,1998,01/01/1998 12:00:00 AM,4087.916044152313
+258,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,1999,01/01/1999 12:00:00 AM,4199.439714265528
+259,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2000,01/01/2000 12:00:00 AM,4176.456745947571
+260,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2001,01/01/2001 12:00:00 AM,4161.464199665543
+261,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2002,01/01/2002 12:00:00 AM,4242.209069711556
+262,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2003,01/01/2003 12:00:00 AM,4385.451040519373
+263,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2004,01/01/2004 12:00:00 AM,4716.514126065579
+264,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2005,01/01/2005 12:00:00 AM,5046.740035172185
+265,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2006,01/01/2006 12:00:00 AM,5487.350143704331
+266,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2007,01/01/2007 12:00:00 AM,6205.821225813859
+267,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2008,01/01/2008 12:00:00 AM,7197.110614440748
+268,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2009,01/01/2009 12:00:00 AM,7618.438290437308
+269,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2010,01/01/2010 12:00:00 AM,8124.558693703005
+270,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2011,01/01/2011 12:00:00 AM,9403.440911286822
+271,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2012,01/01/2012 12:00:00 AM,10767.30303270799
+272,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2013,01/01/2013 12:00:00 AM,11932.30977120315
+273,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2014,01/01/2014 12:00:00 AM,12837.26415882769
+274,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2015,01/01/2015 12:00:00 AM,13669.53922557914
+275,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2016,01/01/2016 12:00:00 AM,14382.23138853787
+276,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2017,01/01/2017 12:00:00 AM,15185.97863471939
+277,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2018,01/01/2018 12:00:00 AM,15588.3393521349
+278,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2019,01/01/2019 12:00:00 AM,15826.08271560069
+279,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2020,01/01/2020 12:00:00 AM,12569.17920171603
+280,"GDP (US$ per capita, current prices)",Panama,PAN,Annual,2021,01/01/2021 12:00:00 AM,14617.59661739965
+281,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,1991,01/01/1991 12:00:00 AM,2221.512908641987
+282,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,1992,01/01/1992 12:00:00 AM,2578.493027491259
+283,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,1993,01/01/1993 12:00:00 AM,2814.832496704734
+284,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,1994,01/01/1994 12:00:00 AM,3006.242862034113
+285,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,1995,01/01/1995 12:00:00 AM,3240.385184389755
+286,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,1996,01/01/1996 12:00:00 AM,3195.497087502244
+287,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,1997,01/01/1997 12:00:00 AM,3374.358284547814
+288,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,1998,01/01/1998 12:00:00 AM,3581.977765506467
+289,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,1999,01/01/1999 12:00:00 AM,3654.646614182728
+290,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2000,01/01/2000 12:00:00 AM,3773.750349277079
+291,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2001,01/01/2001 12:00:00 AM,3942.361844037048
+292,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2002,01/01/2002 12:00:00 AM,4022.58720157778
+293,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2003,01/01/2003 12:00:00 AM,4124.610669036262
+294,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2004,01/01/2004 12:00:00 AM,4377.133585562942
+295,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2005,01/01/2005 12:00:00 AM,4645.38416712653
+296,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2006,01/01/2006 12:00:00 AM,5188.548300771594
+297,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2007,01/01/2007 12:00:00 AM,6055.061809567477
+298,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2008,01/01/2008 12:00:00 AM,6841.911639134656
+299,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2009,01/01/2009 12:00:00 AM,6737.860753588857
+300,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2010,01/01/2010 12:00:00 AM,8147.244456855298
+301,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2011,01/01/2011 12:00:00 AM,9137.4551020135
+302,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2012,01/01/2012 12:00:00 AM,9971.611446434954
+303,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2013,01/01/2013 12:00:00 AM,10633.26655985878
+304,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2014,01/01/2014 12:00:00 AM,10737.67886984298
+305,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2015,01/01/2015 12:00:00 AM,11529.95517357419
+306,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2016,01/01/2016 12:00:00 AM,11899.81397838967
+307,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2017,01/01/2017 12:00:00 AM,12118.13361806337
+308,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2018,01/01/2018 12:00:00 AM,12383.14994695328
+309,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2019,01/01/2019 12:00:00 AM,12669.34116173553
+310,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2020,01/01/2020 12:00:00 AM,12179.25667422417
+311,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2021,01/01/2021 12:00:00 AM,12604.04883718719
+312,"GDP (US$ per capita, current prices)",Costa Rica,CRI,Annual,2022,01/01/2022 12:00:00 AM,13365.14635666202
+313,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,1996,01/01/1996 12:00:00 AM,5111.434115087762
+314,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,1997,01/01/1997 12:00:00 AM,5230.221916863894
+315,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,1998,01/01/1998 12:00:00 AM,5036.601463010506
+316,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,1999,01/01/1999 12:00:00 AM,3388.017179805653
+317,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2000,01/01/2000 12:00:00 AM,3717.54756052803
+318,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2001,01/01/2001 12:00:00 AM,3138.583506912948
+319,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2002,01/01/2002 12:00:00 AM,2752.033840907499
+320,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2003,01/01/2003 12:00:00 AM,3074.935772297203
+321,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2004,01/01/2004 12:00:00 AM,3634.158206684593
+322,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2005,01/01/2005 12:00:00 AM,4818.192430799249
+323,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2006,01/01/2006 12:00:00 AM,5888.270250260387
+324,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2007,01/01/2007 12:00:00 AM,7391.044105462867
+325,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2008,01/01/2008 12:00:00 AM,8806.922062114154
+326,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2009,01/01/2009 12:00:00 AM,8611.98176406158
+327,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2010,01/01/2010 12:00:00 AM,11256.55641270202
+328,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2011,01/01/2011 12:00:00 AM,13221.99444300476
+329,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2012,01/01/2012 12:00:00 AM,12295.05479975691
+330,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2013,01/01/2013 12:00:00 AM,12160.08772807361
+331,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2014,01/01/2014 12:00:00 AM,12039.00984440533
+332,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2015,01/01/2015 12:00:00 AM,8627.416095669485
+333,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2016,01/01/2016 12:00:00 AM,8786.340397084834
+334,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2017,01/01/2017 12:00:00 AM,9862.356793537989
+335,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2018,01/01/2018 12:00:00 AM,9058.668388977603
+336,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2019,01/01/2019 12:00:00 AM,8846.997342006047
+337,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2020,01/01/2020 12:00:00 AM,6808.971514746818
+338,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2021,01/01/2021 12:00:00 AM,7776.969617064899
+339,"GDP (US$ per capita, current prices)",Brazil,BRA,Annual,2022,01/01/2022 12:00:00 AM,9111.288683989318
+340,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,1997,01/01/1997 12:00:00 AM,8168.106900526079
+341,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,1998,01/01/1998 12:00:00 AM,8637.283929991718
+342,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,1999,01/01/1999 12:00:00 AM,8108.691942113012
+343,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2000,01/01/2000 12:00:00 AM,7689.631950214836
+344,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2001,01/01/2001 12:00:00 AM,6984.510748066371
+345,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2002,01/01/2002 12:00:00 AM,4499.525955310513
+346,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2003,01/01/2003 12:00:00 AM,4022.842835473255
+347,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2004,01/01/2004 12:00:00 AM,4601.837646551552
+348,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2005,01/01/2005 12:00:00 AM,5829.806212325036
+349,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2006,01/01/2006 12:00:00 AM,6552.690763542712
+350,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2007,01/01/2007 12:00:00 AM,7844.67566191056
+351,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2008,01/01/2008 12:00:00 AM,10051.52818288658
+352,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2009,01/01/2009 12:00:00 AM,10579.91695992772
+353,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2010,01/01/2010 12:00:00 AM,13360.59920687976
+354,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2011,01/01/2011 12:00:00 AM,15910.69392663726
+355,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2012,01/01/2012 12:00:00 AM,16847.33818310954
+356,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2013,01/01/2013 12:00:00 AM,18774.00933932063
+357,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2014,01/01/2014 12:00:00 AM,18642.92100370812
+358,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2015,01/01/2015 12:00:00 AM,17254.86202254058
+359,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2016,01/01/2016 12:00:00 AM,16840.55520818442
+360,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2017,01/01/2017 12:00:00 AM,19039.92422082288
+361,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2018,01/01/2018 12:00:00 AM,19002.35815169267
+362,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2019,01/01/2019 12:00:00 AM,18085.46756381422
+363,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2020,01/01/2020 12:00:00 AM,15691.13707304403
+364,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2021,01/01/2021 12:00:00 AM,17726.10183650649
+365,"GDP (US$ per capita, current prices)",Uruguay,URY,Annual,2022,01/01/2022 12:00:00 AM,20579.06552675565
+366,"GDP (US$ per capita, current prices)",Peru,PER,Annual,1990,01/01/1990 12:00:00 AM,1172.246336269644
+367,"GDP (US$ per capita, current prices)",Peru,PER,Annual,1991,01/01/1991 12:00:00 AM,1494.987326104322
+368,"GDP (US$ per capita, current prices)",Peru,PER,Annual,1992,01/01/1992 12:00:00 AM,1519.76401856506
+369,"GDP (US$ per capita, current prices)",Peru,PER,Annual,1993,01/01/1993 12:00:00 AM,1447.323663446955
+370,"GDP (US$ per capita, current prices)",Peru,PER,Annual,1994,01/01/1994 12:00:00 AM,1801.965207176016
+371,"GDP (US$ per capita, current prices)",Peru,PER,Annual,1995,01/01/1995 12:00:00 AM,2100.899959928616
+372,"GDP (US$ per capita, current prices)",Peru,PER,Annual,1996,01/01/1996 12:00:00 AM,2138.360077437995
+373,"GDP (US$ per capita, current prices)",Peru,PER,Annual,1997,01/01/1997 12:00:00 AM,2212.060568104611
+374,"GDP (US$ per capita, current prices)",Peru,PER,Annual,1998,01/01/1998 12:00:00 AM,2077.368102156187
+375,"GDP (US$ per capita, current prices)",Peru,PER,Annual,1999,01/01/1999 12:00:00 AM,1846.287303280926
+376,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2000,01/01/2000 12:00:00 AM,1888.630701492796
+377,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2001,01/01/2001 12:00:00 AM,1889.671731919457
+378,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2002,01/01/2002 12:00:00 AM,1972.683774041838
+379,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2003,01/01/2003 12:00:00 AM,2120.449242705606
+380,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2004,01/01/2004 12:00:00 AM,2373.823451904604
+381,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2005,01/01/2005 12:00:00 AM,2630.901883705496
+382,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2006,01/01/2006 12:00:00 AM,3089.297286260288
+383,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2007,01/01/2007 12:00:00 AM,3578.22437495978
+384,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2008,01/01/2008 12:00:00 AM,4188.182654954695
+385,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2009,01/01/2009 12:00:00 AM,4206.769609530083
+386,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2010,01/01/2010 12:00:00 AM,5096.593455429255
+387,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2011,01/01/2011 12:00:00 AM,5803.070490652313
+388,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2012,01/01/2012 12:00:00 AM,6498.325785057359
+389,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2013,01/01/2013 12:00:00 AM,6696.666992749792
+390,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2014,01/01/2014 12:00:00 AM,6667.302094956268
+391,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2015,01/01/2015 12:00:00 AM,6225.542240910931
+392,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2016,01/01/2016 12:00:00 AM,6280.32190919013
+393,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2017,01/01/2017 12:00:00 AM,6843.696466522417
+394,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2018,01/01/2018 12:00:00 AM,7037.807544586713
+395,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2019,01/01/2019 12:00:00 AM,7076.676233836755
+396,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2020,01/01/2020 12:00:00 AM,6166.219545402447
+397,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2021,01/01/2021 12:00:00 AM,6675.801148728016
+398,"GDP (US$ per capita, current prices)",Peru,PER,Annual,2022,01/01/2022 12:00:00 AM,7188.840366328935
+399,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2013,01/01/2013 12:00:00 AM,20011.52815859603
+400,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2017,01/01/2017 12:00:00 AM,16320.07408037445
+401,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2000,01/01/2000 12:00:00 AM,1450.80511973739
+402,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2001,01/01/2001 12:00:00 AM,1904.813670072238
+403,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2002,01/01/2002 12:00:00 AM,2184.209243807997
+404,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2003,01/01/2003 12:00:00 AM,2438.343684291564
+405,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2004,01/01/2004 12:00:00 AM,2703.565670574653
+406,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2005,01/01/2005 12:00:00 AM,3014.310009315896
+407,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2006,01/01/2006 12:00:00 AM,3340.840902898488
+408,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2007,01/01/2007 12:00:00 AM,3579.032243918064
+409,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2008,01/01/2008 12:00:00 AM,4260.433183964707
+410,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2009,01/01/2009 12:00:00 AM,4240.702592715641
+411,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2010,01/01/2010 12:00:00 AM,4640.246344378446
+412,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2011,01/01/2011 12:00:00 AM,5202.656459020663
+413,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2012,01/01/2012 12:00:00 AM,5678.455720700034
+414,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2013,01/01/2013 12:00:00 AM,6050.354611327401
+415,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2014,01/01/2014 12:00:00 AM,6374.631485636603
+416,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2015,01/01/2015 12:00:00 AM,6130.586675567683
+417,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2016,01/01/2016 12:00:00 AM,6079.088736120772
+418,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2017,01/01/2017 12:00:00 AM,6246.404252179321
+419,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2018,01/01/2018 12:00:00 AM,6321.349400717174
+420,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2019,01/01/2019 12:00:00 AM,6233.258166923628
+421,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2020,01/01/2020 12:00:00 AM,5645.199289653324
+422,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2021,01/01/2021 12:00:00 AM,5965.132870544159
+423,"GDP (US$ per capita, current prices)",Ecuador,ECU,Annual,2022,01/01/2022 12:00:00 AM,6391.282484306427
+424,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,1997,01/01/1997 12:00:00 AM,974.0552618031692
+425,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,1998,01/01/1998 12:00:00 AM,1025.384620115766
+426,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,1999,01/01/1999 12:00:00 AM,981.543242109991
+427,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2001,01/01/2001 12:00:00 AM,930.875730836472
+428,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2002,01/01/2002 12:00:00 AM,888.1985749195705
+429,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2003,01/01/2003 12:00:00 AM,892.3553801318782
+430,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2004,01/01/2004 12:00:00 AM,951.9196365582186
+431,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2005,01/01/2005 12:00:00 AM,1018.313287941321
+432,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2006,01/01/2006 12:00:00 AM,1200.068771072819
+433,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2007,01/01/2007 12:00:00 AM,1352.088278722402
+434,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2008,01/01/2008 12:00:00 AM,1687.54324770356
+435,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2009,01/01/2009 12:00:00 AM,1725.146285927274
+436,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2010,01/01/2010 12:00:00 AM,1921.706989963076
+437,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2011,01/01/2011 12:00:00 AM,2304.979405527447
+438,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2012,01/01/2012 12:00:00 AM,2562.466784323303
+439,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2013,01/01/2013 12:00:00 AM,2853.79716142681
+440,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2015,01/01/2015 12:00:00 AM,2975.648811359807
+441,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2016,01/01/2016 12:00:00 AM,3013.502707761703
+442,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2017,01/01/2017 12:00:00 AM,3280.008213463822
+443,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2018,01/01/2018 12:00:00 AM,3471.006950644991
+444,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2019,01/01/2019 12:00:00 AM,3472.380830756854
+445,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2020,01/01/2020 12:00:00 AM,3068.812555076041
+446,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2021,01/01/2021 12:00:00 AM,3345.023002261933
+447,"GDP (US$ per capita, current prices)",Bolivia,BOL,Annual,2022,01/01/2022 12:00:00 AM,3600.121634864268
+448,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,1991,01/01/1991 12:00:00 AM,1358.389930329564
+449,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,1992,01/01/1992 12:00:00 AM,1562.522047870248
+450,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,1993,01/01/1993 12:00:00 AM,1726.625478620623
+451,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,1994,01/01/1994 12:00:00 AM,1896.020117518267
+452,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,1995,01/01/1995 12:00:00 AM,2114.090599219579
+453,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,1996,01/01/1996 12:00:00 AM,2276.698373597314
+454,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,1997,01/01/1997 12:00:00 AM,2456.105926998568
+455,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,1998,01/01/1998 12:00:00 AM,2616.745479720473
+456,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,1999,01/01/1999 12:00:00 AM,2631.743580279651
+457,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2000,01/01/2000 12:00:00 AM,2845.846609745001
+458,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2001,01/01/2001 12:00:00 AM,2953.247928445699
+459,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2002,01/01/2002 12:00:00 AM,3098.209345175
+460,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2003,01/01/2003 12:00:00 AM,2412.344240530908
+461,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2004,01/01/2004 12:00:00 AM,2488.735085706237
+462,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2005,01/01/2005 12:00:00 AM,3922.359420241739
+463,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2006,01/01/2006 12:00:00 AM,4092.746959049144
+464,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2007,01/01/2007 12:00:00 AM,4686.91494533201
+465,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2008,01/01/2008 12:00:00 AM,5062.05309127268
+466,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2009,01/01/2009 12:00:00 AM,5008.133255149953
+467,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2010,01/01/2010 12:00:00 AM,5515.836022751761
+468,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2011,01/01/2011 12:00:00 AM,5865.233713427286
+469,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2012,01/01/2012 12:00:00 AM,6055.971831547952
+470,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2013,01/01/2013 12:00:00 AM,6178.790376485672
+471,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2014,01/01/2014 12:00:00 AM,6541.811604487703
+472,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2015,01/01/2015 12:00:00 AM,6847.508330513167
+473,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2016,01/01/2016 12:00:00 AM,7197.953454639096
+474,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2017,01/01/2017 12:00:00 AM,7521.353999034369
+475,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2018,01/01/2018 12:00:00 AM,7953.935633121589
+476,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2019,01/01/2019 12:00:00 AM,8181.638756152332
+477,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2020,01/01/2020 12:00:00 AM,7175.023372956913
+478,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2021,01/01/2021 12:00:00 AM,8496.047312490393
+479,"GDP (US$ per capita, current prices)",Dominican Republic,DOM,Annual,2022,01/01/2022 12:00:00 AM,10141.10462890552
+480,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2000,01/01/2000 12:00:00 AM,1067.165445804025
+481,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2001,01/01/2001 12:00:00 AM,1106.465124660526
+482,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2002,01/01/2002 12:00:00 AM,1107.600200690987
+483,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2003,01/01/2003 12:00:00 AM,1130.298931763554
+484,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2004,01/01/2004 12:00:00 AM,1188.092429322852
+485,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2005,01/01/2005 12:00:00 AM,1278.587952923932
+486,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2006,01/01/2006 12:00:00 AM,1399.79921976781
+487,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2007,01/01/2007 12:00:00 AM,1549.064165581335
+488,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2008,01/01/2008 12:00:00 AM,1702.027051990513
+489,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2009,01/01/2009 12:00:00 AM,1750.106448703152
+490,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2010,01/01/2010 12:00:00 AM,1861.291428840687
+491,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2011,01/01/2011 12:00:00 AM,2039.790132280891
+492,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2012,01/01/2012 12:00:00 AM,2092.785578597111
+493,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2013,01/01/2013 12:00:00 AM,2050.315437886615
+494,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2014,01/01/2014 12:00:00 AM,2149.309623485311
+495,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2015,01/01/2015 12:00:00 AM,2241.533981588973
+496,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2016,01/01/2016 12:00:00 AM,2279.577563080794
+497,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2017,01/01/2017 12:00:00 AM,2386.599452076237
+498,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2018,01/01/2018 12:00:00 AM,2440.600904097219
+499,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2019,01/01/2019 12:00:00 AM,2501.852662511664
+500,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2020,01/01/2020 12:00:00 AM,2337.7579216087
+501,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2021,01/01/2021 12:00:00 AM,2752.456051450725
+502,"GDP (US$ per capita, current prices)",Honduras,HND,Annual,2022,01/01/2022 12:00:00 AM,3021.551126265135
+503,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,1990,01/01/1990 12:00:00 AM,2055.747878299861
+504,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,1991,01/01/1991 12:00:00 AM,1996.462917653128
+505,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,1992,01/01/1992 12:00:00 AM,3502.827665794374
+506,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,1993,01/01/1993 12:00:00 AM,3699.49195160922
+507,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,1994,01/01/1994 12:00:00 AM,3622.162166962984
+508,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,1995,01/01/1995 12:00:00 AM,3862.283690424298
+509,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,1996,01/01/1996 12:00:00 AM,3942.456173212941
+510,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,1997,01/01/1997 12:00:00 AM,4123.363964356755
+511,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,1998,01/01/1998 12:00:00 AM,4192.398273143212
+512,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,1999,01/01/1999 12:00:00 AM,4212.974365772772
+513,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2000,01/01/2000 12:00:00 AM,4424.239152408271
+514,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2001,01/01/2001 12:00:00 AM,4461.25888987312
+515,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2002,01/01/2002 12:00:00 AM,4802.222839435491
+516,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2003,01/01/2003 12:00:00 AM,4801.143940312912
+517,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2004,01/01/2004 12:00:00 AM,4962.570741652428
+518,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2005,01/01/2005 12:00:00 AM,5021.513884137497
+519,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2006,01/01/2006 12:00:00 AM,5315.429268477292
+520,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2007,01/01/2007 12:00:00 AM,5571.455044290262
+521,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2008,01/01/2008 12:00:00 AM,5697.248901502498
+522,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2009,01/01/2009 12:00:00 AM,5159.344517303462
+523,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2010,01/01/2010 12:00:00 AM,5452.517703852237
+524,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2011,01/01/2011 12:00:00 AM,5332.110281087101
+525,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2012,01/01/2012 12:00:00 AM,5556.681297933264
+526,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2013,01/01/2013 12:00:00 AM,5741.81922709437
+527,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2014,01/01/2014 12:00:00 AM,6070.40451154911
+528,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2015,01/01/2015 12:00:00 AM,5794.906392499629
+529,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2016,01/01/2016 12:00:00 AM,5847.636300873415
+530,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2017,01/01/2017 12:00:00 AM,5867.549333558673
+531,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2018,01/01/2018 12:00:00 AM,6056.488368852622
+532,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2019,01/01/2019 12:00:00 AM,6114.750495783804
+533,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2020,01/01/2020 12:00:00 AM,4823.102996385571
+534,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2021,01/01/2021 12:00:00 AM,5951.518037493264
+535,"GDP (US$ per capita, current prices)",Belize,BLZ,Annual,2022,01/01/2022 12:00:00 AM,6869.390737805407
+536,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2006,01/01/2006 12:00:00 AM,1220.72611752369
+537,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2007,01/01/2007 12:00:00 AM,1321.240302739999
+538,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2008,01/01/2008 12:00:00 AM,1490.972965482632
+539,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2009,01/01/2009 12:00:00 AM,1435.266844253778
+540,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2010,01/01/2010 12:00:00 AM,1492.794480075157
+541,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2011,01/01/2011 12:00:00 AM,1641.572584730234
+542,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2012,01/01/2012 12:00:00 AM,1742.99745275361
+543,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2013,01/01/2013 12:00:00 AM,1791.262358408195
+544,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2014,01/01/2014 12:00:00 AM,1909.762752731693
+545,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2015,01/01/2015 12:00:00 AM,2021.34474552589
+546,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2016,01/01/2016 12:00:00 AM,2075.354958323161
+547,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2017,01/01/2017 12:00:00 AM,2123.118373770624
+548,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2018,01/01/2018 12:00:00 AM,1977.96430398484
+549,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2019,01/01/2019 12:00:00 AM,1902.145556774425
+550,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2020,01/01/2020 12:00:00 AM,1874.437183362042
+551,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2021,01/01/2021 12:00:00 AM,2063.278147359696
+552,"GDP (US$ per capita, current prices)",Nicaragua,NIC,Annual,2022,01/01/2022 12:00:00 AM,2253.62471016298
+553,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,1991,01/01/1991 12:00:00 AM,4225.238719039084
+554,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,1992,01/01/1992 12:00:00 AM,4302.167220946243
+555,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,1993,01/01/1993 12:00:00 AM,3693.40537828755
+556,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,1994,01/01/1994 12:00:00 AM,3839.849488280563
+557,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,1995,01/01/1995 12:00:00 AM,4220.444051709961
+558,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,1996,01/01/1996 12:00:00 AM,4592.278747622904
+559,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,1997,01/01/1997 12:00:00 AM,4541.679108627925
+560,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,1998,01/01/1998 12:00:00 AM,4783.122544988173
+561,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,1999,01/01/1999 12:00:00 AM,5363.06909122339
+562,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2000,01/01/2000 12:00:00 AM,6171.075710458293
+563,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2001,01/01/2001 12:00:00 AM,6654.979520284027
+564,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2002,01/01/2002 12:00:00 AM,6762.42836705097
+565,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2003,01/01/2003 12:00:00 AM,8426.353620125641
+566,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2004,01/01/2004 12:00:00 AM,9833.413936017609
+567,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2005,01/01/2005 12:00:00 AM,11784.07212076761
+568,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2006,01/01/2006 12:00:00 AM,13458.47592929081
+569,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2007,01/01/2007 12:00:00 AM,15748.14025695619
+570,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2008,01/01/2008 12:00:00 AM,20160.51734445347
+571,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2009,01/01/2009 12:00:00 AM,13798.31554117474
+572,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2010,01/01/2010 12:00:00 AM,15845.95020454926
+573,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2011,01/01/2011 12:00:00 AM,18000.69332441259
+574,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2014,01/01/2014 12:00:00 AM,20547.45461507297
+575,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2015,01/01/2015 12:00:00 AM,18578.91676714479
+576,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2016,01/01/2016 12:00:00 AM,16213.68480832413
+577,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2018,01/01/2018 12:00:00 AM,16362.10990348231
+578,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2019,01/01/2019 12:00:00 AM,15640.16832152113
+579,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2020,01/01/2020 12:00:00 AM,13707.47379479805
+580,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2021,01/01/2021 12:00:00 AM,16059.49010215957
+581,"GDP (US$ per capita, current prices)",Trinidad and Tobago,TTO,Annual,2022,01/01/2022 12:00:00 AM,19630.70059909899
