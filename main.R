@@ -4,6 +4,10 @@
 ## Creation date:     October 20, 2025
 ## ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+if (!require("renv")) install.packages("renv")
+renv::activate()
+renv::restore(prompt = FALSE)
+
 # Define command line options
 option_list <- list(
   optparse::make_option(
@@ -37,10 +41,6 @@ opt <- optparse::parse_args(opt_parser)
 
 # Entry Point Main Function
 main <- function(){
-  
-  if (!require("renv")) install.packages("renv")
-  renv::activate()
-  renv::restore(prompt = FALSE)  # Install dependencies from renv.lock
   
   if (opt$data | opt$all){
     source("R/data-loading.R")
