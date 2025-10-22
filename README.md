@@ -13,6 +13,8 @@ The analysis uses two measures of formality:
 1. Percentage of economically active workers contributing to social security
 2. Percentage of employed workers contributing to social security
 
+GitHub repository: https://github.com/ctoruno/informality-idb-data
+
 ## Project Structure
 
 ```
