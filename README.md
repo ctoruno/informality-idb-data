@@ -32,10 +32,10 @@ informality-idb-data/
 │   ├── data-loading.R              # Data fetching and preprocessing module
 │   └── data-models.R               # Econometric modeling module
 ├── renv/                           # R package management
-├── renv.lock                       # Package dependencies lock file
+├── renv.lock                       # Package dependencies
 ├── informality-idb-data.Rproj      # RStudio project file
 ├── main.R                          # Main entry point (command-line execution)
-└── run_pipeline_interactive.R      # Interactive execution script
+└── run_pipeline_interactive.R      # Interactive execution script (via RStudio)
 ```
 
 ## Prerequisites
