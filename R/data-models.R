@@ -22,57 +22,62 @@ model_data <- function(data4models){
     "(I)" = paste(
       "formal_1 ~",
       "log(gdp_per_capita) + avg_educ_years + employed_agriculture +",
-      "log(min_wage) + gov_exp_educ + log(cpi) +",
-      "rural_pop + log(credit) + fdi"
+      "log(min_wage) + log(cpi)"
     ),
     "(II)" = paste(
       "formal_2 ~",
       "log(gdp_per_capita) + avg_educ_years + employed_agriculture +",
-      "log(min_wage) + gov_exp_educ + log(cpi) +",
-      "rural_pop + log(credit) + fdi"
+      "log(min_wage) + log(cpi)"
     ),
     "(III)" = paste(
       "formal_1 ~",
       "log(gdp_per_capita) + avg_educ_years + employed_agriculture +",
-      "log(min_wage) + gov_exp_educ + log(cpi) +",
-      "rural_pop + log(credit) + fdi",
+      "log(min_wage) + log(cpi)",
       "| country + year"
     ),
     "(IV)" = paste(
       "formal_2 ~",
       "log(gdp_per_capita) + avg_educ_years + employed_agriculture +",
-      "log(min_wage) + gov_exp_educ + log(cpi) +",
-      "rural_pop + log(credit) + fdi",
+      "log(min_wage) + log(cpi)",
       "| country + year"
     ),
-    "(V)" = paste(
+    "(IV)" = paste(
       "formal_1 ~",
       "log(gdp_per_capita) + avg_educ_years + employed_agriculture +",
-      "log(min_wage) + gov_exp_educ + log(cpi) + rural_pop",
+      "log(min_wage) + log(cpi) +",
+      "log(lag_credit) + lag_fdi",
       "| country + year"
     ),
     "(VI)" = paste(
       "formal_2 ~",
       "log(gdp_per_capita) + avg_educ_years + employed_agriculture +",
-      "log(min_wage) + gov_exp_educ + log(cpi) + rural_pop",
+      "log(min_wage) + log(cpi) +",
+      "log(lag_credit) + lag_fdi",
       "| country + year"
     )
   )
   
+  data4models <- data4models %>% 
+    group_by(country) %>% 
+    mutate(
+      lag_credit = lag(credit, n = 1),
+      lag_fdi = lag(fdi, n = 1)
+    ) %>% 
+    ungroup()
   
   print(
     glue("--- Performing data exploration for regression model")
   )
   features <- data4models %>% 
-    select(3:13) %>% 
+    select(c(3:11, 14, 15)) %>% 
     mutate(
       log_gdp = log(gdp_per_capita),
       log_min_wage = log(min_wage),
       log_cpi = log(cpi),
-      log_credit = log(credit)
+      log_lag_credit = log(lag_credit)
     ) %>% 
     select(
-      -c(gdp_per_capita, min_wage, cpi, credit)
+      -c(gdp_per_capita, min_wage, cpi, lag_credit)
     )
   
   # Summary Table
